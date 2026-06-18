@@ -1,0 +1,1288 @@
+intervention_id,student_id,intervention_type,intervention_date,staff_assigned,outcome
+2000,1000,Career Counseling,2023-12-19,Advisor Chen,No Response
+2001,1003,Career Counseling,2023-10-04,Advisor Smith,In Progress
+2002,1005,Career Counseling,2023-10-26,Advisor Jones,Follow-up Needed
+2003,1005,Financial Aid Guidance,2023-10-08,Advisor Smith,Follow-up Needed
+2004,1006,Financial Aid Guidance,2023-12-05,Advisor Chen,No Response
+2005,1006,Career Counseling,2023-12-17,Advisor Smith,In Progress
+2006,1007,Career Counseling,2023-11-19,Advisor Chen,Follow-up Needed
+2007,1010,At-Risk Outreach,2023-11-12,Advisor Jones,In Progress
+2008,1010,Career Counseling,2023-12-17,Advisor Smith,No Response
+2009,1012,Career Counseling,2023-10-22,Advisor Smith,In Progress
+2010,1012,At-Risk Outreach,2023-10-29,Advisor Garcia,Follow-up Needed
+2011,1015,Financial Aid Guidance,2023-11-14,Advisor Smith,Successful
+2012,1015,Career Counseling,2023-10-14,Advisor Smith,Successful
+2013,1016,Financial Aid Guidance,2023-10-11,Advisor Jones,No Response
+2014,1016,At-Risk Outreach,2023-11-08,Advisor Jones,No Response
+2015,1017,Financial Aid Guidance,2023-11-27,Advisor Jones,In Progress
+2016,1017,Career Counseling,2023-10-29,Advisor Jones,In Progress
+2017,1020,Academic Planning,2023-10-27,Advisor Smith,Follow-up Needed
+2018,1023,At-Risk Outreach,2023-10-29,Advisor Chen,Successful
+2019,1029,Career Counseling,2023-11-13,Advisor Chen,In Progress
+2020,1030,Career Counseling,2023-12-16,Advisor Smith,In Progress
+2021,1031,Academic Planning,2023-12-18,Advisor Chen,In Progress
+2022,1031,At-Risk Outreach,2023-12-08,Advisor Smith,In Progress
+2023,1032,Financial Aid Guidance,2023-11-01,Advisor Garcia,In Progress
+2024,1037,Career Counseling,2023-12-19,Advisor Jones,Follow-up Needed
+2025,1037,At-Risk Outreach,2023-10-27,Advisor Garcia,Follow-up Needed
+2026,1039,Financial Aid Guidance,2023-12-26,Advisor Garcia,In Progress
+2027,1042,Academic Planning,2023-12-07,Advisor Chen,In Progress
+2028,1045,Career Counseling,2023-11-01,Advisor Chen,In Progress
+2029,1045,Financial Aid Guidance,2023-10-17,Advisor Smith,Successful
+2030,1047,Financial Aid Guidance,2023-12-07,Advisor Chen,In Progress
+2031,1050,Academic Planning,2023-12-17,Advisor Chen,Follow-up Needed
+2032,1050,Academic Planning,2023-11-24,Advisor Garcia,Follow-up Needed
+2033,1052,Career Counseling,2023-10-02,Advisor Chen,Follow-up Needed
+2034,1052,Financial Aid Guidance,2023-10-22,Advisor Smith,Follow-up Needed
+2035,1053,Academic Planning,2023-10-22,Advisor Chen,No Response
+2036,1055,Financial Aid Guidance,2023-10-31,Advisor Smith,Successful
+2037,1056,At-Risk Outreach,2023-11-28,Advisor Smith,Follow-up Needed
+2038,1056,At-Risk Outreach,2023-10-27,Advisor Chen,Follow-up Needed
+2039,1057,At-Risk Outreach,2023-10-06,Advisor Jones,Successful
+2040,1057,Academic Planning,2023-10-09,Advisor Chen,In Progress
+2041,1062,Career Counseling,2023-12-04,Advisor Chen,Follow-up Needed
+2042,1071,Academic Planning,2023-11-05,Advisor Smith,No Response
+2043,1074,Career Counseling,2023-12-15,Advisor Smith,Successful
+2044,1075,Academic Planning,2023-12-04,Advisor Chen,Follow-up Needed
+2045,1075,At-Risk Outreach,2023-10-11,Advisor Chen,Follow-up Needed
+2046,1077,Career Counseling,2023-11-06,Advisor Jones,Successful
+2047,1077,Academic Planning,2023-10-21,Advisor Smith,Follow-up Needed
+2048,1079,Career Counseling,2023-12-02,Advisor Garcia,No Response
+2049,1089,Academic Planning,2023-12-26,Advisor Chen,Follow-up Needed
+2050,1092,At-Risk Outreach,2023-12-25,Advisor Smith,In Progress
+2051,1092,Academic Planning,2023-11-19,Advisor Smith,Follow-up Needed
+2052,1094,At-Risk Outreach,2023-10-26,Advisor Chen,Follow-up Needed
+2053,1094,Financial Aid Guidance,2023-11-17,Advisor Garcia,Follow-up Needed
+2054,1096,Career Counseling,2023-12-08,Advisor Smith,In Progress
+2055,1097,At-Risk Outreach,2023-12-14,Advisor Jones,In Progress
+2056,1097,Financial Aid Guidance,2023-12-20,Advisor Smith,Successful
+2057,1098,Career Counseling,2023-12-28,Advisor Chen,Follow-up Needed
+2058,1098,Financial Aid Guidance,2023-11-11,Advisor Jones,No Response
+2059,1099,Academic Planning,2023-12-24,Advisor Chen,Successful
+2060,1101,Academic Planning,2023-10-31,Advisor Jones,In Progress
+2061,1101,Academic Planning,2023-11-20,Advisor Smith,In Progress
+2062,1104,Career Counseling,2023-11-04,Advisor Chen,In Progress
+2063,1108,Financial Aid Guidance,2023-10-27,Advisor Garcia,In Progress
+2064,1108,Academic Planning,2023-12-21,Advisor Jones,In Progress
+2065,1114,Financial Aid Guidance,2023-12-10,Advisor Garcia,In Progress
+2066,1114,Academic Planning,2023-10-13,Advisor Jones,No Response
+2067,1116,Academic Planning,2023-12-26,Advisor Chen,Successful
+2068,1117,Financial Aid Guidance,2023-11-19,Advisor Smith,In Progress
+2069,1117,Financial Aid Guidance,2023-11-24,Advisor Garcia,Successful
+2070,1119,Career Counseling,2023-11-26,Advisor Chen,Successful
+2071,1119,At-Risk Outreach,2023-10-07,Advisor Chen,In Progress
+2072,1120,At-Risk Outreach,2023-10-21,Advisor Garcia,In Progress
+2073,1120,Career Counseling,2023-12-18,Advisor Garcia,No Response
+2074,1123,At-Risk Outreach,2023-10-11,Advisor Garcia,Successful
+2075,1123,At-Risk Outreach,2023-11-23,Advisor Garcia,Follow-up Needed
+2076,1138,At-Risk Outreach,2023-10-01,Advisor Jones,Follow-up Needed
+2077,1138,Academic Planning,2023-10-30,Advisor Garcia,Follow-up Needed
+2078,1144,Academic Planning,2023-10-06,Advisor Smith,Follow-up Needed
+2079,1148,At-Risk Outreach,2023-12-26,Advisor Smith,No Response
+2080,1148,Career Counseling,2023-10-13,Advisor Jones,No Response
+2081,1158,Academic Planning,2023-12-18,Advisor Garcia,Follow-up Needed
+2082,1158,Career Counseling,2023-11-18,Advisor Smith,No Response
+2083,1166,Career Counseling,2023-10-28,Advisor Smith,Follow-up Needed
+2084,1166,Financial Aid Guidance,2023-10-01,Advisor Chen,Follow-up Needed
+2085,1170,Career Counseling,2023-10-23,Advisor Smith,In Progress
+2086,1171,At-Risk Outreach,2023-12-08,Advisor Chen,Successful
+2087,1172,Career Counseling,2023-11-25,Advisor Jones,Successful
+2088,1172,Academic Planning,2023-10-24,Advisor Garcia,In Progress
+2089,1176,At-Risk Outreach,2023-12-15,Advisor Chen,Follow-up Needed
+2090,1178,Financial Aid Guidance,2023-11-20,Advisor Jones,In Progress
+2091,1180,At-Risk Outreach,2023-12-20,Advisor Smith,No Response
+2092,1180,Financial Aid Guidance,2023-10-28,Advisor Jones,Follow-up Needed
+2093,1182,Career Counseling,2023-10-14,Advisor Jones,In Progress
+2094,1183,Academic Planning,2023-11-09,Advisor Jones,No Response
+2095,1183,At-Risk Outreach,2023-10-18,Advisor Chen,Follow-up Needed
+2096,1186,At-Risk Outreach,2023-12-19,Advisor Garcia,Successful
+2097,1192,Career Counseling,2023-12-01,Advisor Chen,Follow-up Needed
+2098,1192,Financial Aid Guidance,2023-12-20,Advisor Chen,In Progress
+2099,1194,Financial Aid Guidance,2023-12-09,Advisor Chen,Successful
+2100,1199,Financial Aid Guidance,2023-11-29,Advisor Jones,Follow-up Needed
+2101,1200,Academic Planning,2023-10-26,Advisor Jones,No Response
+2102,1200,Career Counseling,2023-11-18,Advisor Garcia,In Progress
+2103,1201,Financial Aid Guidance,2023-10-25,Advisor Garcia,In Progress
+2104,1201,Career Counseling,2023-10-16,Advisor Jones,No Response
+2105,1203,Financial Aid Guidance,2023-10-07,Advisor Jones,In Progress
+2106,1205,Financial Aid Guidance,2023-12-07,Advisor Smith,In Progress
+2107,1205,Career Counseling,2023-10-06,Advisor Jones,Successful
+2108,1210,Financial Aid Guidance,2023-12-20,Advisor Jones,In Progress
+2109,1210,Academic Planning,2023-10-19,Advisor Chen,No Response
+2110,1217,Career Counseling,2023-11-14,Advisor Chen,In Progress
+2111,1220,At-Risk Outreach,2023-11-27,Advisor Chen,Follow-up Needed
+2112,1224,Career Counseling,2023-12-11,Advisor Garcia,In Progress
+2113,1224,Career Counseling,2023-12-05,Advisor Chen,Successful
+2114,1226,Financial Aid Guidance,2023-10-17,Advisor Smith,Successful
+2115,1226,Academic Planning,2023-10-10,Advisor Jones,Follow-up Needed
+2116,1229,Financial Aid Guidance,2023-10-01,Advisor Chen,Successful
+2117,1233,At-Risk Outreach,2023-11-30,Advisor Garcia,No Response
+2118,1234,At-Risk Outreach,2023-11-15,Advisor Smith,In Progress
+2119,1235,Financial Aid Guidance,2023-11-07,Advisor Garcia,Follow-up Needed
+2120,1238,Financial Aid Guidance,2023-10-23,Advisor Garcia,Successful
+2121,1238,Financial Aid Guidance,2023-11-19,Advisor Chen,Follow-up Needed
+2122,1241,At-Risk Outreach,2023-11-28,Advisor Jones,In Progress
+2123,1251,At-Risk Outreach,2023-12-15,Advisor Jones,Follow-up Needed
+2124,1251,Academic Planning,2023-12-07,Advisor Garcia,In Progress
+2125,1254,Career Counseling,2023-10-07,Advisor Jones,In Progress
+2126,1258,Financial Aid Guidance,2023-12-13,Advisor Chen,Successful
+2127,1262,Financial Aid Guidance,2023-12-20,Advisor Smith,Follow-up Needed
+2128,1262,Academic Planning,2023-12-06,Advisor Smith,Follow-up Needed
+2129,1264,Financial Aid Guidance,2023-10-04,Advisor Chen,No Response
+2130,1264,Financial Aid Guidance,2023-11-11,Advisor Smith,Successful
+2131,1268,Career Counseling,2023-10-09,Advisor Garcia,No Response
+2132,1271,Career Counseling,2023-12-27,Advisor Chen,In Progress
+2133,1274,Financial Aid Guidance,2023-12-06,Advisor Garcia,In Progress
+2134,1281,At-Risk Outreach,2023-12-17,Advisor Chen,No Response
+2135,1281,Financial Aid Guidance,2023-11-15,Advisor Chen,No Response
+2136,1282,Financial Aid Guidance,2023-11-24,Advisor Chen,In Progress
+2137,1282,Career Counseling,2023-12-14,Advisor Chen,Successful
+2138,1284,Career Counseling,2023-11-22,Advisor Garcia,In Progress
+2139,1284,Academic Planning,2023-12-10,Advisor Garcia,Follow-up Needed
+2140,1285,Career Counseling,2023-11-19,Advisor Chen,No Response
+2141,1288,Financial Aid Guidance,2023-11-05,Advisor Smith,Successful
+2142,1305,Academic Planning,2023-11-21,Advisor Smith,No Response
+2143,1313,Academic Planning,2023-11-29,Advisor Garcia,Successful
+2144,1315,Academic Planning,2023-11-06,Advisor Smith,Follow-up Needed
+2145,1316,At-Risk Outreach,2023-12-23,Advisor Jones,In Progress
+2146,1316,Financial Aid Guidance,2023-11-21,Advisor Jones,In Progress
+2147,1319,At-Risk Outreach,2023-12-15,Advisor Garcia,No Response
+2148,1320,At-Risk Outreach,2023-10-10,Advisor Chen,No Response
+2149,1321,Career Counseling,2023-11-05,Advisor Jones,In Progress
+2150,1321,Financial Aid Guidance,2023-11-03,Advisor Smith,In Progress
+2151,1322,Career Counseling,2023-10-29,Advisor Garcia,Follow-up Needed
+2152,1322,At-Risk Outreach,2023-10-03,Advisor Smith,Follow-up Needed
+2153,1324,Career Counseling,2023-12-08,Advisor Jones,In Progress
+2154,1324,At-Risk Outreach,2023-11-22,Advisor Chen,Successful
+2155,1326,Financial Aid Guidance,2023-11-16,Advisor Jones,In Progress
+2156,1327,Academic Planning,2023-12-21,Advisor Jones,No Response
+2157,1329,At-Risk Outreach,2023-11-11,Advisor Jones,No Response
+2158,1332,Academic Planning,2023-12-20,Advisor Chen,No Response
+2159,1333,Career Counseling,2023-11-19,Advisor Garcia,In Progress
+2160,1334,Career Counseling,2023-10-06,Advisor Chen,No Response
+2161,1334,Career Counseling,2023-11-08,Advisor Smith,Successful
+2162,1338,Academic Planning,2023-11-03,Advisor Garcia,In Progress
+2163,1340,Financial Aid Guidance,2023-12-04,Advisor Smith,Successful
+2164,1340,Academic Planning,2023-10-07,Advisor Garcia,No Response
+2165,1342,Financial Aid Guidance,2023-12-11,Advisor Smith,Successful
+2166,1342,Academic Planning,2023-10-28,Advisor Garcia,No Response
+2167,1345,Academic Planning,2023-12-10,Advisor Jones,Follow-up Needed
+2168,1345,At-Risk Outreach,2023-10-22,Advisor Garcia,Successful
+2169,1355,Career Counseling,2023-11-22,Advisor Garcia,Successful
+2170,1355,Career Counseling,2023-12-01,Advisor Smith,No Response
+2171,1362,Career Counseling,2023-10-06,Advisor Smith,Successful
+2172,1363,Career Counseling,2023-11-21,Advisor Jones,Successful
+2173,1363,Academic Planning,2023-11-22,Advisor Chen,Follow-up Needed
+2174,1370,Career Counseling,2023-10-31,Advisor Garcia,No Response
+2175,1373,Academic Planning,2023-10-28,Advisor Jones,Successful
+2176,1373,Financial Aid Guidance,2023-12-13,Advisor Smith,Successful
+2177,1375,Career Counseling,2023-12-21,Advisor Jones,Follow-up Needed
+2178,1382,Financial Aid Guidance,2023-10-12,Advisor Chen,In Progress
+2179,1382,At-Risk Outreach,2023-12-27,Advisor Jones,No Response
+2180,1393,Academic Planning,2023-11-18,Advisor Garcia,Follow-up Needed
+2181,1393,At-Risk Outreach,2023-12-22,Advisor Garcia,Successful
+2182,1396,At-Risk Outreach,2023-11-18,Advisor Smith,Follow-up Needed
+2183,1396,At-Risk Outreach,2023-12-12,Advisor Garcia,No Response
+2184,1398,At-Risk Outreach,2023-11-06,Advisor Jones,Follow-up Needed
+2185,1402,Academic Planning,2023-12-02,Advisor Smith,Successful
+2186,1402,At-Risk Outreach,2023-10-09,Advisor Chen,No Response
+2187,1403,Academic Planning,2023-11-26,Advisor Jones,No Response
+2188,1407,Academic Planning,2023-10-07,Advisor Garcia,In Progress
+2189,1408,At-Risk Outreach,2023-12-26,Advisor Garcia,In Progress
+2190,1416,Financial Aid Guidance,2023-11-05,Advisor Jones,No Response
+2191,1416,At-Risk Outreach,2023-11-13,Advisor Smith,In Progress
+2192,1421,At-Risk Outreach,2023-11-06,Advisor Jones,Follow-up Needed
+2193,1421,At-Risk Outreach,2023-10-12,Advisor Garcia,In Progress
+2194,1422,Financial Aid Guidance,2023-10-19,Advisor Garcia,Follow-up Needed
+2195,1422,Academic Planning,2023-12-29,Advisor Garcia,Follow-up Needed
+2196,1423,Financial Aid Guidance,2023-11-01,Advisor Smith,Follow-up Needed
+2197,1426,Career Counseling,2023-10-16,Advisor Chen,In Progress
+2198,1426,Academic Planning,2023-11-17,Advisor Garcia,In Progress
+2199,1435,Academic Planning,2023-12-22,Advisor Chen,In Progress
+2200,1435,Career Counseling,2023-10-17,Advisor Jones,Successful
+2201,1437,Financial Aid Guidance,2023-11-03,Advisor Smith,Successful
+2202,1438,Financial Aid Guidance,2023-11-29,Advisor Garcia,Follow-up Needed
+2203,1438,Academic Planning,2023-11-29,Advisor Garcia,In Progress
+2204,1443,Financial Aid Guidance,2023-11-03,Advisor Smith,Follow-up Needed
+2205,1443,Academic Planning,2023-11-29,Advisor Jones,Follow-up Needed
+2206,1446,Academic Planning,2023-12-29,Advisor Chen,No Response
+2207,1449,At-Risk Outreach,2023-10-24,Advisor Jones,No Response
+2208,1449,Financial Aid Guidance,2023-11-13,Advisor Smith,Follow-up Needed
+2209,1473,Financial Aid Guidance,2023-11-04,Advisor Smith,Follow-up Needed
+2210,1473,Financial Aid Guidance,2023-11-12,Advisor Chen,In Progress
+2211,1474,Career Counseling,2023-12-26,Advisor Jones,In Progress
+2212,1475,Financial Aid Guidance,2023-10-02,Advisor Jones,No Response
+2213,1478,Career Counseling,2023-10-08,Advisor Garcia,No Response
+2214,1478,Financial Aid Guidance,2023-12-02,Advisor Smith,No Response
+2215,1480,Financial Aid Guidance,2023-12-13,Advisor Garcia,Successful
+2216,1483,Academic Planning,2023-10-15,Advisor Chen,In Progress
+2217,1485,Academic Planning,2023-11-11,Advisor Jones,Successful
+2218,1491,Academic Planning,2023-10-23,Advisor Chen,Successful
+2219,1492,At-Risk Outreach,2023-11-26,Advisor Jones,No Response
+2220,1492,Financial Aid Guidance,2023-12-10,Advisor Smith,No Response
+2221,1493,Financial Aid Guidance,2023-11-19,Advisor Jones,Follow-up Needed
+2222,1497,Career Counseling,2023-12-07,Advisor Jones,In Progress
+2223,1511,Career Counseling,2023-12-17,Advisor Smith,Successful
+2224,1511,Career Counseling,2023-12-02,Advisor Garcia,No Response
+2225,1514,Academic Planning,2023-10-01,Advisor Jones,No Response
+2226,1525,Academic Planning,2023-10-18,Advisor Chen,Follow-up Needed
+2227,1525,Academic Planning,2023-11-05,Advisor Chen,Successful
+2228,1529,Career Counseling,2023-11-28,Advisor Garcia,Follow-up Needed
+2229,1532,At-Risk Outreach,2023-12-13,Advisor Garcia,In Progress
+2230,1532,Career Counseling,2023-12-21,Advisor Garcia,In Progress
+2231,1535,At-Risk Outreach,2023-12-19,Advisor Jones,In Progress
+2232,1535,Financial Aid Guidance,2023-12-11,Advisor Jones,Follow-up Needed
+2233,1536,Career Counseling,2023-12-23,Advisor Garcia,No Response
+2234,1536,Career Counseling,2023-10-31,Advisor Chen,No Response
+2235,1538,Financial Aid Guidance,2023-10-17,Advisor Garcia,In Progress
+2236,1538,Career Counseling,2023-10-23,Advisor Chen,Follow-up Needed
+2237,1539,At-Risk Outreach,2023-10-19,Advisor Garcia,Follow-up Needed
+2238,1540,Financial Aid Guidance,2023-10-24,Advisor Jones,In Progress
+2239,1541,Career Counseling,2023-11-03,Advisor Chen,Successful
+2240,1549,Academic Planning,2023-11-27,Advisor Chen,No Response
+2241,1551,At-Risk Outreach,2023-12-05,Advisor Smith,Follow-up Needed
+2242,1552,Academic Planning,2023-12-06,Advisor Chen,Follow-up Needed
+2243,1559,Career Counseling,2023-11-06,Advisor Chen,Follow-up Needed
+2244,1559,Academic Planning,2023-12-15,Advisor Chen,In Progress
+2245,1563,Financial Aid Guidance,2023-10-03,Advisor Chen,In Progress
+2246,1563,Academic Planning,2023-11-15,Advisor Jones,Follow-up Needed
+2247,1571,At-Risk Outreach,2023-10-10,Advisor Chen,Follow-up Needed
+2248,1571,At-Risk Outreach,2023-10-07,Advisor Smith,In Progress
+2249,1577,At-Risk Outreach,2023-12-22,Advisor Jones,No Response
+2250,1577,Academic Planning,2023-10-25,Advisor Smith,Successful
+2251,1581,At-Risk Outreach,2023-12-06,Advisor Chen,Follow-up Needed
+2252,1587,Academic Planning,2023-11-18,Advisor Jones,Successful
+2253,1587,Career Counseling,2023-11-26,Advisor Jones,Successful
+2254,1590,Career Counseling,2023-10-21,Advisor Chen,Successful
+2255,1591,Academic Planning,2023-12-03,Advisor Chen,In Progress
+2256,1591,Financial Aid Guidance,2023-11-05,Advisor Smith,No Response
+2257,1592,Academic Planning,2023-12-29,Advisor Smith,No Response
+2258,1592,Career Counseling,2023-12-27,Advisor Jones,Follow-up Needed
+2259,1595,Financial Aid Guidance,2023-10-02,Advisor Chen,No Response
+2260,1598,Financial Aid Guidance,2023-10-21,Advisor Smith,No Response
+2261,1598,Career Counseling,2023-11-01,Advisor Jones,In Progress
+2262,1599,At-Risk Outreach,2023-10-17,Advisor Garcia,In Progress
+2263,1603,At-Risk Outreach,2023-11-17,Advisor Jones,No Response
+2264,1603,Financial Aid Guidance,2023-12-21,Advisor Chen,Successful
+2265,1605,At-Risk Outreach,2023-11-13,Advisor Garcia,In Progress
+2266,1609,Career Counseling,2023-11-22,Advisor Smith,Successful
+2267,1609,Financial Aid Guidance,2023-10-28,Advisor Chen,No Response
+2268,1610,Career Counseling,2023-10-02,Advisor Smith,In Progress
+2269,1612,Academic Planning,2023-11-18,Advisor Smith,Follow-up Needed
+2270,1612,Career Counseling,2023-11-06,Advisor Garcia,Follow-up Needed
+2271,1624,Financial Aid Guidance,2023-12-18,Advisor Chen,In Progress
+2272,1624,Financial Aid Guidance,2023-11-15,Advisor Smith,Follow-up Needed
+2273,1626,Financial Aid Guidance,2023-11-06,Advisor Smith,Successful
+2274,1629,Academic Planning,2023-12-01,Advisor Garcia,In Progress
+2275,1629,Financial Aid Guidance,2023-10-14,Advisor Jones,Follow-up Needed
+2276,1632,Career Counseling,2023-10-05,Advisor Chen,Follow-up Needed
+2277,1634,Financial Aid Guidance,2023-11-22,Advisor Garcia,No Response
+2278,1639,At-Risk Outreach,2023-11-09,Advisor Jones,In Progress
+2279,1640,Career Counseling,2023-10-11,Advisor Smith,No Response
+2280,1640,Financial Aid Guidance,2023-10-21,Advisor Smith,No Response
+2281,1643,Career Counseling,2023-10-05,Advisor Smith,Follow-up Needed
+2282,1643,Financial Aid Guidance,2023-12-28,Advisor Jones,In Progress
+2283,1646,Academic Planning,2023-11-09,Advisor Smith,Successful
+2284,1649,Career Counseling,2023-10-21,Advisor Chen,No Response
+2285,1649,Financial Aid Guidance,2023-10-10,Advisor Jones,In Progress
+2286,1650,Financial Aid Guidance,2023-10-04,Advisor Smith,In Progress
+2287,1650,At-Risk Outreach,2023-11-20,Advisor Garcia,Successful
+2288,1652,Career Counseling,2023-10-26,Advisor Smith,Follow-up Needed
+2289,1664,At-Risk Outreach,2023-10-20,Advisor Jones,Follow-up Needed
+2290,1666,Academic Planning,2023-12-09,Advisor Smith,In Progress
+2291,1667,Academic Planning,2023-12-13,Advisor Smith,No Response
+2292,1667,At-Risk Outreach,2023-10-19,Advisor Garcia,Successful
+2293,1668,At-Risk Outreach,2023-12-23,Advisor Chen,Successful
+2294,1668,Financial Aid Guidance,2023-12-03,Advisor Smith,Follow-up Needed
+2295,1669,At-Risk Outreach,2023-12-13,Advisor Chen,No Response
+2296,1669,Career Counseling,2023-10-23,Advisor Chen,Successful
+2297,1673,Career Counseling,2023-12-05,Advisor Chen,Follow-up Needed
+2298,1679,At-Risk Outreach,2023-10-13,Advisor Jones,In Progress
+2299,1681,Career Counseling,2023-10-29,Advisor Garcia,No Response
+2300,1683,Career Counseling,2023-10-16,Advisor Jones,No Response
+2301,1683,Academic Planning,2023-10-23,Advisor Smith,Successful
+2302,1684,Financial Aid Guidance,2023-11-02,Advisor Jones,In Progress
+2303,1690,Career Counseling,2023-11-19,Advisor Chen,No Response
+2304,1690,Academic Planning,2023-11-13,Advisor Smith,Follow-up Needed
+2305,1693,Academic Planning,2023-11-14,Advisor Chen,Successful
+2306,1693,Career Counseling,2023-12-21,Advisor Chen,No Response
+2307,1695,Academic Planning,2023-11-12,Advisor Chen,Successful
+2308,1695,At-Risk Outreach,2023-10-01,Advisor Smith,Follow-up Needed
+2309,1699,At-Risk Outreach,2023-12-08,Advisor Smith,In Progress
+2310,1702,Academic Planning,2023-12-05,Advisor Garcia,In Progress
+2311,1708,Academic Planning,2023-10-11,Advisor Smith,Follow-up Needed
+2312,1709,At-Risk Outreach,2023-12-16,Advisor Chen,No Response
+2313,1710,Financial Aid Guidance,2023-10-14,Advisor Smith,No Response
+2314,1710,At-Risk Outreach,2023-12-04,Advisor Smith,No Response
+2315,1715,Academic Planning,2023-10-02,Advisor Jones,In Progress
+2316,1715,Career Counseling,2023-12-25,Advisor Chen,Follow-up Needed
+2317,1716,Financial Aid Guidance,2023-12-06,Advisor Garcia,Successful
+2318,1718,Academic Planning,2023-10-04,Advisor Chen,In Progress
+2319,1719,Academic Planning,2023-10-16,Advisor Garcia,No Response
+2320,1719,Academic Planning,2023-12-12,Advisor Garcia,Successful
+2321,1725,Career Counseling,2023-11-28,Advisor Jones,In Progress
+2322,1725,Academic Planning,2023-12-12,Advisor Smith,In Progress
+2323,1726,Academic Planning,2023-11-25,Advisor Jones,No Response
+2324,1726,Academic Planning,2023-10-26,Advisor Garcia,Successful
+2325,1728,At-Risk Outreach,2023-12-15,Advisor Smith,Successful
+2326,1728,Career Counseling,2023-12-25,Advisor Jones,No Response
+2327,1735,Academic Planning,2023-11-11,Advisor Smith,No Response
+2328,1740,Academic Planning,2023-10-17,Advisor Garcia,In Progress
+2329,1742,Career Counseling,2023-11-24,Advisor Chen,Successful
+2330,1746,Academic Planning,2023-11-25,Advisor Chen,Follow-up Needed
+2331,1749,Financial Aid Guidance,2023-11-16,Advisor Jones,No Response
+2332,1749,Career Counseling,2023-11-07,Advisor Smith,Successful
+2333,1757,At-Risk Outreach,2023-10-09,Advisor Chen,Successful
+2334,1757,At-Risk Outreach,2023-11-05,Advisor Garcia,No Response
+2335,1763,At-Risk Outreach,2023-10-28,Advisor Chen,Successful
+2336,1763,At-Risk Outreach,2023-11-25,Advisor Chen,In Progress
+2337,1767,Career Counseling,2023-11-08,Advisor Smith,No Response
+2338,1767,Career Counseling,2023-12-14,Advisor Smith,No Response
+2339,1769,Academic Planning,2023-11-10,Advisor Chen,No Response
+2340,1775,Career Counseling,2023-10-19,Advisor Chen,Follow-up Needed
+2341,1776,Career Counseling,2023-10-24,Advisor Chen,Follow-up Needed
+2342,1781,Financial Aid Guidance,2023-12-19,Advisor Smith,Successful
+2343,1781,Financial Aid Guidance,2023-10-04,Advisor Jones,Successful
+2344,1782,At-Risk Outreach,2023-12-20,Advisor Chen,In Progress
+2345,1782,Career Counseling,2023-10-26,Advisor Jones,Follow-up Needed
+2346,1784,Financial Aid Guidance,2023-10-09,Advisor Chen,Follow-up Needed
+2347,1788,Financial Aid Guidance,2023-10-31,Advisor Garcia,No Response
+2348,1788,At-Risk Outreach,2023-10-01,Advisor Jones,No Response
+2349,1795,Financial Aid Guidance,2023-11-28,Advisor Garcia,Successful
+2350,1805,Academic Planning,2023-11-15,Advisor Smith,No Response
+2351,1806,Career Counseling,2023-12-05,Advisor Jones,No Response
+2352,1806,At-Risk Outreach,2023-12-08,Advisor Smith,No Response
+2353,1808,Career Counseling,2023-10-01,Advisor Garcia,Successful
+2354,1813,At-Risk Outreach,2023-11-01,Advisor Chen,Successful
+2355,1813,Financial Aid Guidance,2023-10-11,Advisor Chen,In Progress
+2356,1816,At-Risk Outreach,2023-11-07,Advisor Jones,Follow-up Needed
+2357,1816,Academic Planning,2023-12-12,Advisor Garcia,No Response
+2358,1817,Financial Aid Guidance,2023-12-11,Advisor Smith,Follow-up Needed
+2359,1817,Academic Planning,2023-11-17,Advisor Jones,Follow-up Needed
+2360,1819,Career Counseling,2023-12-14,Advisor Smith,In Progress
+2361,1819,At-Risk Outreach,2023-12-15,Advisor Garcia,Follow-up Needed
+2362,1820,Career Counseling,2023-10-05,Advisor Chen,In Progress
+2363,1821,At-Risk Outreach,2023-10-03,Advisor Smith,In Progress
+2364,1821,Academic Planning,2023-12-03,Advisor Chen,No Response
+2365,1822,Financial Aid Guidance,2023-12-10,Advisor Chen,In Progress
+2366,1822,Career Counseling,2023-10-02,Advisor Garcia,In Progress
+2367,1823,Academic Planning,2023-10-07,Advisor Jones,Follow-up Needed
+2368,1825,At-Risk Outreach,2023-11-22,Advisor Chen,No Response
+2369,1829,Career Counseling,2023-12-07,Advisor Chen,Successful
+2370,1829,Financial Aid Guidance,2023-10-11,Advisor Smith,Follow-up Needed
+2371,1831,Financial Aid Guidance,2023-11-06,Advisor Chen,In Progress
+2372,1831,Academic Planning,2023-11-21,Advisor Garcia,In Progress
+2373,1835,At-Risk Outreach,2023-12-29,Advisor Chen,Successful
+2374,1842,Financial Aid Guidance,2023-11-18,Advisor Chen,Follow-up Needed
+2375,1842,Academic Planning,2023-10-13,Advisor Garcia,No Response
+2376,1843,Academic Planning,2023-11-24,Advisor Chen,Successful
+2377,1843,Financial Aid Guidance,2023-12-05,Advisor Jones,No Response
+2378,1847,Academic Planning,2023-12-21,Advisor Jones,Successful
+2379,1847,Career Counseling,2023-11-25,Advisor Jones,Successful
+2380,1849,Academic Planning,2023-12-28,Advisor Jones,No Response
+2381,1849,At-Risk Outreach,2023-11-07,Advisor Chen,No Response
+2382,1852,Academic Planning,2023-12-15,Advisor Garcia,Successful
+2383,1852,Academic Planning,2023-12-18,Advisor Jones,Follow-up Needed
+2384,1853,Academic Planning,2023-11-04,Advisor Jones,No Response
+2385,1853,Financial Aid Guidance,2023-10-30,Advisor Smith,No Response
+2386,1856,At-Risk Outreach,2023-12-22,Advisor Smith,Follow-up Needed
+2387,1856,Financial Aid Guidance,2023-12-11,Advisor Smith,Follow-up Needed
+2388,1867,Career Counseling,2023-11-11,Advisor Chen,Follow-up Needed
+2389,1867,Career Counseling,2023-12-26,Advisor Jones,Follow-up Needed
+2390,1872,Career Counseling,2023-12-27,Advisor Chen,Successful
+2391,1880,Financial Aid Guidance,2023-11-12,Advisor Chen,No Response
+2392,1881,Career Counseling,2023-12-27,Advisor Smith,Follow-up Needed
+2393,1881,Academic Planning,2023-12-05,Advisor Chen,Follow-up Needed
+2394,1889,Career Counseling,2023-11-28,Advisor Chen,No Response
+2395,1893,Career Counseling,2023-12-12,Advisor Garcia,Follow-up Needed
+2396,1893,Academic Planning,2023-11-23,Advisor Jones,In Progress
+2397,1895,Career Counseling,2023-10-13,Advisor Garcia,In Progress
+2398,1895,Financial Aid Guidance,2023-10-23,Advisor Garcia,No Response
+2399,1898,Academic Planning,2023-10-07,Advisor Jones,In Progress
+2400,1904,Career Counseling,2023-11-08,Advisor Garcia,In Progress
+2401,1904,Career Counseling,2023-12-07,Advisor Smith,No Response
+2402,1910,Financial Aid Guidance,2023-10-19,Advisor Jones,In Progress
+2403,1910,At-Risk Outreach,2023-10-10,Advisor Jones,No Response
+2404,1916,At-Risk Outreach,2023-10-20,Advisor Smith,In Progress
+2405,1916,Career Counseling,2023-10-29,Advisor Garcia,In Progress
+2406,1921,At-Risk Outreach,2023-12-11,Advisor Garcia,Successful
+2407,1922,At-Risk Outreach,2023-10-26,Advisor Chen,No Response
+2408,1925,At-Risk Outreach,2023-10-10,Advisor Smith,Successful
+2409,1925,Financial Aid Guidance,2023-12-07,Advisor Garcia,Successful
+2410,1927,Career Counseling,2023-11-03,Advisor Jones,Successful
+2411,1933,Career Counseling,2023-10-06,Advisor Garcia,Follow-up Needed
+2412,1933,At-Risk Outreach,2023-10-26,Advisor Chen,Successful
+2413,1935,Financial Aid Guidance,2023-10-06,Advisor Jones,No Response
+2414,1935,Career Counseling,2023-12-27,Advisor Garcia,No Response
+2415,1938,Academic Planning,2023-11-11,Advisor Jones,Successful
+2416,1938,Academic Planning,2023-10-30,Advisor Garcia,In Progress
+2417,1939,At-Risk Outreach,2023-10-03,Advisor Jones,Follow-up Needed
+2418,1939,Academic Planning,2023-12-21,Advisor Smith,Successful
+2419,1943,Academic Planning,2023-10-21,Advisor Jones,In Progress
+2420,1945,At-Risk Outreach,2023-11-17,Advisor Smith,No Response
+2421,1945,Financial Aid Guidance,2023-11-15,Advisor Chen,No Response
+2422,1955,Career Counseling,2023-11-20,Advisor Garcia,In Progress
+2423,1957,Financial Aid Guidance,2023-12-10,Advisor Jones,In Progress
+2424,1957,Career Counseling,2023-10-14,Advisor Jones,Successful
+2425,1958,Career Counseling,2023-10-20,Advisor Jones,In Progress
+2426,1958,At-Risk Outreach,2023-10-01,Advisor Garcia,No Response
+2427,1973,Career Counseling,2023-11-25,Advisor Chen,Follow-up Needed
+2428,1979,Career Counseling,2023-10-20,Advisor Garcia,Follow-up Needed
+2429,1979,Financial Aid Guidance,2023-12-18,Advisor Smith,Follow-up Needed
+2430,1980,At-Risk Outreach,2023-12-19,Advisor Smith,Successful
+2431,1985,Financial Aid Guidance,2023-10-24,Advisor Jones,In Progress
+2432,1986,Academic Planning,2023-11-26,Advisor Jones,In Progress
+2433,1988,At-Risk Outreach,2023-12-28,Advisor Garcia,Successful
+2434,1989,At-Risk Outreach,2023-10-06,Advisor Chen,Successful
+2435,1990,At-Risk Outreach,2023-10-24,Advisor Jones,No Response
+2436,1990,Academic Planning,2023-11-17,Advisor Chen,Follow-up Needed
+2437,1995,Career Counseling,2023-11-24,Advisor Jones,Successful
+2438,1995,Career Counseling,2023-12-03,Advisor Smith,No Response
+2439,1996,Financial Aid Guidance,2023-12-01,Advisor Jones,In Progress
+2440,1998,Financial Aid Guidance,2023-11-11,Advisor Smith,Follow-up Needed
+2441,1998,Academic Planning,2023-12-25,Advisor Jones,No Response
+2442,2000,Career Counseling,2023-12-06,Advisor Smith,In Progress
+2443,2000,Financial Aid Guidance,2023-11-18,Advisor Chen,Follow-up Needed
+2444,2005,At-Risk Outreach,2023-10-13,Advisor Smith,Successful
+2445,2005,Career Counseling,2023-12-03,Advisor Garcia,Successful
+2446,2006,Career Counseling,2023-11-03,Advisor Chen,No Response
+2447,2019,At-Risk Outreach,2023-10-01,Advisor Smith,In Progress
+2448,2019,Financial Aid Guidance,2023-12-02,Advisor Smith,No Response
+2449,2020,At-Risk Outreach,2023-10-17,Advisor Jones,No Response
+2450,2020,Financial Aid Guidance,2023-10-01,Advisor Chen,Successful
+2451,2023,Financial Aid Guidance,2023-12-08,Advisor Jones,No Response
+2452,2029,Career Counseling,2023-11-15,Advisor Jones,No Response
+2453,2029,At-Risk Outreach,2023-11-05,Advisor Chen,In Progress
+2454,2030,Academic Planning,2023-11-11,Advisor Jones,Successful
+2455,2037,At-Risk Outreach,2023-12-03,Advisor Jones,Successful
+2456,2038,At-Risk Outreach,2023-12-13,Advisor Smith,Successful
+2457,2043,Academic Planning,2023-11-22,Advisor Smith,Successful
+2458,2043,At-Risk Outreach,2023-10-14,Advisor Smith,No Response
+2459,2047,Career Counseling,2023-11-13,Advisor Garcia,No Response
+2460,2051,Financial Aid Guidance,2023-12-15,Advisor Smith,Follow-up Needed
+2461,2054,At-Risk Outreach,2023-10-20,Advisor Jones,Follow-up Needed
+2462,2054,Academic Planning,2023-11-22,Advisor Garcia,Follow-up Needed
+2463,2057,Financial Aid Guidance,2023-10-19,Advisor Chen,Follow-up Needed
+2464,2059,Career Counseling,2023-10-01,Advisor Chen,In Progress
+2465,2059,Career Counseling,2023-12-20,Advisor Jones,Follow-up Needed
+2466,2060,Career Counseling,2023-11-01,Advisor Chen,In Progress
+2467,2060,Financial Aid Guidance,2023-10-19,Advisor Smith,No Response
+2468,2072,Academic Planning,2023-10-29,Advisor Jones,Follow-up Needed
+2469,2072,Financial Aid Guidance,2023-10-11,Advisor Garcia,No Response
+2470,2074,Financial Aid Guidance,2023-10-22,Advisor Smith,No Response
+2471,2074,Career Counseling,2023-12-24,Advisor Jones,Follow-up Needed
+2472,2079,Career Counseling,2023-11-13,Advisor Chen,Successful
+2473,2084,At-Risk Outreach,2023-12-01,Advisor Chen,Follow-up Needed
+2474,2085,At-Risk Outreach,2023-10-31,Advisor Smith,No Response
+2475,2085,Financial Aid Guidance,2023-10-13,Advisor Smith,Successful
+2476,2086,At-Risk Outreach,2023-10-09,Advisor Garcia,Follow-up Needed
+2477,2086,At-Risk Outreach,2023-10-01,Advisor Chen,No Response
+2478,2087,Academic Planning,2023-11-01,Advisor Jones,Follow-up Needed
+2479,2087,Career Counseling,2023-11-19,Advisor Garcia,In Progress
+2480,2091,Academic Planning,2023-10-11,Advisor Garcia,No Response
+2481,2093,Career Counseling,2023-11-15,Advisor Smith,Follow-up Needed
+2482,2093,Academic Planning,2023-11-20,Advisor Garcia,Follow-up Needed
+2483,2094,At-Risk Outreach,2023-10-25,Advisor Jones,Follow-up Needed
+2484,2094,At-Risk Outreach,2023-11-09,Advisor Garcia,Successful
+2485,2095,Financial Aid Guidance,2023-12-27,Advisor Smith,Successful
+2486,2097,At-Risk Outreach,2023-10-31,Advisor Garcia,In Progress
+2487,2102,Career Counseling,2023-11-09,Advisor Jones,Successful
+2488,2102,Career Counseling,2023-10-15,Advisor Smith,Successful
+2489,2104,Financial Aid Guidance,2023-10-25,Advisor Garcia,Successful
+2490,2104,At-Risk Outreach,2023-11-27,Advisor Jones,In Progress
+2491,2110,Career Counseling,2023-10-13,Advisor Smith,Follow-up Needed
+2492,2110,Career Counseling,2023-10-21,Advisor Garcia,Follow-up Needed
+2493,2112,Academic Planning,2023-10-22,Advisor Jones,Successful
+2494,2118,At-Risk Outreach,2023-11-27,Advisor Chen,No Response
+2495,2123,Academic Planning,2023-11-30,Advisor Garcia,In Progress
+2496,2123,At-Risk Outreach,2023-11-19,Advisor Jones,Follow-up Needed
+2497,2131,At-Risk Outreach,2023-11-07,Advisor Jones,No Response
+2498,2135,Career Counseling,2023-11-12,Advisor Smith,Successful
+2499,2135,Financial Aid Guidance,2023-12-23,Advisor Garcia,No Response
+2500,2140,Financial Aid Guidance,2023-10-26,Advisor Jones,In Progress
+2501,2144,Academic Planning,2023-10-29,Advisor Jones,Follow-up Needed
+2502,2146,Financial Aid Guidance,2023-11-03,Advisor Smith,Successful
+2503,2146,Career Counseling,2023-10-10,Advisor Jones,Successful
+2504,2147,Academic Planning,2023-12-28,Advisor Jones,In Progress
+2505,2147,Career Counseling,2023-10-08,Advisor Smith,Successful
+2506,2152,At-Risk Outreach,2023-11-13,Advisor Chen,Follow-up Needed
+2507,2152,Financial Aid Guidance,2023-12-28,Advisor Garcia,Successful
+2508,2155,Career Counseling,2023-12-13,Advisor Chen,In Progress
+2509,2155,Financial Aid Guidance,2023-10-10,Advisor Garcia,In Progress
+2510,2156,Financial Aid Guidance,2023-10-20,Advisor Chen,Follow-up Needed
+2511,2157,Career Counseling,2023-10-20,Advisor Garcia,No Response
+2512,2157,At-Risk Outreach,2023-11-04,Advisor Smith,Follow-up Needed
+2513,2159,Academic Planning,2023-12-17,Advisor Garcia,In Progress
+2514,2159,Financial Aid Guidance,2023-11-23,Advisor Smith,Successful
+2515,2160,At-Risk Outreach,2023-10-25,Advisor Jones,Successful
+2516,2161,Academic Planning,2023-11-07,Advisor Smith,In Progress
+2517,2161,Financial Aid Guidance,2023-11-08,Advisor Garcia,Successful
+2518,2169,Academic Planning,2023-10-15,Advisor Jones,In Progress
+2519,2169,Career Counseling,2023-12-05,Advisor Chen,Successful
+2520,2171,Academic Planning,2023-10-05,Advisor Garcia,In Progress
+2521,2173,Academic Planning,2023-12-02,Advisor Smith,In Progress
+2522,2175,Career Counseling,2023-12-29,Advisor Chen,No Response
+2523,2180,Academic Planning,2023-10-24,Advisor Jones,Follow-up Needed
+2524,2181,At-Risk Outreach,2023-11-07,Advisor Jones,Successful
+2525,2187,Academic Planning,2023-12-08,Advisor Garcia,Follow-up Needed
+2526,2190,Academic Planning,2023-12-09,Advisor Smith,Follow-up Needed
+2527,2190,Academic Planning,2023-11-28,Advisor Smith,No Response
+2528,2194,Academic Planning,2023-10-21,Advisor Chen,Successful
+2529,2194,Academic Planning,2023-12-16,Advisor Smith,No Response
+2530,2195,At-Risk Outreach,2023-11-07,Advisor Chen,No Response
+2531,2198,Academic Planning,2023-12-15,Advisor Jones,No Response
+2532,2198,Academic Planning,2023-10-20,Advisor Garcia,No Response
+2533,2201,Financial Aid Guidance,2023-11-09,Advisor Jones,In Progress
+2534,2201,Career Counseling,2023-12-18,Advisor Jones,Follow-up Needed
+2535,2211,Career Counseling,2023-12-22,Advisor Chen,No Response
+2536,2211,Academic Planning,2023-10-13,Advisor Smith,Successful
+2537,2215,At-Risk Outreach,2023-12-05,Advisor Jones,In Progress
+2538,2217,Financial Aid Guidance,2023-10-02,Advisor Chen,In Progress
+2539,2217,Academic Planning,2023-10-01,Advisor Jones,Follow-up Needed
+2540,2218,Academic Planning,2023-11-13,Advisor Smith,Successful
+2541,2223,Financial Aid Guidance,2023-11-23,Advisor Jones,In Progress
+2542,2224,Financial Aid Guidance,2023-11-19,Advisor Chen,In Progress
+2543,2224,At-Risk Outreach,2023-10-04,Advisor Garcia,Follow-up Needed
+2544,2230,Financial Aid Guidance,2023-10-24,Advisor Smith,Successful
+2545,2231,Career Counseling,2023-10-11,Advisor Smith,In Progress
+2546,2233,Career Counseling,2023-11-07,Advisor Garcia,Follow-up Needed
+2547,2233,Financial Aid Guidance,2023-12-06,Advisor Jones,Follow-up Needed
+2548,2240,Career Counseling,2023-12-21,Advisor Chen,No Response
+2549,2245,Financial Aid Guidance,2023-10-01,Advisor Smith,In Progress
+2550,2247,At-Risk Outreach,2023-11-26,Advisor Smith,Successful
+2551,2251,Academic Planning,2023-11-08,Advisor Jones,Follow-up Needed
+2552,2252,At-Risk Outreach,2023-10-18,Advisor Chen,In Progress
+2553,2252,Career Counseling,2023-12-09,Advisor Garcia,No Response
+2554,2253,At-Risk Outreach,2023-10-31,Advisor Jones,Successful
+2555,2256,At-Risk Outreach,2023-12-04,Advisor Chen,Follow-up Needed
+2556,2258,Career Counseling,2023-10-16,Advisor Garcia,No Response
+2557,2259,Financial Aid Guidance,2023-10-11,Advisor Chen,Successful
+2558,2259,At-Risk Outreach,2023-10-21,Advisor Smith,In Progress
+2559,2263,Academic Planning,2023-11-12,Advisor Jones,Successful
+2560,2263,Financial Aid Guidance,2023-10-13,Advisor Smith,In Progress
+2561,2265,At-Risk Outreach,2023-10-08,Advisor Chen,No Response
+2562,2269,At-Risk Outreach,2023-10-31,Advisor Jones,Follow-up Needed
+2563,2270,Career Counseling,2023-12-28,Advisor Garcia,In Progress
+2564,2272,Financial Aid Guidance,2023-10-12,Advisor Smith,Successful
+2565,2272,At-Risk Outreach,2023-12-25,Advisor Chen,In Progress
+2566,2274,Career Counseling,2023-10-15,Advisor Jones,Follow-up Needed
+2567,2274,Career Counseling,2023-10-11,Advisor Smith,Successful
+2568,2275,Financial Aid Guidance,2023-11-24,Advisor Smith,Follow-up Needed
+2569,2276,Career Counseling,2023-12-23,Advisor Jones,In Progress
+2570,2278,Financial Aid Guidance,2023-10-07,Advisor Garcia,No Response
+2571,2278,At-Risk Outreach,2023-10-22,Advisor Jones,In Progress
+2572,2279,Financial Aid Guidance,2023-12-04,Advisor Chen,Successful
+2573,2281,Financial Aid Guidance,2023-10-24,Advisor Smith,Successful
+2574,2281,Academic Planning,2023-12-09,Advisor Jones,Follow-up Needed
+2575,2284,Financial Aid Guidance,2023-11-05,Advisor Garcia,No Response
+2576,2284,Financial Aid Guidance,2023-10-27,Advisor Jones,No Response
+2577,2288,At-Risk Outreach,2023-11-13,Advisor Smith,Successful
+2578,2288,Career Counseling,2023-10-15,Advisor Jones,In Progress
+2579,2295,At-Risk Outreach,2023-10-24,Advisor Garcia,No Response
+2580,2297,Financial Aid Guidance,2023-10-17,Advisor Chen,No Response
+2581,2307,Financial Aid Guidance,2023-11-14,Advisor Chen,In Progress
+2582,2312,At-Risk Outreach,2023-10-29,Advisor Smith,No Response
+2583,2314,Financial Aid Guidance,2023-10-10,Advisor Chen,No Response
+2584,2314,Financial Aid Guidance,2023-12-11,Advisor Jones,No Response
+2585,2315,Career Counseling,2023-12-26,Advisor Chen,Follow-up Needed
+2586,2322,At-Risk Outreach,2023-11-19,Advisor Jones,Follow-up Needed
+2587,2324,At-Risk Outreach,2023-12-19,Advisor Chen,Successful
+2588,2324,Career Counseling,2023-12-22,Advisor Chen,Successful
+2589,2333,At-Risk Outreach,2023-10-10,Advisor Garcia,No Response
+2590,2333,Career Counseling,2023-12-18,Advisor Garcia,No Response
+2591,2334,Career Counseling,2023-11-04,Advisor Garcia,Successful
+2592,2334,Career Counseling,2023-11-05,Advisor Smith,Successful
+2593,2338,Financial Aid Guidance,2023-11-11,Advisor Smith,Successful
+2594,2339,Career Counseling,2023-10-20,Advisor Jones,Follow-up Needed
+2595,2340,Career Counseling,2023-11-21,Advisor Garcia,Follow-up Needed
+2596,2340,At-Risk Outreach,2023-10-30,Advisor Garcia,In Progress
+2597,2342,Career Counseling,2023-11-06,Advisor Garcia,No Response
+2598,2343,Financial Aid Guidance,2023-11-10,Advisor Chen,In Progress
+2599,2343,Career Counseling,2023-12-12,Advisor Chen,Follow-up Needed
+2600,2346,Academic Planning,2023-10-24,Advisor Jones,Successful
+2601,2348,Career Counseling,2023-10-09,Advisor Smith,Follow-up Needed
+2602,2349,Academic Planning,2023-11-14,Advisor Jones,Successful
+2603,2350,At-Risk Outreach,2023-10-24,Advisor Smith,In Progress
+2604,2351,Financial Aid Guidance,2023-12-10,Advisor Smith,In Progress
+2605,2351,Career Counseling,2023-12-28,Advisor Garcia,Successful
+2606,2356,Career Counseling,2023-10-08,Advisor Smith,No Response
+2607,2365,Financial Aid Guidance,2023-12-02,Advisor Jones,Follow-up Needed
+2608,2369,At-Risk Outreach,2023-11-21,Advisor Smith,Successful
+2609,2369,Academic Planning,2023-11-27,Advisor Smith,Successful
+2610,2373,Career Counseling,2023-10-09,Advisor Smith,No Response
+2611,2373,Financial Aid Guidance,2023-11-05,Advisor Smith,No Response
+2612,2379,At-Risk Outreach,2023-10-07,Advisor Jones,No Response
+2613,2389,Financial Aid Guidance,2023-12-13,Advisor Jones,Follow-up Needed
+2614,2392,Financial Aid Guidance,2023-12-16,Advisor Jones,Successful
+2615,2394,Career Counseling,2023-12-12,Advisor Smith,Successful
+2616,2404,Financial Aid Guidance,2023-10-05,Advisor Jones,In Progress
+2617,2404,Career Counseling,2023-10-11,Advisor Garcia,Successful
+2618,2406,Career Counseling,2023-12-13,Advisor Garcia,Follow-up Needed
+2619,2406,At-Risk Outreach,2023-11-24,Advisor Chen,No Response
+2620,2420,Financial Aid Guidance,2023-11-14,Advisor Smith,In Progress
+2621,2420,Career Counseling,2023-10-04,Advisor Garcia,Successful
+2622,2421,Financial Aid Guidance,2023-12-02,Advisor Chen,No Response
+2623,2424,At-Risk Outreach,2023-10-24,Advisor Smith,In Progress
+2624,2424,Financial Aid Guidance,2023-10-26,Advisor Jones,Follow-up Needed
+2625,2426,Career Counseling,2023-11-03,Advisor Garcia,In Progress
+2626,2426,Financial Aid Guidance,2023-11-14,Advisor Smith,No Response
+2627,2428,Career Counseling,2023-10-04,Advisor Jones,Follow-up Needed
+2628,2428,Career Counseling,2023-10-23,Advisor Garcia,In Progress
+2629,2433,Financial Aid Guidance,2023-11-21,Advisor Smith,Successful
+2630,2433,Academic Planning,2023-11-28,Advisor Jones,In Progress
+2631,2437,Financial Aid Guidance,2023-10-23,Advisor Smith,In Progress
+2632,2438,Career Counseling,2023-10-04,Advisor Smith,Successful
+2633,2441,Career Counseling,2023-11-20,Advisor Jones,Successful
+2634,2443,Financial Aid Guidance,2023-11-13,Advisor Chen,Follow-up Needed
+2635,2443,Academic Planning,2023-11-10,Advisor Smith,In Progress
+2636,2445,Financial Aid Guidance,2023-10-31,Advisor Smith,In Progress
+2637,2445,Financial Aid Guidance,2023-11-11,Advisor Jones,Follow-up Needed
+2638,2451,Career Counseling,2023-11-06,Advisor Chen,Successful
+2639,2454,Academic Planning,2023-12-21,Advisor Jones,In Progress
+2640,2456,At-Risk Outreach,2023-12-21,Advisor Chen,Successful
+2641,2458,At-Risk Outreach,2023-12-15,Advisor Chen,In Progress
+2642,2463,At-Risk Outreach,2023-10-07,Advisor Jones,Successful
+2643,2463,Financial Aid Guidance,2023-11-26,Advisor Smith,No Response
+2644,2465,At-Risk Outreach,2023-12-17,Advisor Chen,In Progress
+2645,2476,Academic Planning,2023-12-26,Advisor Smith,No Response
+2646,2485,Academic Planning,2023-12-28,Advisor Jones,Follow-up Needed
+2647,2485,Career Counseling,2023-11-15,Advisor Jones,No Response
+2648,2486,Financial Aid Guidance,2023-12-12,Advisor Smith,No Response
+2649,2486,Academic Planning,2023-10-07,Advisor Garcia,In Progress
+2650,2488,Financial Aid Guidance,2023-10-13,Advisor Garcia,In Progress
+2651,2488,At-Risk Outreach,2023-11-22,Advisor Jones,Follow-up Needed
+2652,2490,At-Risk Outreach,2023-11-30,Advisor Garcia,Successful
+2653,2490,Career Counseling,2023-12-29,Advisor Chen,Successful
+2654,2497,Financial Aid Guidance,2023-11-09,Advisor Smith,No Response
+2655,2497,At-Risk Outreach,2023-12-21,Advisor Smith,In Progress
+2656,2505,Career Counseling,2023-12-01,Advisor Chen,Follow-up Needed
+2657,2505,Financial Aid Guidance,2023-12-01,Advisor Jones,Follow-up Needed
+2658,2506,Academic Planning,2023-11-29,Advisor Smith,No Response
+2659,2506,At-Risk Outreach,2023-11-01,Advisor Smith,No Response
+2660,2513,At-Risk Outreach,2023-12-16,Advisor Chen,No Response
+2661,2522,Financial Aid Guidance,2023-12-21,Advisor Chen,No Response
+2662,2522,Academic Planning,2023-10-16,Advisor Chen,No Response
+2663,2526,At-Risk Outreach,2023-10-13,Advisor Jones,Follow-up Needed
+2664,2526,Academic Planning,2023-12-21,Advisor Smith,In Progress
+2665,2529,At-Risk Outreach,2023-10-15,Advisor Smith,Follow-up Needed
+2666,2531,At-Risk Outreach,2023-11-23,Advisor Chen,Follow-up Needed
+2667,2534,At-Risk Outreach,2023-10-05,Advisor Garcia,No Response
+2668,2534,At-Risk Outreach,2023-12-15,Advisor Jones,Successful
+2669,2535,Career Counseling,2023-12-20,Advisor Smith,In Progress
+2670,2541,Academic Planning,2023-11-04,Advisor Jones,No Response
+2671,2541,At-Risk Outreach,2023-12-06,Advisor Garcia,Follow-up Needed
+2672,2544,Academic Planning,2023-11-10,Advisor Chen,Follow-up Needed
+2673,2547,Financial Aid Guidance,2023-10-24,Advisor Chen,Follow-up Needed
+2674,2548,At-Risk Outreach,2023-12-13,Advisor Garcia,In Progress
+2675,2548,Academic Planning,2023-10-03,Advisor Jones,In Progress
+2676,2549,Career Counseling,2023-10-19,Advisor Chen,Successful
+2677,2549,Career Counseling,2023-12-16,Advisor Chen,No Response
+2678,2550,At-Risk Outreach,2023-10-20,Advisor Chen,Successful
+2679,2550,Career Counseling,2023-12-25,Advisor Chen,Successful
+2680,2552,Academic Planning,2023-10-18,Advisor Chen,Follow-up Needed
+2681,2559,Career Counseling,2023-12-12,Advisor Smith,Successful
+2682,2560,At-Risk Outreach,2023-10-26,Advisor Smith,Successful
+2683,2560,Financial Aid Guidance,2023-10-22,Advisor Jones,Follow-up Needed
+2684,2562,Financial Aid Guidance,2023-11-21,Advisor Chen,Follow-up Needed
+2685,2563,At-Risk Outreach,2023-10-01,Advisor Garcia,Follow-up Needed
+2686,2563,Career Counseling,2023-12-18,Advisor Jones,Follow-up Needed
+2687,2566,At-Risk Outreach,2023-12-09,Advisor Smith,No Response
+2688,2567,Career Counseling,2023-12-25,Advisor Garcia,Follow-up Needed
+2689,2569,Financial Aid Guidance,2023-11-24,Advisor Jones,No Response
+2690,2576,Financial Aid Guidance,2023-12-19,Advisor Jones,Successful
+2691,2577,Academic Planning,2023-12-14,Advisor Garcia,Follow-up Needed
+2692,2578,Financial Aid Guidance,2023-12-11,Advisor Garcia,In Progress
+2693,2578,Academic Planning,2023-12-26,Advisor Jones,Follow-up Needed
+2694,2582,At-Risk Outreach,2023-11-11,Advisor Garcia,No Response
+2695,2582,At-Risk Outreach,2023-10-29,Advisor Garcia,Follow-up Needed
+2696,2589,At-Risk Outreach,2023-12-07,Advisor Smith,No Response
+2697,2596,Academic Planning,2023-10-17,Advisor Jones,Successful
+2698,2596,Academic Planning,2023-12-02,Advisor Jones,No Response
+2699,2597,Academic Planning,2023-11-23,Advisor Garcia,Successful
+2700,2598,At-Risk Outreach,2023-11-15,Advisor Garcia,In Progress
+2701,2598,At-Risk Outreach,2023-12-20,Advisor Jones,Successful
+2702,2601,At-Risk Outreach,2023-11-24,Advisor Garcia,In Progress
+2703,2601,Financial Aid Guidance,2023-12-19,Advisor Chen,In Progress
+2704,2605,Financial Aid Guidance,2023-12-23,Advisor Jones,In Progress
+2705,2611,Financial Aid Guidance,2023-12-05,Advisor Chen,Follow-up Needed
+2706,2611,Career Counseling,2023-11-24,Advisor Garcia,Follow-up Needed
+2707,2616,Financial Aid Guidance,2023-10-21,Advisor Smith,Follow-up Needed
+2708,2616,Academic Planning,2023-12-26,Advisor Jones,In Progress
+2709,2623,Academic Planning,2023-11-21,Advisor Smith,No Response
+2710,2626,Career Counseling,2023-12-28,Advisor Smith,Follow-up Needed
+2711,2629,Academic Planning,2023-10-11,Advisor Chen,Follow-up Needed
+2712,2630,Financial Aid Guidance,2023-11-14,Advisor Chen,In Progress
+2713,2633,At-Risk Outreach,2023-11-15,Advisor Chen,No Response
+2714,2633,Career Counseling,2023-10-04,Advisor Smith,Successful
+2715,2634,Career Counseling,2023-12-28,Advisor Smith,Successful
+2716,2638,Academic Planning,2023-10-22,Advisor Chen,No Response
+2717,2638,Financial Aid Guidance,2023-10-11,Advisor Chen,No Response
+2718,2639,Career Counseling,2023-12-08,Advisor Jones,In Progress
+2719,2639,At-Risk Outreach,2023-12-20,Advisor Jones,Successful
+2720,2640,Career Counseling,2023-11-11,Advisor Jones,In Progress
+2721,2640,At-Risk Outreach,2023-10-28,Advisor Chen,In Progress
+2722,2643,At-Risk Outreach,2023-10-21,Advisor Chen,Successful
+2723,2643,Financial Aid Guidance,2023-11-26,Advisor Smith,Successful
+2724,2646,Academic Planning,2023-12-12,Advisor Smith,Follow-up Needed
+2725,2650,Career Counseling,2023-12-13,Advisor Garcia,Successful
+2726,2651,Financial Aid Guidance,2023-12-24,Advisor Jones,Follow-up Needed
+2727,2651,At-Risk Outreach,2023-11-25,Advisor Chen,Follow-up Needed
+2728,2653,Academic Planning,2023-12-28,Advisor Smith,Successful
+2729,2659,At-Risk Outreach,2023-12-19,Advisor Chen,In Progress
+2730,2659,At-Risk Outreach,2023-10-28,Advisor Chen,No Response
+2731,2662,Academic Planning,2023-12-26,Advisor Chen,In Progress
+2732,2662,Financial Aid Guidance,2023-12-13,Advisor Chen,Successful
+2733,2670,Financial Aid Guidance,2023-11-27,Advisor Garcia,In Progress
+2734,2675,Financial Aid Guidance,2023-10-10,Advisor Jones,No Response
+2735,2678,Career Counseling,2023-10-10,Advisor Smith,No Response
+2736,2681,Academic Planning,2023-12-02,Advisor Jones,No Response
+2737,2681,Academic Planning,2023-12-14,Advisor Chen,Follow-up Needed
+2738,2685,Financial Aid Guidance,2023-12-25,Advisor Jones,Follow-up Needed
+2739,2685,Financial Aid Guidance,2023-10-06,Advisor Jones,Follow-up Needed
+2740,2692,Academic Planning,2023-12-07,Advisor Chen,Successful
+2741,2700,Career Counseling,2023-10-29,Advisor Chen,In Progress
+2742,2702,At-Risk Outreach,2023-10-12,Advisor Smith,Successful
+2743,2702,Career Counseling,2023-10-08,Advisor Chen,Follow-up Needed
+2744,2703,Career Counseling,2023-10-04,Advisor Jones,In Progress
+2745,2703,At-Risk Outreach,2023-11-13,Advisor Garcia,No Response
+2746,2704,Career Counseling,2023-11-20,Advisor Garcia,Successful
+2747,2716,At-Risk Outreach,2023-11-05,Advisor Jones,Follow-up Needed
+2748,2716,Financial Aid Guidance,2023-11-29,Advisor Garcia,No Response
+2749,2719,Academic Planning,2023-11-24,Advisor Chen,Follow-up Needed
+2750,2719,Academic Planning,2023-10-05,Advisor Garcia,No Response
+2751,2721,At-Risk Outreach,2023-11-04,Advisor Smith,Successful
+2752,2721,Financial Aid Guidance,2023-11-15,Advisor Smith,Follow-up Needed
+2753,2724,Financial Aid Guidance,2023-12-16,Advisor Jones,Successful
+2754,2725,At-Risk Outreach,2023-10-11,Advisor Jones,Successful
+2755,2726,Career Counseling,2023-10-13,Advisor Smith,Successful
+2756,2726,Academic Planning,2023-10-10,Advisor Smith,Follow-up Needed
+2757,2730,At-Risk Outreach,2023-10-20,Advisor Chen,Successful
+2758,2730,Career Counseling,2023-12-08,Advisor Smith,Successful
+2759,2731,At-Risk Outreach,2023-11-02,Advisor Smith,In Progress
+2760,2735,Financial Aid Guidance,2023-10-06,Advisor Garcia,No Response
+2761,2735,At-Risk Outreach,2023-10-09,Advisor Smith,In Progress
+2762,2736,Academic Planning,2023-10-26,Advisor Garcia,In Progress
+2763,2738,Career Counseling,2023-11-26,Advisor Garcia,No Response
+2764,2738,Academic Planning,2023-12-19,Advisor Smith,In Progress
+2765,2739,Financial Aid Guidance,2023-12-12,Advisor Chen,Successful
+2766,2748,Career Counseling,2023-10-23,Advisor Garcia,No Response
+2767,2748,At-Risk Outreach,2023-12-27,Advisor Jones,No Response
+2768,2750,Academic Planning,2023-11-16,Advisor Jones,No Response
+2769,2751,Academic Planning,2023-11-17,Advisor Garcia,In Progress
+2770,2751,Financial Aid Guidance,2023-10-21,Advisor Garcia,Successful
+2771,2753,At-Risk Outreach,2023-10-19,Advisor Smith,Successful
+2772,2753,Career Counseling,2023-12-25,Advisor Smith,No Response
+2773,2756,Academic Planning,2023-12-17,Advisor Jones,Successful
+2774,2758,Financial Aid Guidance,2023-12-15,Advisor Garcia,In Progress
+2775,2758,Financial Aid Guidance,2023-12-25,Advisor Garcia,Follow-up Needed
+2776,2763,At-Risk Outreach,2023-10-23,Advisor Chen,In Progress
+2777,2766,At-Risk Outreach,2023-12-18,Advisor Garcia,In Progress
+2778,2766,Financial Aid Guidance,2023-10-11,Advisor Jones,Successful
+2779,2769,At-Risk Outreach,2023-11-03,Advisor Jones,Follow-up Needed
+2780,2769,Career Counseling,2023-10-16,Advisor Garcia,Follow-up Needed
+2781,2772,Academic Planning,2023-12-08,Advisor Chen,No Response
+2782,2772,Academic Planning,2023-10-19,Advisor Smith,Follow-up Needed
+2783,2774,Financial Aid Guidance,2023-12-12,Advisor Jones,No Response
+2784,2779,At-Risk Outreach,2023-11-24,Advisor Jones,No Response
+2785,2784,At-Risk Outreach,2023-10-14,Advisor Garcia,Follow-up Needed
+2786,2786,At-Risk Outreach,2023-11-05,Advisor Garcia,No Response
+2787,2786,Financial Aid Guidance,2023-12-15,Advisor Smith,Successful
+2788,2794,Financial Aid Guidance,2023-11-03,Advisor Jones,In Progress
+2789,2796,Academic Planning,2023-10-30,Advisor Chen,Successful
+2790,2800,At-Risk Outreach,2023-12-29,Advisor Garcia,Successful
+2791,2800,Career Counseling,2023-11-14,Advisor Chen,In Progress
+2792,2807,Career Counseling,2023-11-16,Advisor Garcia,Follow-up Needed
+2793,2807,Financial Aid Guidance,2023-10-29,Advisor Jones,No Response
+2794,2810,Financial Aid Guidance,2023-12-12,Advisor Chen,No Response
+2795,2810,Financial Aid Guidance,2023-12-27,Advisor Chen,Successful
+2796,2822,Financial Aid Guidance,2023-11-02,Advisor Garcia,Follow-up Needed
+2797,2829,Career Counseling,2023-10-01,Advisor Jones,In Progress
+2798,2830,Career Counseling,2023-12-05,Advisor Smith,No Response
+2799,2833,Financial Aid Guidance,2023-11-19,Advisor Garcia,No Response
+2800,2836,Career Counseling,2023-11-29,Advisor Garcia,In Progress
+2801,2836,Financial Aid Guidance,2023-10-08,Advisor Garcia,In Progress
+2802,2840,Academic Planning,2023-11-29,Advisor Smith,Follow-up Needed
+2803,2840,Career Counseling,2023-11-01,Advisor Jones,No Response
+2804,2842,At-Risk Outreach,2023-12-28,Advisor Smith,Follow-up Needed
+2805,2845,At-Risk Outreach,2023-10-16,Advisor Jones,Follow-up Needed
+2806,2845,At-Risk Outreach,2023-10-07,Advisor Smith,In Progress
+2807,2846,Academic Planning,2023-12-13,Advisor Chen,In Progress
+2808,2849,At-Risk Outreach,2023-10-01,Advisor Garcia,In Progress
+2809,2849,Career Counseling,2023-12-02,Advisor Jones,No Response
+2810,2850,Financial Aid Guidance,2023-10-02,Advisor Chen,Successful
+2811,2850,Career Counseling,2023-11-01,Advisor Jones,In Progress
+2812,2854,At-Risk Outreach,2023-12-25,Advisor Chen,In Progress
+2813,2855,Financial Aid Guidance,2023-10-03,Advisor Jones,No Response
+2814,2861,Academic Planning,2023-10-21,Advisor Smith,No Response
+2815,2865,At-Risk Outreach,2023-12-10,Advisor Garcia,Follow-up Needed
+2816,2865,Financial Aid Guidance,2023-11-01,Advisor Smith,In Progress
+2817,2869,Financial Aid Guidance,2023-12-20,Advisor Chen,Follow-up Needed
+2818,2869,Academic Planning,2023-12-01,Advisor Garcia,Successful
+2819,2872,Career Counseling,2023-10-03,Advisor Jones,Successful
+2820,2872,Financial Aid Guidance,2023-11-08,Advisor Jones,Successful
+2821,2874,Academic Planning,2023-10-13,Advisor Chen,Successful
+2822,2876,At-Risk Outreach,2023-11-12,Advisor Garcia,Follow-up Needed
+2823,2880,Financial Aid Guidance,2023-12-07,Advisor Jones,Successful
+2824,2880,Financial Aid Guidance,2023-12-18,Advisor Chen,Successful
+2825,2882,Career Counseling,2023-12-01,Advisor Garcia,Follow-up Needed
+2826,2883,At-Risk Outreach,2023-11-18,Advisor Smith,Successful
+2827,2886,Financial Aid Guidance,2023-11-10,Advisor Garcia,Follow-up Needed
+2828,2890,Career Counseling,2023-11-09,Advisor Jones,Follow-up Needed
+2829,2890,Academic Planning,2023-10-10,Advisor Smith,In Progress
+2830,2891,Financial Aid Guidance,2023-11-15,Advisor Garcia,No Response
+2831,2900,Career Counseling,2023-10-17,Advisor Chen,Follow-up Needed
+2832,2909,Academic Planning,2023-12-01,Advisor Chen,Follow-up Needed
+2833,2909,Academic Planning,2023-10-26,Advisor Jones,Successful
+2834,2917,Academic Planning,2023-10-05,Advisor Garcia,No Response
+2835,2922,Financial Aid Guidance,2023-11-20,Advisor Jones,No Response
+2836,2923,Career Counseling,2023-10-23,Advisor Smith,No Response
+2837,2924,At-Risk Outreach,2023-11-18,Advisor Chen,Follow-up Needed
+2838,2927,At-Risk Outreach,2023-10-13,Advisor Chen,No Response
+2839,2927,Academic Planning,2023-11-07,Advisor Garcia,Follow-up Needed
+2840,2928,Financial Aid Guidance,2023-12-04,Advisor Jones,No Response
+2841,2930,Academic Planning,2023-10-04,Advisor Garcia,In Progress
+2842,2931,At-Risk Outreach,2023-12-18,Advisor Chen,Successful
+2843,2932,Career Counseling,2023-12-18,Advisor Smith,Successful
+2844,2936,Academic Planning,2023-11-16,Advisor Garcia,No Response
+2845,2938,Financial Aid Guidance,2023-12-24,Advisor Smith,In Progress
+2846,2938,Career Counseling,2023-12-26,Advisor Smith,No Response
+2847,2941,At-Risk Outreach,2023-10-18,Advisor Garcia,In Progress
+2848,2941,At-Risk Outreach,2023-12-01,Advisor Garcia,Follow-up Needed
+2849,2944,At-Risk Outreach,2023-10-01,Advisor Jones,Follow-up Needed
+2850,2944,Academic Planning,2023-10-23,Advisor Smith,No Response
+2851,2950,Career Counseling,2023-11-07,Advisor Chen,In Progress
+2852,2950,Career Counseling,2023-11-08,Advisor Jones,Follow-up Needed
+2853,2954,Academic Planning,2023-11-26,Advisor Smith,In Progress
+2854,2954,Career Counseling,2023-11-20,Advisor Smith,No Response
+2855,2955,At-Risk Outreach,2023-11-01,Advisor Garcia,In Progress
+2856,2955,Financial Aid Guidance,2023-10-15,Advisor Garcia,Successful
+2857,2959,Financial Aid Guidance,2023-12-16,Advisor Chen,Follow-up Needed
+2858,2961,Career Counseling,2023-10-02,Advisor Smith,Successful
+2859,2962,Financial Aid Guidance,2023-10-29,Advisor Chen,Follow-up Needed
+2860,2962,Career Counseling,2023-10-30,Advisor Garcia,No Response
+2861,2967,Financial Aid Guidance,2023-12-26,Advisor Chen,Follow-up Needed
+2862,2967,At-Risk Outreach,2023-10-04,Advisor Chen,Successful
+2863,2969,Career Counseling,2023-10-02,Advisor Chen,Successful
+2864,2969,Academic Planning,2023-12-27,Advisor Garcia,Successful
+2865,2979,Academic Planning,2023-11-16,Advisor Jones,In Progress
+2866,2981,At-Risk Outreach,2023-11-20,Advisor Jones,Successful
+2867,2983,Career Counseling,2023-12-28,Advisor Chen,Successful
+2868,2983,Career Counseling,2023-12-20,Advisor Jones,No Response
+2869,2990,Academic Planning,2023-11-12,Advisor Garcia,In Progress
+2870,2990,Financial Aid Guidance,2023-10-23,Advisor Chen,In Progress
+2871,2991,Career Counseling,2023-10-21,Advisor Jones,No Response
+2872,2991,Career Counseling,2023-11-29,Advisor Smith,Successful
+2873,2993,Career Counseling,2023-11-14,Advisor Garcia,Successful
+2874,2995,At-Risk Outreach,2023-12-08,Advisor Smith,No Response
+2875,2995,Financial Aid Guidance,2023-12-25,Advisor Jones,Successful
+2876,2998,Academic Planning,2023-12-25,Advisor Smith,Successful
+2877,3000,Academic Planning,2023-11-14,Advisor Chen,In Progress
+2878,3001,At-Risk Outreach,2023-12-14,Advisor Chen,In Progress
+2879,3001,Financial Aid Guidance,2023-12-24,Advisor Smith,Successful
+2880,3002,At-Risk Outreach,2023-10-21,Advisor Garcia,Successful
+2881,3002,Academic Planning,2023-12-28,Advisor Smith,Follow-up Needed
+2882,3005,At-Risk Outreach,2023-10-19,Advisor Chen,Follow-up Needed
+2883,3005,Career Counseling,2023-12-08,Advisor Smith,Follow-up Needed
+2884,3009,Career Counseling,2023-12-04,Advisor Jones,Follow-up Needed
+2885,3009,Financial Aid Guidance,2023-10-18,Advisor Garcia,Successful
+2886,3010,Financial Aid Guidance,2023-12-17,Advisor Smith,In Progress
+2887,3010,Career Counseling,2023-12-20,Advisor Garcia,No Response
+2888,3025,Career Counseling,2023-12-19,Advisor Jones,No Response
+2889,3025,Financial Aid Guidance,2023-12-01,Advisor Chen,Successful
+2890,3027,Career Counseling,2023-12-19,Advisor Jones,In Progress
+2891,3045,At-Risk Outreach,2023-12-06,Advisor Chen,In Progress
+2892,3045,Academic Planning,2023-10-14,Advisor Smith,In Progress
+2893,3048,At-Risk Outreach,2023-11-26,Advisor Garcia,In Progress
+2894,3050,Financial Aid Guidance,2023-12-03,Advisor Garcia,Follow-up Needed
+2895,3052,Career Counseling,2023-12-04,Advisor Garcia,No Response
+2896,3056,Academic Planning,2023-10-23,Advisor Smith,Follow-up Needed
+2897,3057,Career Counseling,2023-11-03,Advisor Garcia,Follow-up Needed
+2898,3057,Academic Planning,2023-11-15,Advisor Chen,Successful
+2899,3063,Financial Aid Guidance,2023-10-20,Advisor Garcia,Successful
+2900,3065,At-Risk Outreach,2023-11-29,Advisor Smith,Successful
+2901,3065,At-Risk Outreach,2023-11-14,Advisor Chen,Follow-up Needed
+2902,3067,Academic Planning,2023-12-22,Advisor Jones,No Response
+2903,3073,Career Counseling,2023-10-08,Advisor Smith,Successful
+2904,3073,At-Risk Outreach,2023-12-24,Advisor Garcia,No Response
+2905,3074,At-Risk Outreach,2023-12-05,Advisor Chen,Follow-up Needed
+2906,3076,Financial Aid Guidance,2023-11-24,Advisor Chen,In Progress
+2907,3083,Career Counseling,2023-12-08,Advisor Garcia,In Progress
+2908,3083,Career Counseling,2023-11-04,Advisor Jones,In Progress
+2909,3086,Financial Aid Guidance,2023-12-18,Advisor Jones,No Response
+2910,3093,Financial Aid Guidance,2023-12-26,Advisor Jones,No Response
+2911,3098,Career Counseling,2023-11-11,Advisor Smith,Follow-up Needed
+2912,3098,At-Risk Outreach,2023-10-09,Advisor Chen,Follow-up Needed
+2913,3101,At-Risk Outreach,2023-10-18,Advisor Chen,No Response
+2914,3113,Career Counseling,2023-12-17,Advisor Jones,No Response
+2915,3114,Career Counseling,2023-11-29,Advisor Chen,No Response
+2916,3114,Financial Aid Guidance,2023-12-23,Advisor Garcia,Successful
+2917,3121,Academic Planning,2023-10-17,Advisor Smith,Successful
+2918,3128,At-Risk Outreach,2023-12-26,Advisor Smith,In Progress
+2919,3128,At-Risk Outreach,2023-10-23,Advisor Jones,Follow-up Needed
+2920,3132,Career Counseling,2023-12-04,Advisor Jones,Follow-up Needed
+2921,3133,Financial Aid Guidance,2023-12-18,Advisor Garcia,Follow-up Needed
+2922,3133,Academic Planning,2023-10-30,Advisor Smith,In Progress
+2923,3153,Academic Planning,2023-11-05,Advisor Garcia,Follow-up Needed
+2924,3153,Academic Planning,2023-10-03,Advisor Jones,In Progress
+2925,3155,Career Counseling,2023-11-21,Advisor Garcia,No Response
+2926,3155,Financial Aid Guidance,2023-10-19,Advisor Chen,No Response
+2927,3160,Career Counseling,2023-10-08,Advisor Jones,Successful
+2928,3162,Career Counseling,2023-11-05,Advisor Garcia,Follow-up Needed
+2929,3162,At-Risk Outreach,2023-10-10,Advisor Chen,In Progress
+2930,3165,Academic Planning,2023-10-01,Advisor Garcia,In Progress
+2931,3165,Financial Aid Guidance,2023-10-18,Advisor Jones,Successful
+2932,3168,At-Risk Outreach,2023-10-15,Advisor Garcia,Successful
+2933,3168,Financial Aid Guidance,2023-10-19,Advisor Chen,Follow-up Needed
+2934,3169,Career Counseling,2023-10-28,Advisor Jones,Successful
+2935,3170,Academic Planning,2023-12-04,Advisor Garcia,In Progress
+2936,3173,Academic Planning,2023-10-04,Advisor Jones,Follow-up Needed
+2937,3173,At-Risk Outreach,2023-12-15,Advisor Jones,In Progress
+2938,3176,At-Risk Outreach,2023-12-22,Advisor Smith,Follow-up Needed
+2939,3181,At-Risk Outreach,2023-12-22,Advisor Chen,Successful
+2940,3182,Financial Aid Guidance,2023-12-08,Advisor Garcia,Successful
+2941,3184,Financial Aid Guidance,2023-10-24,Advisor Smith,No Response
+2942,3184,Career Counseling,2023-11-27,Advisor Jones,No Response
+2943,3187,Academic Planning,2023-11-14,Advisor Chen,In Progress
+2944,3187,Academic Planning,2023-12-24,Advisor Chen,Successful
+2945,3190,Financial Aid Guidance,2023-10-11,Advisor Smith,In Progress
+2946,3190,Academic Planning,2023-10-19,Advisor Chen,Successful
+2947,3191,Academic Planning,2023-11-22,Advisor Garcia,Follow-up Needed
+2948,3193,Financial Aid Guidance,2023-12-21,Advisor Chen,Follow-up Needed
+2949,3193,Financial Aid Guidance,2023-12-22,Advisor Chen,No Response
+2950,3200,Financial Aid Guidance,2023-10-11,Advisor Garcia,No Response
+2951,3200,Career Counseling,2023-12-19,Advisor Chen,Follow-up Needed
+2952,3203,Financial Aid Guidance,2023-12-09,Advisor Garcia,Follow-up Needed
+2953,3203,Career Counseling,2023-12-15,Advisor Jones,No Response
+2954,3206,Financial Aid Guidance,2023-10-15,Advisor Garcia,In Progress
+2955,3206,At-Risk Outreach,2023-11-26,Advisor Garcia,Follow-up Needed
+2956,3211,Financial Aid Guidance,2023-11-04,Advisor Smith,Follow-up Needed
+2957,3218,Academic Planning,2023-11-04,Advisor Smith,No Response
+2958,3218,Academic Planning,2023-12-06,Advisor Smith,In Progress
+2959,3231,Academic Planning,2023-11-07,Advisor Jones,No Response
+2960,3236,Career Counseling,2023-12-05,Advisor Smith,In Progress
+2961,3243,At-Risk Outreach,2023-10-21,Advisor Jones,In Progress
+2962,3243,At-Risk Outreach,2023-12-08,Advisor Chen,Follow-up Needed
+2963,3246,Academic Planning,2023-11-28,Advisor Garcia,In Progress
+2964,3249,At-Risk Outreach,2023-11-17,Advisor Garcia,Follow-up Needed
+2965,3249,Financial Aid Guidance,2023-12-15,Advisor Jones,Successful
+2966,3262,At-Risk Outreach,2023-11-04,Advisor Chen,Follow-up Needed
+2967,3263,At-Risk Outreach,2023-11-05,Advisor Chen,In Progress
+2968,3270,Financial Aid Guidance,2023-10-22,Advisor Smith,Successful
+2969,3270,Academic Planning,2023-12-02,Advisor Smith,No Response
+2970,3277,Career Counseling,2023-12-20,Advisor Smith,Follow-up Needed
+2971,3278,Academic Planning,2023-10-18,Advisor Jones,Successful
+2972,3279,Career Counseling,2023-10-17,Advisor Smith,Successful
+2973,3279,Financial Aid Guidance,2023-11-24,Advisor Jones,In Progress
+2974,3284,Financial Aid Guidance,2023-10-28,Advisor Jones,No Response
+2975,3285,Career Counseling,2023-11-08,Advisor Smith,Successful
+2976,3285,Academic Planning,2023-10-06,Advisor Chen,Successful
+2977,3286,Career Counseling,2023-11-09,Advisor Garcia,Successful
+2978,3288,Academic Planning,2023-11-08,Advisor Garcia,No Response
+2979,3288,Career Counseling,2023-10-18,Advisor Smith,Follow-up Needed
+2980,3290,At-Risk Outreach,2023-12-29,Advisor Smith,Follow-up Needed
+2981,3293,Academic Planning,2023-11-08,Advisor Chen,Follow-up Needed
+2982,3294,Academic Planning,2023-10-20,Advisor Smith,Successful
+2983,3296,Financial Aid Guidance,2023-10-24,Advisor Jones,No Response
+2984,3299,Financial Aid Guidance,2023-12-05,Advisor Garcia,In Progress
+2985,3301,At-Risk Outreach,2023-11-21,Advisor Smith,In Progress
+2986,3301,Academic Planning,2023-12-17,Advisor Jones,No Response
+2987,3307,Academic Planning,2023-12-21,Advisor Jones,Successful
+2988,3309,Career Counseling,2023-10-30,Advisor Garcia,Successful
+2989,3309,At-Risk Outreach,2023-11-10,Advisor Garcia,Successful
+2990,3310,At-Risk Outreach,2023-11-30,Advisor Jones,No Response
+2991,3322,Academic Planning,2023-12-13,Advisor Jones,Successful
+2992,3322,At-Risk Outreach,2023-11-02,Advisor Chen,Successful
+2993,3334,Financial Aid Guidance,2023-10-24,Advisor Chen,Successful
+2994,3334,Academic Planning,2023-10-29,Advisor Garcia,In Progress
+2995,3336,Financial Aid Guidance,2023-12-03,Advisor Garcia,No Response
+2996,3337,Career Counseling,2023-12-14,Advisor Jones,No Response
+2997,3341,Financial Aid Guidance,2023-12-24,Advisor Chen,Follow-up Needed
+2998,3343,At-Risk Outreach,2023-10-19,Advisor Smith,Successful
+2999,3343,Financial Aid Guidance,2023-10-16,Advisor Jones,In Progress
+3000,3345,At-Risk Outreach,2023-11-20,Advisor Jones,Successful
+3001,3345,At-Risk Outreach,2023-11-27,Advisor Jones,No Response
+3002,3349,Financial Aid Guidance,2023-10-17,Advisor Chen,In Progress
+3003,3350,Career Counseling,2023-12-15,Advisor Garcia,In Progress
+3004,3350,Academic Planning,2023-12-26,Advisor Jones,Follow-up Needed
+3005,3352,Financial Aid Guidance,2023-11-12,Advisor Garcia,Successful
+3006,3352,At-Risk Outreach,2023-10-08,Advisor Smith,In Progress
+3007,3354,At-Risk Outreach,2023-10-06,Advisor Smith,In Progress
+3008,3354,At-Risk Outreach,2023-11-16,Advisor Chen,Successful
+3009,3355,At-Risk Outreach,2023-10-23,Advisor Garcia,Follow-up Needed
+3010,3355,Career Counseling,2023-12-01,Advisor Chen,In Progress
+3011,3356,At-Risk Outreach,2023-11-26,Advisor Jones,Follow-up Needed
+3012,3356,Academic Planning,2023-12-04,Advisor Smith,In Progress
+3013,3358,Career Counseling,2023-10-17,Advisor Garcia,In Progress
+3014,3360,Academic Planning,2023-11-09,Advisor Smith,Follow-up Needed
+3015,3370,At-Risk Outreach,2023-10-10,Advisor Chen,Successful
+3016,3371,Academic Planning,2023-10-05,Advisor Smith,In Progress
+3017,3371,Academic Planning,2023-10-27,Advisor Smith,Successful
+3018,3375,Career Counseling,2023-10-21,Advisor Garcia,Successful
+3019,3375,Career Counseling,2023-12-18,Advisor Chen,No Response
+3020,3379,Academic Planning,2023-10-30,Advisor Jones,In Progress
+3021,3381,Financial Aid Guidance,2023-10-20,Advisor Chen,Successful
+3022,3384,At-Risk Outreach,2023-10-10,Advisor Garcia,Successful
+3023,3389,Financial Aid Guidance,2023-10-01,Advisor Garcia,Follow-up Needed
+3024,3390,Academic Planning,2023-10-25,Advisor Jones,Successful
+3025,3391,Academic Planning,2023-11-01,Advisor Chen,Successful
+3026,3391,Financial Aid Guidance,2023-12-23,Advisor Smith,In Progress
+3027,3396,Academic Planning,2023-10-19,Advisor Garcia,No Response
+3028,3396,Financial Aid Guidance,2023-10-30,Advisor Garcia,In Progress
+3029,3398,Academic Planning,2023-10-21,Advisor Garcia,No Response
+3030,3399,Academic Planning,2023-11-30,Advisor Smith,Follow-up Needed
+3031,3400,Career Counseling,2023-12-07,Advisor Jones,Successful
+3032,3401,At-Risk Outreach,2023-11-18,Advisor Chen,Successful
+3033,3401,Financial Aid Guidance,2023-11-05,Advisor Chen,No Response
+3034,3407,Academic Planning,2023-11-16,Advisor Garcia,In Progress
+3035,3410,Financial Aid Guidance,2023-11-12,Advisor Chen,In Progress
+3036,3415,Financial Aid Guidance,2023-10-16,Advisor Garcia,Successful
+3037,3417,At-Risk Outreach,2023-11-20,Advisor Jones,In Progress
+3038,3420,At-Risk Outreach,2023-12-26,Advisor Garcia,Successful
+3039,3424,Career Counseling,2023-11-18,Advisor Jones,No Response
+3040,3424,Academic Planning,2023-10-09,Advisor Garcia,In Progress
+3041,3427,At-Risk Outreach,2023-11-29,Advisor Smith,In Progress
+3042,3427,Financial Aid Guidance,2023-11-16,Advisor Smith,Follow-up Needed
+3043,3428,Academic Planning,2023-12-28,Advisor Jones,No Response
+3044,3429,Academic Planning,2023-12-02,Advisor Garcia,Follow-up Needed
+3045,3429,Financial Aid Guidance,2023-10-14,Advisor Jones,Follow-up Needed
+3046,3432,Financial Aid Guidance,2023-10-22,Advisor Jones,Follow-up Needed
+3047,3433,Academic Planning,2023-12-25,Advisor Chen,In Progress
+3048,3433,Financial Aid Guidance,2023-11-22,Advisor Smith,No Response
+3049,3435,Financial Aid Guidance,2023-11-09,Advisor Jones,Follow-up Needed
+3050,3435,Career Counseling,2023-11-17,Advisor Chen,Follow-up Needed
+3051,3437,At-Risk Outreach,2023-10-22,Advisor Smith,Follow-up Needed
+3052,3437,Financial Aid Guidance,2023-10-30,Advisor Garcia,In Progress
+3053,3440,Financial Aid Guidance,2023-11-11,Advisor Jones,Follow-up Needed
+3054,3446,Academic Planning,2023-11-22,Advisor Jones,Successful
+3055,3452,Financial Aid Guidance,2023-10-01,Advisor Smith,In Progress
+3056,3455,Career Counseling,2023-12-08,Advisor Garcia,Successful
+3057,3455,Career Counseling,2023-11-10,Advisor Smith,Follow-up Needed
+3058,3457,At-Risk Outreach,2023-11-07,Advisor Jones,Follow-up Needed
+3059,3457,Academic Planning,2023-11-14,Advisor Garcia,Follow-up Needed
+3060,3462,Financial Aid Guidance,2023-11-11,Advisor Garcia,Follow-up Needed
+3061,3462,Financial Aid Guidance,2023-10-11,Advisor Chen,Successful
+3062,3470,Academic Planning,2023-10-22,Advisor Smith,No Response
+3063,3470,Career Counseling,2023-10-11,Advisor Chen,Follow-up Needed
+3064,3473,Career Counseling,2023-10-23,Advisor Smith,No Response
+3065,3485,Financial Aid Guidance,2023-10-16,Advisor Garcia,In Progress
+3066,3485,At-Risk Outreach,2023-10-19,Advisor Jones,In Progress
+3067,3490,Academic Planning,2023-12-24,Advisor Smith,No Response
+3068,3494,At-Risk Outreach,2023-12-24,Advisor Jones,Follow-up Needed
+3069,3496,Academic Planning,2023-12-03,Advisor Smith,No Response
+3070,3497,Career Counseling,2023-10-06,Advisor Garcia,Successful
+3071,3497,At-Risk Outreach,2023-12-12,Advisor Jones,No Response
+3072,3504,Career Counseling,2023-10-28,Advisor Jones,Successful
+3073,3509,Career Counseling,2023-11-28,Advisor Chen,Follow-up Needed
+3074,3514,Career Counseling,2023-11-07,Advisor Garcia,Successful
+3075,3517,At-Risk Outreach,2023-11-20,Advisor Jones,In Progress
+3076,3517,Academic Planning,2023-12-13,Advisor Jones,No Response
+3077,3522,Financial Aid Guidance,2023-11-23,Advisor Garcia,Follow-up Needed
+3078,3523,Academic Planning,2023-11-07,Advisor Jones,In Progress
+3079,3523,Financial Aid Guidance,2023-10-06,Advisor Garcia,In Progress
+3080,3524,Academic Planning,2023-11-01,Advisor Jones,No Response
+3081,3526,Financial Aid Guidance,2023-12-03,Advisor Jones,Successful
+3082,3540,Financial Aid Guidance,2023-11-19,Advisor Garcia,Follow-up Needed
+3083,3540,Career Counseling,2023-12-14,Advisor Garcia,Successful
+3084,3546,Career Counseling,2023-12-22,Advisor Jones,In Progress
+3085,3546,At-Risk Outreach,2023-11-01,Advisor Chen,In Progress
+3086,3547,Career Counseling,2023-12-10,Advisor Jones,No Response
+3087,3557,Academic Planning,2023-11-14,Advisor Chen,Follow-up Needed
+3088,3558,Academic Planning,2023-12-04,Advisor Smith,In Progress
+3089,3558,Career Counseling,2023-12-23,Advisor Garcia,Follow-up Needed
+3090,3560,At-Risk Outreach,2023-12-13,Advisor Jones,No Response
+3091,3563,At-Risk Outreach,2023-10-26,Advisor Chen,In Progress
+3092,3565,Academic Planning,2023-11-09,Advisor Chen,Successful
+3093,3572,At-Risk Outreach,2023-10-06,Advisor Garcia,Follow-up Needed
+3094,3572,Academic Planning,2023-10-18,Advisor Jones,Successful
+3095,3575,At-Risk Outreach,2023-10-03,Advisor Chen,In Progress
+3096,3580,Financial Aid Guidance,2023-12-25,Advisor Smith,Follow-up Needed
+3097,3580,Career Counseling,2023-10-28,Advisor Jones,Successful
+3098,3583,Academic Planning,2023-10-26,Advisor Jones,No Response
+3099,3587,At-Risk Outreach,2023-12-28,Advisor Smith,Successful
+3100,3587,Career Counseling,2023-12-04,Advisor Smith,In Progress
+3101,3588,Career Counseling,2023-11-01,Advisor Chen,No Response
+3102,3590,Academic Planning,2023-10-22,Advisor Garcia,Follow-up Needed
+3103,3590,Career Counseling,2023-10-09,Advisor Garcia,No Response
+3104,3592,Financial Aid Guidance,2023-11-06,Advisor Chen,In Progress
+3105,3593,Career Counseling,2023-10-25,Advisor Smith,Successful
+3106,3594,At-Risk Outreach,2023-10-17,Advisor Chen,Successful
+3107,3594,Academic Planning,2023-10-05,Advisor Smith,No Response
+3108,3595,Career Counseling,2023-12-29,Advisor Smith,No Response
+3109,3595,Career Counseling,2023-12-05,Advisor Smith,No Response
+3110,3597,Academic Planning,2023-11-02,Advisor Jones,In Progress
+3111,3598,Financial Aid Guidance,2023-12-11,Advisor Jones,Follow-up Needed
+3112,3600,Financial Aid Guidance,2023-11-04,Advisor Smith,Successful
+3113,3604,Academic Planning,2023-10-10,Advisor Smith,Follow-up Needed
+3114,3606,At-Risk Outreach,2023-12-10,Advisor Jones,No Response
+3115,3606,Career Counseling,2023-12-06,Advisor Jones,In Progress
+3116,3608,Career Counseling,2023-10-17,Advisor Smith,Follow-up Needed
+3117,3613,Career Counseling,2023-11-01,Advisor Garcia,No Response
+3118,3614,At-Risk Outreach,2023-10-16,Advisor Garcia,No Response
+3119,3614,Financial Aid Guidance,2023-10-14,Advisor Garcia,No Response
+3120,3619,At-Risk Outreach,2023-12-14,Advisor Smith,No Response
+3121,3619,At-Risk Outreach,2023-11-23,Advisor Smith,Successful
+3122,3620,Career Counseling,2023-12-26,Advisor Garcia,Successful
+3123,3623,Career Counseling,2023-10-05,Advisor Chen,In Progress
+3124,3623,Academic Planning,2023-12-17,Advisor Jones,Successful
+3125,3627,At-Risk Outreach,2023-10-20,Advisor Chen,No Response
+3126,3628,Financial Aid Guidance,2023-11-26,Advisor Jones,Successful
+3127,3628,Career Counseling,2023-12-09,Advisor Garcia,Follow-up Needed
+3128,3629,Career Counseling,2023-12-25,Advisor Garcia,Follow-up Needed
+3129,3629,At-Risk Outreach,2023-10-19,Advisor Chen,No Response
+3130,3630,At-Risk Outreach,2023-11-14,Advisor Chen,Follow-up Needed
+3131,3631,Academic Planning,2023-11-11,Advisor Smith,In Progress
+3132,3636,Financial Aid Guidance,2023-11-11,Advisor Garcia,No Response
+3133,3636,At-Risk Outreach,2023-10-03,Advisor Jones,No Response
+3134,3638,Academic Planning,2023-10-09,Advisor Smith,In Progress
+3135,3638,Career Counseling,2023-12-28,Advisor Jones,Follow-up Needed
+3136,3643,Academic Planning,2023-12-24,Advisor Jones,In Progress
+3137,3643,Financial Aid Guidance,2023-11-27,Advisor Jones,No Response
+3138,3645,At-Risk Outreach,2023-10-28,Advisor Chen,Successful
+3139,3645,Academic Planning,2023-11-24,Advisor Chen,No Response
+3140,3647,Career Counseling,2023-10-04,Advisor Garcia,Follow-up Needed
+3141,3647,Academic Planning,2023-11-26,Advisor Smith,No Response
+3142,3652,Financial Aid Guidance,2023-12-24,Advisor Smith,In Progress
+3143,3658,At-Risk Outreach,2023-10-07,Advisor Jones,No Response
+3144,3660,Academic Planning,2023-10-16,Advisor Jones,In Progress
+3145,3660,At-Risk Outreach,2023-10-11,Advisor Jones,No Response
+3146,3662,Academic Planning,2023-10-15,Advisor Garcia,No Response
+3147,3662,Career Counseling,2023-11-14,Advisor Jones,In Progress
+3148,3664,At-Risk Outreach,2023-10-10,Advisor Smith,Follow-up Needed
+3149,3664,At-Risk Outreach,2023-10-12,Advisor Chen,In Progress
+3150,3677,At-Risk Outreach,2023-12-05,Advisor Chen,In Progress
+3151,3677,Academic Planning,2023-10-30,Advisor Garcia,Follow-up Needed
+3152,3679,Academic Planning,2023-12-10,Advisor Jones,Successful
+3153,3679,Financial Aid Guidance,2023-11-20,Advisor Chen,Follow-up Needed
+3154,3682,At-Risk Outreach,2023-12-05,Advisor Garcia,Follow-up Needed
+3155,3683,Financial Aid Guidance,2023-11-21,Advisor Chen,No Response
+3156,3689,Career Counseling,2023-12-18,Advisor Smith,No Response
+3157,3689,Academic Planning,2023-11-10,Advisor Jones,Follow-up Needed
+3158,3691,At-Risk Outreach,2023-10-03,Advisor Smith,In Progress
+3159,3692,Financial Aid Guidance,2023-10-17,Advisor Chen,In Progress
+3160,3694,Academic Planning,2023-11-23,Advisor Chen,Follow-up Needed
+3161,3695,Financial Aid Guidance,2023-11-08,Advisor Chen,No Response
+3162,3699,Financial Aid Guidance,2023-12-10,Advisor Jones,No Response
+3163,3701,Financial Aid Guidance,2023-10-19,Advisor Jones,Follow-up Needed
+3164,3701,Financial Aid Guidance,2023-10-12,Advisor Garcia,Successful
+3165,3709,Career Counseling,2023-12-03,Advisor Chen,No Response
+3166,3713,Financial Aid Guidance,2023-12-06,Advisor Smith,No Response
+3167,3713,At-Risk Outreach,2023-10-01,Advisor Smith,No Response
+3168,3717,Academic Planning,2023-10-02,Advisor Garcia,No Response
+3169,3717,At-Risk Outreach,2023-11-25,Advisor Garcia,Follow-up Needed
+3170,3719,Financial Aid Guidance,2023-12-15,Advisor Garcia,No Response
+3171,3729,Financial Aid Guidance,2023-11-18,Advisor Garcia,No Response
+3172,3729,Career Counseling,2023-11-19,Advisor Smith,In Progress
+3173,3730,Academic Planning,2023-12-08,Advisor Jones,Successful
+3174,3731,At-Risk Outreach,2023-10-11,Advisor Chen,Successful
+3175,3735,Career Counseling,2023-11-04,Advisor Jones,Successful
+3176,3737,At-Risk Outreach,2023-11-10,Advisor Chen,No Response
+3177,3737,At-Risk Outreach,2023-10-11,Advisor Garcia,No Response
+3178,3743,Career Counseling,2023-12-24,Advisor Garcia,Follow-up Needed
+3179,3743,Academic Planning,2023-12-09,Advisor Garcia,Successful
+3180,3744,Career Counseling,2023-10-28,Advisor Garcia,Follow-up Needed
+3181,3751,Financial Aid Guidance,2023-10-19,Advisor Garcia,In Progress
+3182,3751,Financial Aid Guidance,2023-12-27,Advisor Chen,In Progress
+3183,3754,Financial Aid Guidance,2023-12-19,Advisor Smith,Follow-up Needed
+3184,3755,Academic Planning,2023-11-04,Advisor Garcia,In Progress
+3185,3755,Financial Aid Guidance,2023-11-27,Advisor Jones,Successful
+3186,3759,At-Risk Outreach,2023-12-17,Advisor Smith,In Progress
+3187,3760,Career Counseling,2023-10-02,Advisor Garcia,No Response
+3188,3760,Academic Planning,2023-12-08,Advisor Chen,Follow-up Needed
+3189,3761,Career Counseling,2023-10-23,Advisor Garcia,No Response
+3190,3763,Financial Aid Guidance,2023-12-22,Advisor Smith,Successful
+3191,3763,Financial Aid Guidance,2023-10-28,Advisor Garcia,Follow-up Needed
+3192,3764,Career Counseling,2023-10-09,Advisor Jones,Follow-up Needed
+3193,3767,At-Risk Outreach,2023-10-21,Advisor Chen,Follow-up Needed
+3194,3771,At-Risk Outreach,2023-10-09,Advisor Garcia,Follow-up Needed
+3195,3777,Financial Aid Guidance,2023-12-26,Advisor Jones,In Progress
+3196,3777,Financial Aid Guidance,2023-11-06,Advisor Chen,In Progress
+3197,3778,At-Risk Outreach,2023-10-25,Advisor Smith,In Progress
+3198,3782,Academic Planning,2023-11-08,Advisor Garcia,In Progress
+3199,3787,Career Counseling,2023-12-11,Advisor Chen,No Response
+3200,3793,At-Risk Outreach,2023-11-19,Advisor Jones,Successful
+3201,3794,Academic Planning,2023-12-22,Advisor Smith,No Response
+3202,3794,Career Counseling,2023-10-04,Advisor Smith,No Response
+3203,3798,Financial Aid Guidance,2023-10-10,Advisor Chen,Follow-up Needed
+3204,3798,Academic Planning,2023-12-05,Advisor Garcia,Successful
+3205,3803,Career Counseling,2023-10-24,Advisor Garcia,In Progress
+3206,3803,Financial Aid Guidance,2023-11-03,Advisor Chen,In Progress
+3207,3809,Career Counseling,2023-10-25,Advisor Smith,Successful
+3208,3809,At-Risk Outreach,2023-12-03,Advisor Smith,Follow-up Needed
+3209,3810,Career Counseling,2023-11-20,Advisor Jones,Follow-up Needed
+3210,3818,Career Counseling,2023-11-30,Advisor Garcia,In Progress
+3211,3820,Financial Aid Guidance,2023-11-05,Advisor Smith,In Progress
+3212,3821,Academic Planning,2023-11-23,Advisor Garcia,In Progress
+3213,3826,Academic Planning,2023-10-22,Advisor Chen,Follow-up Needed
+3214,3828,Academic Planning,2023-11-26,Advisor Jones,Successful
+3215,3830,Financial Aid Guidance,2023-11-15,Advisor Garcia,Successful
+3216,3830,Academic Planning,2023-10-03,Advisor Smith,Follow-up Needed
+3217,3836,Financial Aid Guidance,2023-11-03,Advisor Smith,No Response
+3218,3836,Academic Planning,2023-12-22,Advisor Smith,Successful
+3219,3837,Financial Aid Guidance,2023-10-06,Advisor Chen,Follow-up Needed
+3220,3837,Career Counseling,2023-11-05,Advisor Chen,No Response
+3221,3841,At-Risk Outreach,2023-10-19,Advisor Jones,No Response
+3222,3841,Career Counseling,2023-10-23,Advisor Smith,No Response
+3223,3842,Career Counseling,2023-10-03,Advisor Jones,No Response
+3224,3842,Career Counseling,2023-11-18,Advisor Chen,Follow-up Needed
+3225,3845,Career Counseling,2023-12-15,Advisor Chen,In Progress
+3226,3845,Financial Aid Guidance,2023-11-14,Advisor Garcia,Successful
+3227,3849,At-Risk Outreach,2023-10-17,Advisor Garcia,No Response
+3228,3852,Financial Aid Guidance,2023-11-24,Advisor Garcia,Successful
+3229,3855,Financial Aid Guidance,2023-11-22,Advisor Smith,No Response
+3230,3855,Career Counseling,2023-10-02,Advisor Jones,Successful
+3231,3857,Financial Aid Guidance,2023-12-19,Advisor Chen,No Response
+3232,3857,Academic Planning,2023-12-17,Advisor Smith,No Response
+3233,3864,Career Counseling,2023-12-11,Advisor Garcia,Follow-up Needed
+3234,3865,Academic Planning,2023-12-22,Advisor Smith,In Progress
+3235,3867,Career Counseling,2023-10-11,Advisor Smith,No Response
+3236,3880,Career Counseling,2023-11-28,Advisor Smith,Successful
+3237,3885,Financial Aid Guidance,2023-12-11,Advisor Jones,Successful
+3238,3885,Academic Planning,2023-12-18,Advisor Garcia,In Progress
+3239,3886,Financial Aid Guidance,2023-12-13,Advisor Chen,In Progress
+3240,3890,Financial Aid Guidance,2023-11-15,Advisor Smith,In Progress
+3241,3904,Academic Planning,2023-11-02,Advisor Garcia,No Response
+3242,3907,Financial Aid Guidance,2023-12-13,Advisor Smith,Successful
+3243,3907,Academic Planning,2023-12-12,Advisor Jones,Follow-up Needed
+3244,3908,At-Risk Outreach,2023-10-22,Advisor Garcia,Follow-up Needed
+3245,3909,Career Counseling,2023-10-05,Advisor Chen,In Progress
+3246,3911,Financial Aid Guidance,2023-11-04,Advisor Smith,Follow-up Needed
+3247,3911,Academic Planning,2023-10-26,Advisor Smith,No Response
+3248,3913,Financial Aid Guidance,2023-11-19,Advisor Smith,In Progress
+3249,3918,Career Counseling,2023-10-30,Advisor Smith,In Progress
+3250,3918,Financial Aid Guidance,2023-10-22,Advisor Smith,Successful
+3251,3920,Financial Aid Guidance,2023-11-19,Advisor Chen,No Response
+3252,3920,Academic Planning,2023-10-10,Advisor Chen,Follow-up Needed
+3253,3921,At-Risk Outreach,2023-10-08,Advisor Chen,In Progress
+3254,3922,Academic Planning,2023-10-06,Advisor Garcia,Follow-up Needed
+3255,3928,At-Risk Outreach,2023-11-23,Advisor Chen,No Response
+3256,3931,At-Risk Outreach,2023-11-20,Advisor Chen,Follow-up Needed
+3257,3934,Career Counseling,2023-12-28,Advisor Chen,Successful
+3258,3937,Career Counseling,2023-10-25,Advisor Smith,No Response
+3259,3939,Career Counseling,2023-12-09,Advisor Chen,Follow-up Needed
+3260,3941,Financial Aid Guidance,2023-11-18,Advisor Chen,No Response
+3261,3950,Financial Aid Guidance,2023-12-20,Advisor Jones,Follow-up Needed
+3262,3950,Academic Planning,2023-11-14,Advisor Garcia,Successful
+3263,3955,Career Counseling,2023-11-21,Advisor Smith,No Response
+3264,3959,At-Risk Outreach,2023-11-24,Advisor Garcia,Follow-up Needed
+3265,3963,Career Counseling,2023-10-03,Advisor Chen,Successful
+3266,3963,Academic Planning,2023-12-09,Advisor Smith,In Progress
+3267,3965,Career Counseling,2023-12-24,Advisor Jones,Successful
+3268,3965,At-Risk Outreach,2023-12-18,Advisor Smith,In Progress
+3269,3971,At-Risk Outreach,2023-10-23,Advisor Garcia,Follow-up Needed
+3270,3973,Financial Aid Guidance,2023-10-22,Advisor Jones,No Response
+3271,3973,Academic Planning,2023-12-12,Advisor Jones,Successful
+3272,3980,Career Counseling,2023-12-07,Advisor Smith,In Progress
+3273,3980,At-Risk Outreach,2023-12-11,Advisor Garcia,Successful
+3274,3982,Career Counseling,2023-11-21,Advisor Smith,No Response
+3275,3982,Financial Aid Guidance,2023-10-01,Advisor Smith,No Response
+3276,3986,Financial Aid Guidance,2023-12-20,Advisor Chen,Follow-up Needed
+3277,3986,Academic Planning,2023-10-17,Advisor Chen,Successful
+3278,3988,At-Risk Outreach,2023-11-20,Advisor Jones,In Progress
+3279,3988,Academic Planning,2023-10-24,Advisor Chen,No Response
+3280,3991,Academic Planning,2023-11-03,Advisor Garcia,No Response
+3281,3993,Academic Planning,2023-11-02,Advisor Chen,Follow-up Needed
+3282,3994,Academic Planning,2023-10-18,Advisor Garcia,No Response
+3283,3996,Academic Planning,2023-12-05,Advisor Jones,Follow-up Needed
+3284,3996,Financial Aid Guidance,2023-10-28,Advisor Chen,No Response
+3285,3997,Career Counseling,2023-11-17,Advisor Smith,Successful
+3286,3997,Academic Planning,2023-12-28,Advisor Garcia,Successful

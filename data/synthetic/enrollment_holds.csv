@@ -1,0 +1,1749 @@
+hold_id,student_id,hold_type,hold_created_date,hold_removed_date,status,days_to_resolve
+8000,1000,Financial,2023-10-20,2023-10-29,Resolved,9.0
+8001,1001,Immunization,2023-10-16,2023-10-24,Resolved,8.0
+8002,1001,Immunization,2023-10-15,2023-10-25,Resolved,10.0
+8003,1002,Transcript,2023-09-21,2023-10-20,Resolved,29.0
+8004,1003,Academic Advising,2023-09-11,2023-10-05,Resolved,24.0
+8005,1004,Disciplinary,2023-09-25,2023-09-29,Resolved,4.0
+8006,1004,Disciplinary,2023-10-13,2023-10-28,Resolved,15.0
+8007,1006,Transcript,2023-09-24,,Active,
+8008,1014,Academic Advising,2023-09-23,2023-10-12,Resolved,19.0
+8009,1015,Disciplinary,2023-10-28,2023-11-23,Resolved,26.0
+8010,1021,Transcript,2023-10-29,2023-11-24,Resolved,26.0
+8011,1021,Disciplinary,2023-09-02,2023-09-05,Resolved,3.0
+8012,1024,Transcript,2023-10-28,2023-11-10,Resolved,13.0
+8013,1024,Immunization,2023-09-23,,Active,
+8014,1027,Transcript,2023-10-03,2023-10-09,Resolved,6.0
+8015,1027,Disciplinary,2023-10-02,2023-10-24,Resolved,22.0
+8016,1030,Academic Advising,2023-10-20,,Active,
+8017,1030,Financial,2023-10-21,2023-11-13,Resolved,23.0
+8018,1032,Financial,2023-10-10,2023-10-18,Resolved,8.0
+8019,1032,Immunization,2023-10-20,2023-11-06,Resolved,17.0
+8020,1033,Academic Advising,2023-09-01,2023-09-11,Resolved,10.0
+8021,1033,Academic Advising,2023-10-09,2023-10-27,Resolved,18.0
+8022,1035,Financial,2023-10-26,2023-10-30,Resolved,4.0
+8023,1035,Academic Advising,2023-09-29,2023-10-15,Resolved,16.0
+8024,1036,Immunization,2023-10-11,,Active,
+8025,1036,Financial,2023-10-24,2023-11-04,Resolved,11.0
+8026,1037,Immunization,2023-09-21,2023-10-17,Resolved,26.0
+8027,1037,Immunization,2023-09-08,2023-10-05,Resolved,27.0
+8028,1038,Financial,2023-10-08,,Active,
+8029,1038,Disciplinary,2023-09-06,2023-09-09,Resolved,3.0
+8030,1042,Financial,2023-10-15,,Active,
+8031,1044,Academic Advising,2023-09-04,2023-09-09,Resolved,5.0
+8032,1044,Disciplinary,2023-10-21,2023-11-18,Resolved,28.0
+8033,1056,Disciplinary,2023-10-03,2023-10-29,Resolved,26.0
+8034,1056,Financial,2023-10-26,2023-11-15,Resolved,20.0
+8035,1057,Transcript,2023-09-30,2023-10-25,Resolved,25.0
+8036,1061,Disciplinary,2023-10-24,2023-10-30,Resolved,6.0
+8037,1061,Academic Advising,2023-10-30,2023-11-18,Resolved,19.0
+8038,1062,Academic Advising,2023-10-12,2023-11-02,Resolved,21.0
+8039,1062,Transcript,2023-10-26,2023-10-30,Resolved,4.0
+8040,1069,Academic Advising,2023-09-10,2023-09-26,Resolved,16.0
+8041,1070,Academic Advising,2023-09-09,2023-09-23,Resolved,14.0
+8042,1071,Academic Advising,2023-10-10,2023-10-13,Resolved,3.0
+8043,1071,Financial,2023-09-19,2023-09-22,Resolved,3.0
+8044,1073,Transcript,2023-09-06,2023-10-05,Resolved,29.0
+8045,1073,Immunization,2023-10-20,2023-11-01,Resolved,12.0
+8046,1075,Financial,2023-10-08,2023-10-29,Resolved,21.0
+8047,1076,Immunization,2023-10-09,2023-11-01,Resolved,23.0
+8048,1076,Transcript,2023-10-12,2023-10-30,Resolved,18.0
+8049,1079,Disciplinary,2023-10-02,,Active,
+8050,1079,Transcript,2023-10-26,2023-10-30,Resolved,4.0
+8051,1082,Immunization,2023-09-25,,Active,
+8052,1083,Academic Advising,2023-09-09,2023-10-02,Resolved,23.0
+8053,1083,Financial,2023-09-26,2023-10-04,Resolved,8.0
+8054,1085,Academic Advising,2023-09-24,2023-10-21,Resolved,27.0
+8055,1085,Disciplinary,2023-09-02,2023-09-03,Resolved,1.0
+8056,1086,Immunization,2023-09-24,2023-09-28,Resolved,4.0
+8057,1086,Immunization,2023-09-26,2023-10-02,Resolved,6.0
+8058,1090,Disciplinary,2023-10-13,,Active,
+8059,1090,Academic Advising,2023-09-01,2023-09-10,Resolved,9.0
+8060,1092,Disciplinary,2023-10-24,2023-10-27,Resolved,3.0
+8061,1096,Financial,2023-09-02,,Active,
+8062,1104,Academic Advising,2023-09-17,2023-09-18,Resolved,1.0
+8063,1104,Academic Advising,2023-09-18,,Active,
+8064,1111,Financial,2023-10-12,2023-10-27,Resolved,15.0
+8065,1111,Transcript,2023-10-10,2023-10-14,Resolved,4.0
+8066,1116,Transcript,2023-09-01,2023-09-10,Resolved,9.0
+8067,1118,Disciplinary,2023-10-25,2023-11-13,Resolved,19.0
+8068,1121,Disciplinary,2023-10-28,2023-11-17,Resolved,20.0
+8069,1122,Disciplinary,2023-09-02,2023-09-21,Resolved,19.0
+8070,1123,Immunization,2023-09-15,2023-09-22,Resolved,7.0
+8071,1123,Disciplinary,2023-10-25,2023-11-04,Resolved,10.0
+8072,1125,Transcript,2023-10-15,2023-10-16,Resolved,1.0
+8073,1128,Transcript,2023-09-08,2023-09-25,Resolved,17.0
+8074,1128,Academic Advising,2023-10-01,2023-10-14,Resolved,13.0
+8075,1129,Financial,2023-10-11,2023-10-24,Resolved,13.0
+8076,1130,Academic Advising,2023-10-11,2023-10-13,Resolved,2.0
+8077,1130,Transcript,2023-10-20,2023-11-06,Resolved,17.0
+8078,1131,Disciplinary,2023-09-11,,Active,
+8079,1131,Academic Advising,2023-10-25,2023-11-22,Resolved,28.0
+8080,1133,Disciplinary,2023-10-21,2023-11-14,Resolved,24.0
+8081,1135,Financial,2023-09-09,2023-09-23,Resolved,14.0
+8082,1140,Disciplinary,2023-09-03,2023-09-25,Resolved,22.0
+8083,1140,Academic Advising,2023-10-29,2023-11-01,Resolved,3.0
+8084,1141,Academic Advising,2023-10-29,2023-11-09,Resolved,11.0
+8085,1144,Disciplinary,2023-09-25,2023-10-02,Resolved,7.0
+8086,1144,Disciplinary,2023-10-21,2023-10-23,Resolved,2.0
+8087,1147,Financial,2023-10-27,,Active,
+8088,1147,Financial,2023-10-12,2023-10-31,Resolved,19.0
+8089,1148,Financial,2023-09-07,2023-09-25,Resolved,18.0
+8090,1149,Immunization,2023-10-11,2023-10-19,Resolved,8.0
+8091,1149,Immunization,2023-10-30,2023-11-21,Resolved,22.0
+8092,1152,Financial,2023-09-24,2023-09-25,Resolved,1.0
+8093,1152,Academic Advising,2023-09-22,,Active,
+8094,1156,Transcript,2023-09-28,2023-10-18,Resolved,20.0
+8095,1156,Disciplinary,2023-09-18,,Active,
+8096,1157,Financial,2023-09-10,2023-09-19,Resolved,9.0
+8097,1157,Financial,2023-09-13,2023-09-28,Resolved,15.0
+8098,1158,Academic Advising,2023-10-15,2023-10-20,Resolved,5.0
+8099,1158,Academic Advising,2023-09-26,2023-10-03,Resolved,7.0
+8100,1160,Immunization,2023-10-16,2023-11-02,Resolved,17.0
+8101,1161,Transcript,2023-10-13,2023-11-04,Resolved,22.0
+8102,1161,Disciplinary,2023-09-12,2023-10-11,Resolved,29.0
+8103,1163,Financial,2023-09-29,,Active,
+8104,1164,Financial,2023-10-10,2023-11-03,Resolved,24.0
+8105,1168,Disciplinary,2023-10-14,2023-11-12,Resolved,29.0
+8106,1173,Academic Advising,2023-09-24,,Active,
+8107,1175,Transcript,2023-10-10,2023-10-24,Resolved,14.0
+8108,1175,Immunization,2023-09-04,2023-09-13,Resolved,9.0
+8109,1181,Financial,2023-09-26,2023-10-09,Resolved,13.0
+8110,1182,Academic Advising,2023-10-24,2023-10-25,Resolved,1.0
+8111,1183,Disciplinary,2023-09-09,2023-10-03,Resolved,24.0
+8112,1183,Disciplinary,2023-10-19,,Active,
+8113,1184,Financial,2023-09-09,2023-09-16,Resolved,7.0
+8114,1184,Transcript,2023-10-25,2023-11-04,Resolved,10.0
+8115,1186,Immunization,2023-10-28,2023-11-02,Resolved,5.0
+8116,1189,Academic Advising,2023-09-09,,Active,
+8117,1190,Academic Advising,2023-10-29,2023-11-10,Resolved,12.0
+8118,1190,Academic Advising,2023-10-17,2023-11-11,Resolved,25.0
+8119,1192,Academic Advising,2023-09-07,2023-10-05,Resolved,28.0
+8120,1193,Immunization,2023-09-29,2023-10-21,Resolved,22.0
+8121,1194,Disciplinary,2023-09-13,2023-09-16,Resolved,3.0
+8122,1194,Immunization,2023-10-05,2023-10-20,Resolved,15.0
+8123,1197,Disciplinary,2023-09-06,2023-10-01,Resolved,25.0
+8124,1197,Immunization,2023-10-30,2023-11-02,Resolved,3.0
+8125,1199,Immunization,2023-10-08,2023-11-04,Resolved,27.0
+8126,1199,Disciplinary,2023-09-14,2023-10-01,Resolved,17.0
+8127,1201,Disciplinary,2023-09-24,2023-09-28,Resolved,4.0
+8128,1206,Disciplinary,2023-10-02,2023-10-08,Resolved,6.0
+8129,1208,Transcript,2023-09-20,2023-10-16,Resolved,26.0
+8130,1208,Disciplinary,2023-10-15,2023-11-07,Resolved,23.0
+8131,1212,Transcript,2023-10-25,,Active,
+8132,1212,Disciplinary,2023-09-10,2023-09-17,Resolved,7.0
+8133,1213,Transcript,2023-09-25,2023-09-27,Resolved,2.0
+8134,1214,Academic Advising,2023-10-10,2023-10-29,Resolved,19.0
+8135,1214,Disciplinary,2023-09-08,,Active,
+8136,1215,Disciplinary,2023-09-09,2023-09-16,Resolved,7.0
+8137,1215,Transcript,2023-10-22,2023-11-10,Resolved,19.0
+8138,1216,Academic Advising,2023-10-08,,Active,
+8139,1217,Academic Advising,2023-09-25,2023-10-22,Resolved,27.0
+8140,1217,Immunization,2023-09-04,2023-09-23,Resolved,19.0
+8141,1218,Financial,2023-09-14,2023-09-24,Resolved,10.0
+8142,1219,Financial,2023-10-23,2023-11-04,Resolved,12.0
+8143,1219,Transcript,2023-10-30,2023-11-13,Resolved,14.0
+8144,1221,Academic Advising,2023-10-12,2023-10-16,Resolved,4.0
+8145,1221,Transcript,2023-09-06,2023-09-29,Resolved,23.0
+8146,1224,Disciplinary,2023-09-13,2023-10-06,Resolved,23.0
+8147,1224,Transcript,2023-09-10,2023-09-20,Resolved,10.0
+8148,1226,Disciplinary,2023-10-06,2023-10-18,Resolved,12.0
+8149,1230,Immunization,2023-10-16,2023-10-23,Resolved,7.0
+8150,1230,Academic Advising,2023-09-14,2023-09-24,Resolved,10.0
+8151,1233,Immunization,2023-10-29,2023-11-06,Resolved,8.0
+8152,1233,Transcript,2023-09-17,2023-09-21,Resolved,4.0
+8153,1234,Immunization,2023-09-15,2023-10-05,Resolved,20.0
+8154,1239,Academic Advising,2023-09-30,2023-10-10,Resolved,10.0
+8155,1239,Transcript,2023-09-09,2023-09-24,Resolved,15.0
+8156,1240,Academic Advising,2023-09-20,2023-09-21,Resolved,1.0
+8157,1245,Immunization,2023-09-22,2023-09-27,Resolved,5.0
+8158,1247,Transcript,2023-10-28,2023-11-06,Resolved,9.0
+8159,1247,Disciplinary,2023-10-11,2023-10-26,Resolved,15.0
+8160,1256,Disciplinary,2023-10-22,2023-11-03,Resolved,12.0
+8161,1257,Financial,2023-09-22,2023-10-11,Resolved,19.0
+8162,1260,Academic Advising,2023-10-20,2023-10-26,Resolved,6.0
+8163,1261,Transcript,2023-10-27,2023-11-01,Resolved,5.0
+8164,1266,Immunization,2023-10-28,2023-11-13,Resolved,16.0
+8165,1267,Financial,2023-09-29,2023-10-22,Resolved,23.0
+8166,1269,Transcript,2023-10-01,2023-10-21,Resolved,20.0
+8167,1271,Immunization,2023-10-16,2023-11-11,Resolved,26.0
+8168,1275,Transcript,2023-09-24,2023-10-22,Resolved,28.0
+8169,1275,Financial,2023-09-07,,Active,
+8170,1276,Transcript,2023-10-16,,Active,
+8171,1278,Immunization,2023-09-12,,Active,
+8172,1279,Academic Advising,2023-10-18,2023-10-19,Resolved,1.0
+8173,1279,Disciplinary,2023-09-06,2023-10-03,Resolved,27.0
+8174,1281,Disciplinary,2023-09-17,2023-09-28,Resolved,11.0
+8175,1282,Transcript,2023-10-20,2023-11-09,Resolved,20.0
+8176,1284,Financial,2023-09-28,2023-10-01,Resolved,3.0
+8177,1284,Immunization,2023-09-11,2023-10-01,Resolved,20.0
+8178,1289,Disciplinary,2023-10-06,2023-10-18,Resolved,12.0
+8179,1290,Transcript,2023-10-06,2023-10-09,Resolved,3.0
+8180,1290,Academic Advising,2023-09-04,2023-09-28,Resolved,24.0
+8181,1291,Academic Advising,2023-09-28,2023-10-05,Resolved,7.0
+8182,1291,Academic Advising,2023-10-13,2023-10-18,Resolved,5.0
+8183,1297,Disciplinary,2023-10-06,2023-10-15,Resolved,9.0
+8184,1297,Financial,2023-09-27,2023-10-26,Resolved,29.0
+8185,1300,Academic Advising,2023-10-09,2023-10-27,Resolved,18.0
+8186,1301,Academic Advising,2023-10-04,2023-10-25,Resolved,21.0
+8187,1301,Financial,2023-10-15,,Active,
+8188,1303,Academic Advising,2023-10-06,,Active,
+8189,1304,Academic Advising,2023-10-20,2023-11-05,Resolved,16.0
+8190,1307,Transcript,2023-09-18,2023-09-20,Resolved,2.0
+8191,1307,Disciplinary,2023-09-11,2023-10-01,Resolved,20.0
+8192,1312,Transcript,2023-10-01,2023-10-25,Resolved,24.0
+8193,1313,Disciplinary,2023-10-02,2023-10-19,Resolved,17.0
+8194,1313,Financial,2023-09-08,2023-09-09,Resolved,1.0
+8195,1316,Immunization,2023-10-21,2023-11-11,Resolved,21.0
+8196,1316,Financial,2023-10-03,2023-10-13,Resolved,10.0
+8197,1319,Disciplinary,2023-09-12,2023-10-10,Resolved,28.0
+8198,1322,Immunization,2023-10-21,2023-10-25,Resolved,4.0
+8199,1324,Disciplinary,2023-09-11,2023-10-07,Resolved,26.0
+8200,1326,Disciplinary,2023-10-11,2023-11-09,Resolved,29.0
+8201,1326,Transcript,2023-10-06,2023-11-01,Resolved,26.0
+8202,1328,Academic Advising,2023-09-11,2023-09-18,Resolved,7.0
+8203,1335,Financial,2023-10-14,2023-11-12,Resolved,29.0
+8204,1336,Disciplinary,2023-09-01,2023-09-28,Resolved,27.0
+8205,1336,Financial,2023-10-28,2023-11-22,Resolved,25.0
+8206,1340,Transcript,2023-09-30,,Active,
+8207,1340,Financial,2023-09-21,2023-10-10,Resolved,19.0
+8208,1341,Transcript,2023-09-04,2023-09-12,Resolved,8.0
+8209,1341,Academic Advising,2023-09-26,2023-10-25,Resolved,29.0
+8210,1344,Immunization,2023-09-01,2023-09-06,Resolved,5.0
+8211,1344,Academic Advising,2023-09-29,2023-10-26,Resolved,27.0
+8212,1345,Disciplinary,2023-09-30,2023-10-06,Resolved,6.0
+8213,1345,Transcript,2023-10-27,2023-11-03,Resolved,7.0
+8214,1349,Academic Advising,2023-09-14,,Active,
+8215,1349,Immunization,2023-10-05,2023-11-01,Resolved,27.0
+8216,1350,Transcript,2023-10-01,2023-10-18,Resolved,17.0
+8217,1350,Immunization,2023-10-12,2023-10-24,Resolved,12.0
+8218,1351,Immunization,2023-09-09,2023-10-04,Resolved,25.0
+8219,1352,Immunization,2023-09-05,2023-09-07,Resolved,2.0
+8220,1354,Financial,2023-10-08,2023-10-22,Resolved,14.0
+8221,1356,Immunization,2023-10-13,2023-11-11,Resolved,29.0
+8222,1356,Financial,2023-09-14,2023-09-20,Resolved,6.0
+8223,1362,Immunization,2023-09-17,2023-10-14,Resolved,27.0
+8224,1364,Immunization,2023-09-28,2023-10-20,Resolved,22.0
+8225,1367,Disciplinary,2023-10-10,2023-10-18,Resolved,8.0
+8226,1369,Disciplinary,2023-09-25,2023-10-02,Resolved,7.0
+8227,1372,Financial,2023-09-11,2023-09-13,Resolved,2.0
+8228,1373,Academic Advising,2023-09-22,2023-09-25,Resolved,3.0
+8229,1376,Financial,2023-09-25,2023-09-27,Resolved,2.0
+8230,1376,Academic Advising,2023-10-23,2023-11-01,Resolved,9.0
+8231,1378,Disciplinary,2023-09-15,2023-10-09,Resolved,24.0
+8232,1379,Immunization,2023-09-20,2023-10-02,Resolved,12.0
+8233,1379,Transcript,2023-09-06,2023-09-09,Resolved,3.0
+8234,1382,Academic Advising,2023-09-03,2023-09-24,Resolved,21.0
+8235,1382,Disciplinary,2023-10-14,2023-10-22,Resolved,8.0
+8236,1384,Academic Advising,2023-09-07,2023-10-06,Resolved,29.0
+8237,1385,Financial,2023-10-06,,Active,
+8238,1386,Transcript,2023-10-14,,Active,
+8239,1387,Disciplinary,2023-09-18,2023-10-02,Resolved,14.0
+8240,1387,Transcript,2023-10-13,2023-11-10,Resolved,28.0
+8241,1388,Disciplinary,2023-10-28,,Active,
+8242,1388,Transcript,2023-09-17,2023-09-21,Resolved,4.0
+8243,1391,Academic Advising,2023-10-29,2023-11-06,Resolved,8.0
+8244,1391,Transcript,2023-10-06,2023-10-14,Resolved,8.0
+8245,1392,Academic Advising,2023-09-29,2023-10-03,Resolved,4.0
+8246,1395,Financial,2023-09-21,2023-10-13,Resolved,22.0
+8247,1395,Academic Advising,2023-10-01,2023-10-16,Resolved,15.0
+8248,1399,Financial,2023-10-11,2023-10-18,Resolved,7.0
+8249,1399,Immunization,2023-10-04,,Active,
+8250,1402,Financial,2023-10-20,2023-11-12,Resolved,23.0
+8251,1404,Immunization,2023-09-22,2023-10-16,Resolved,24.0
+8252,1404,Academic Advising,2023-09-08,2023-09-27,Resolved,19.0
+8253,1408,Academic Advising,2023-10-04,2023-11-02,Resolved,29.0
+8254,1408,Immunization,2023-10-12,2023-11-02,Resolved,21.0
+8255,1414,Immunization,2023-10-22,2023-11-18,Resolved,27.0
+8256,1417,Transcript,2023-10-26,2023-10-29,Resolved,3.0
+8257,1417,Immunization,2023-10-18,2023-10-21,Resolved,3.0
+8258,1418,Immunization,2023-09-12,,Active,
+8259,1418,Academic Advising,2023-10-15,2023-10-26,Resolved,11.0
+8260,1422,Disciplinary,2023-10-15,2023-11-05,Resolved,21.0
+8261,1422,Immunization,2023-09-03,2023-09-09,Resolved,6.0
+8262,1423,Immunization,2023-10-27,2023-11-22,Resolved,26.0
+8263,1432,Transcript,2023-09-07,2023-10-02,Resolved,25.0
+8264,1433,Financial,2023-09-10,2023-09-23,Resolved,13.0
+8265,1436,Transcript,2023-09-07,2023-09-17,Resolved,10.0
+8266,1436,Financial,2023-09-29,2023-10-06,Resolved,7.0
+8267,1438,Immunization,2023-10-09,,Active,
+8268,1443,Disciplinary,2023-10-16,2023-11-03,Resolved,18.0
+8269,1443,Academic Advising,2023-09-03,,Active,
+8270,1445,Disciplinary,2023-09-22,2023-10-15,Resolved,23.0
+8271,1445,Financial,2023-10-16,2023-11-06,Resolved,21.0
+8272,1446,Disciplinary,2023-10-26,2023-11-03,Resolved,8.0
+8273,1447,Immunization,2023-09-29,2023-10-21,Resolved,22.0
+8274,1450,Financial,2023-09-18,2023-09-28,Resolved,10.0
+8275,1450,Financial,2023-10-28,,Active,
+8276,1451,Financial,2023-09-22,2023-10-15,Resolved,23.0
+8277,1457,Disciplinary,2023-10-14,2023-11-02,Resolved,19.0
+8278,1457,Immunization,2023-10-29,2023-11-15,Resolved,17.0
+8279,1460,Immunization,2023-10-07,2023-10-29,Resolved,22.0
+8280,1460,Immunization,2023-09-04,2023-09-09,Resolved,5.0
+8281,1463,Financial,2023-09-24,2023-09-25,Resolved,1.0
+8282,1464,Transcript,2023-10-17,2023-11-07,Resolved,21.0
+8283,1464,Transcript,2023-09-19,2023-10-12,Resolved,23.0
+8284,1472,Immunization,2023-09-06,2023-09-24,Resolved,18.0
+8285,1472,Disciplinary,2023-09-22,2023-09-30,Resolved,8.0
+8286,1473,Academic Advising,2023-09-03,2023-09-16,Resolved,13.0
+8287,1475,Transcript,2023-10-15,2023-10-21,Resolved,6.0
+8288,1477,Immunization,2023-09-21,2023-10-20,Resolved,29.0
+8289,1477,Financial,2023-09-30,2023-10-24,Resolved,24.0
+8290,1478,Disciplinary,2023-09-30,2023-10-26,Resolved,26.0
+8291,1478,Academic Advising,2023-09-20,,Active,
+8292,1486,Transcript,2023-10-21,2023-10-27,Resolved,6.0
+8293,1491,Financial,2023-09-09,2023-09-14,Resolved,5.0
+8294,1494,Transcript,2023-10-02,,Active,
+8295,1496,Disciplinary,2023-10-01,2023-10-14,Resolved,13.0
+8296,1496,Financial,2023-10-11,2023-11-05,Resolved,25.0
+8297,1497,Transcript,2023-10-12,2023-10-22,Resolved,10.0
+8298,1501,Transcript,2023-10-18,2023-11-10,Resolved,23.0
+8299,1501,Transcript,2023-10-03,,Active,
+8300,1502,Disciplinary,2023-09-25,,Active,
+8301,1505,Disciplinary,2023-10-06,2023-10-30,Resolved,24.0
+8302,1505,Academic Advising,2023-09-04,,Active,
+8303,1506,Transcript,2023-09-28,2023-10-27,Resolved,29.0
+8304,1506,Academic Advising,2023-10-28,,Active,
+8305,1507,Financial,2023-10-02,2023-10-10,Resolved,8.0
+8306,1507,Immunization,2023-10-16,2023-11-02,Resolved,17.0
+8307,1508,Immunization,2023-09-09,2023-09-17,Resolved,8.0
+8308,1509,Academic Advising,2023-10-03,,Active,
+8309,1509,Transcript,2023-10-07,2023-11-01,Resolved,25.0
+8310,1515,Financial,2023-10-24,2023-11-09,Resolved,16.0
+8311,1515,Immunization,2023-10-30,2023-11-15,Resolved,16.0
+8312,1519,Immunization,2023-09-23,2023-10-01,Resolved,8.0
+8313,1523,Disciplinary,2023-10-16,2023-11-05,Resolved,20.0
+8314,1524,Transcript,2023-09-24,2023-10-05,Resolved,11.0
+8315,1525,Academic Advising,2023-10-06,2023-10-27,Resolved,21.0
+8316,1525,Immunization,2023-10-28,2023-11-02,Resolved,5.0
+8317,1526,Academic Advising,2023-10-23,2023-11-13,Resolved,21.0
+8318,1529,Disciplinary,2023-09-03,2023-09-18,Resolved,15.0
+8319,1529,Immunization,2023-10-23,2023-11-17,Resolved,25.0
+8320,1530,Academic Advising,2023-09-25,2023-09-28,Resolved,3.0
+8321,1530,Disciplinary,2023-09-12,2023-10-05,Resolved,23.0
+8322,1532,Financial,2023-09-16,2023-10-03,Resolved,17.0
+8323,1532,Financial,2023-09-03,2023-09-25,Resolved,22.0
+8324,1536,Immunization,2023-10-08,,Active,
+8325,1539,Disciplinary,2023-10-21,2023-11-14,Resolved,24.0
+8326,1540,Disciplinary,2023-09-05,2023-09-06,Resolved,1.0
+8327,1540,Transcript,2023-10-17,,Active,
+8328,1541,Immunization,2023-10-04,2023-10-07,Resolved,3.0
+8329,1544,Transcript,2023-09-11,2023-10-09,Resolved,28.0
+8330,1547,Academic Advising,2023-10-16,2023-10-29,Resolved,13.0
+8331,1547,Immunization,2023-10-23,,Active,
+8332,1549,Financial,2023-10-03,2023-10-09,Resolved,6.0
+8333,1550,Financial,2023-10-18,2023-10-21,Resolved,3.0
+8334,1552,Disciplinary,2023-09-21,2023-09-25,Resolved,4.0
+8335,1552,Financial,2023-10-12,2023-10-16,Resolved,4.0
+8336,1554,Immunization,2023-09-12,2023-10-08,Resolved,26.0
+8337,1554,Disciplinary,2023-10-06,2023-10-22,Resolved,16.0
+8338,1560,Financial,2023-10-18,2023-10-20,Resolved,2.0
+8339,1562,Transcript,2023-10-07,2023-11-03,Resolved,27.0
+8340,1564,Academic Advising,2023-09-21,2023-09-23,Resolved,2.0
+8341,1567,Immunization,2023-09-04,2023-09-14,Resolved,10.0
+8342,1569,Transcript,2023-09-02,2023-09-04,Resolved,2.0
+8343,1569,Financial,2023-10-14,2023-10-16,Resolved,2.0
+8344,1571,Immunization,2023-10-17,2023-11-11,Resolved,25.0
+8345,1571,Immunization,2023-09-15,2023-09-27,Resolved,12.0
+8346,1572,Transcript,2023-09-10,2023-10-01,Resolved,21.0
+8347,1572,Immunization,2023-10-01,2023-10-05,Resolved,4.0
+8348,1574,Academic Advising,2023-10-28,2023-11-16,Resolved,19.0
+8349,1579,Academic Advising,2023-10-19,2023-11-10,Resolved,22.0
+8350,1582,Immunization,2023-09-27,2023-10-08,Resolved,11.0
+8351,1587,Academic Advising,2023-09-11,2023-09-19,Resolved,8.0
+8352,1587,Immunization,2023-10-27,,Active,
+8353,1592,Transcript,2023-09-14,2023-10-06,Resolved,22.0
+8354,1592,Financial,2023-10-13,,Active,
+8355,1593,Academic Advising,2023-09-26,2023-09-29,Resolved,3.0
+8356,1594,Disciplinary,2023-10-15,,Active,
+8357,1594,Financial,2023-09-30,2023-10-20,Resolved,20.0
+8358,1597,Transcript,2023-10-12,2023-11-07,Resolved,26.0
+8359,1598,Transcript,2023-09-08,2023-09-11,Resolved,3.0
+8360,1600,Disciplinary,2023-10-12,2023-11-05,Resolved,24.0
+8361,1601,Financial,2023-09-10,2023-09-17,Resolved,7.0
+8362,1604,Transcript,2023-09-28,,Active,
+8363,1604,Transcript,2023-09-08,2023-10-03,Resolved,25.0
+8364,1607,Disciplinary,2023-09-01,2023-09-16,Resolved,15.0
+8365,1608,Transcript,2023-10-24,2023-11-11,Resolved,18.0
+8366,1609,Academic Advising,2023-09-10,2023-09-28,Resolved,18.0
+8367,1610,Financial,2023-10-30,2023-11-19,Resolved,20.0
+8368,1610,Academic Advising,2023-10-13,2023-11-11,Resolved,29.0
+8369,1611,Academic Advising,2023-09-11,2023-10-06,Resolved,25.0
+8370,1611,Academic Advising,2023-10-29,2023-11-07,Resolved,9.0
+8371,1612,Academic Advising,2023-10-17,,Active,
+8372,1618,Academic Advising,2023-10-26,2023-11-19,Resolved,24.0
+8373,1619,Transcript,2023-10-15,2023-10-19,Resolved,4.0
+8374,1619,Academic Advising,2023-10-29,2023-11-07,Resolved,9.0
+8375,1620,Transcript,2023-09-04,,Active,
+8376,1620,Transcript,2023-09-05,2023-09-15,Resolved,10.0
+8377,1632,Transcript,2023-10-10,2023-10-14,Resolved,4.0
+8378,1632,Immunization,2023-10-29,2023-10-30,Resolved,1.0
+8379,1634,Transcript,2023-10-27,,Active,
+8380,1634,Financial,2023-09-06,2023-09-12,Resolved,6.0
+8381,1635,Immunization,2023-10-02,2023-10-12,Resolved,10.0
+8382,1635,Financial,2023-09-30,2023-10-26,Resolved,26.0
+8383,1636,Financial,2023-10-20,2023-11-04,Resolved,15.0
+8384,1638,Transcript,2023-10-02,2023-10-20,Resolved,18.0
+8385,1638,Academic Advising,2023-09-22,2023-10-14,Resolved,22.0
+8386,1641,Financial,2023-10-12,2023-11-06,Resolved,25.0
+8387,1648,Financial,2023-10-07,2023-10-14,Resolved,7.0
+8388,1648,Immunization,2023-10-21,2023-10-29,Resolved,8.0
+8389,1649,Immunization,2023-09-17,,Active,
+8390,1653,Transcript,2023-10-25,2023-11-10,Resolved,16.0
+8391,1656,Immunization,2023-09-16,2023-10-07,Resolved,21.0
+8392,1660,Immunization,2023-10-15,2023-11-03,Resolved,19.0
+8393,1660,Disciplinary,2023-09-27,2023-09-29,Resolved,2.0
+8394,1661,Transcript,2023-09-12,2023-09-30,Resolved,18.0
+8395,1661,Immunization,2023-10-01,2023-10-22,Resolved,21.0
+8396,1662,Immunization,2023-09-26,2023-10-18,Resolved,22.0
+8397,1667,Transcript,2023-10-18,2023-10-29,Resolved,11.0
+8398,1667,Disciplinary,2023-10-01,,Active,
+8399,1669,Academic Advising,2023-09-13,2023-10-04,Resolved,21.0
+8400,1669,Immunization,2023-10-09,2023-11-05,Resolved,27.0
+8401,1670,Transcript,2023-10-10,2023-10-22,Resolved,12.0
+8402,1670,Disciplinary,2023-10-27,2023-11-05,Resolved,9.0
+8403,1678,Academic Advising,2023-10-05,2023-10-26,Resolved,21.0
+8404,1681,Financial,2023-09-04,2023-10-01,Resolved,27.0
+8405,1681,Disciplinary,2023-10-11,2023-10-19,Resolved,8.0
+8406,1685,Disciplinary,2023-09-28,,Active,
+8407,1689,Immunization,2023-10-29,2023-11-04,Resolved,6.0
+8408,1692,Transcript,2023-09-01,2023-09-29,Resolved,28.0
+8409,1692,Academic Advising,2023-09-13,2023-09-25,Resolved,12.0
+8410,1694,Transcript,2023-09-17,2023-10-02,Resolved,15.0
+8411,1695,Disciplinary,2023-09-03,,Active,
+8412,1696,Academic Advising,2023-10-23,,Active,
+8413,1702,Immunization,2023-10-23,2023-10-27,Resolved,4.0
+8414,1702,Financial,2023-10-16,2023-10-22,Resolved,6.0
+8415,1703,Academic Advising,2023-09-02,2023-09-19,Resolved,17.0
+8416,1703,Financial,2023-09-17,2023-10-12,Resolved,25.0
+8417,1706,Transcript,2023-09-10,,Active,
+8418,1714,Financial,2023-10-05,2023-10-08,Resolved,3.0
+8419,1715,Academic Advising,2023-10-26,2023-11-18,Resolved,23.0
+8420,1715,Academic Advising,2023-10-06,2023-10-13,Resolved,7.0
+8421,1716,Financial,2023-10-10,2023-10-16,Resolved,6.0
+8422,1718,Academic Advising,2023-10-12,2023-10-29,Resolved,17.0
+8423,1718,Immunization,2023-09-28,,Active,
+8424,1719,Disciplinary,2023-09-21,2023-10-18,Resolved,27.0
+8425,1719,Academic Advising,2023-10-21,2023-11-06,Resolved,16.0
+8426,1720,Disciplinary,2023-09-30,2023-10-05,Resolved,5.0
+8427,1725,Immunization,2023-10-11,2023-10-16,Resolved,5.0
+8428,1725,Transcript,2023-10-12,,Active,
+8429,1731,Immunization,2023-09-29,2023-10-08,Resolved,9.0
+8430,1731,Disciplinary,2023-10-27,2023-11-07,Resolved,11.0
+8431,1733,Financial,2023-10-19,2023-11-16,Resolved,28.0
+8432,1733,Immunization,2023-09-21,2023-09-27,Resolved,6.0
+8433,1734,Immunization,2023-09-14,2023-09-17,Resolved,3.0
+8434,1734,Academic Advising,2023-10-23,,Active,
+8435,1740,Transcript,2023-09-22,2023-10-13,Resolved,21.0
+8436,1741,Disciplinary,2023-09-11,2023-09-23,Resolved,12.0
+8437,1741,Financial,2023-09-22,2023-10-13,Resolved,21.0
+8438,1742,Transcript,2023-09-07,2023-09-24,Resolved,17.0
+8439,1743,Academic Advising,2023-10-08,2023-11-04,Resolved,27.0
+8440,1747,Immunization,2023-10-16,2023-11-10,Resolved,25.0
+8441,1752,Immunization,2023-10-04,,Active,
+8442,1758,Academic Advising,2023-10-12,2023-10-24,Resolved,12.0
+8443,1759,Academic Advising,2023-09-29,2023-10-10,Resolved,11.0
+8444,1762,Transcript,2023-09-10,2023-10-09,Resolved,29.0
+8445,1763,Immunization,2023-09-23,2023-10-14,Resolved,21.0
+8446,1766,Immunization,2023-10-05,2023-11-01,Resolved,27.0
+8447,1767,Academic Advising,2023-09-02,2023-09-21,Resolved,19.0
+8448,1767,Transcript,2023-10-18,2023-10-24,Resolved,6.0
+8449,1771,Financial,2023-09-15,,Active,
+8450,1772,Transcript,2023-09-24,2023-10-19,Resolved,25.0
+8451,1772,Disciplinary,2023-09-29,2023-10-17,Resolved,18.0
+8452,1777,Academic Advising,2023-09-02,2023-09-18,Resolved,16.0
+8453,1777,Disciplinary,2023-09-06,2023-09-15,Resolved,9.0
+8454,1778,Academic Advising,2023-10-09,2023-10-14,Resolved,5.0
+8455,1778,Academic Advising,2023-10-25,2023-11-02,Resolved,8.0
+8456,1784,Transcript,2023-09-01,2023-09-11,Resolved,10.0
+8457,1787,Immunization,2023-09-23,2023-10-13,Resolved,20.0
+8458,1791,Disciplinary,2023-10-20,2023-10-30,Resolved,10.0
+8459,1793,Financial,2023-10-19,2023-11-07,Resolved,19.0
+8460,1799,Financial,2023-10-20,2023-11-05,Resolved,16.0
+8461,1799,Financial,2023-10-14,2023-11-09,Resolved,26.0
+8462,1800,Disciplinary,2023-09-28,2023-10-10,Resolved,12.0
+8463,1800,Transcript,2023-09-26,2023-09-30,Resolved,4.0
+8464,1801,Immunization,2023-09-16,2023-09-18,Resolved,2.0
+8465,1801,Transcript,2023-10-19,2023-10-31,Resolved,12.0
+8466,1804,Disciplinary,2023-10-07,2023-10-30,Resolved,23.0
+8467,1805,Academic Advising,2023-09-18,2023-10-04,Resolved,16.0
+8468,1807,Disciplinary,2023-10-04,,Active,
+8469,1814,Financial,2023-10-27,2023-11-23,Resolved,27.0
+8470,1815,Academic Advising,2023-09-18,2023-10-07,Resolved,19.0
+8471,1815,Transcript,2023-10-11,2023-10-23,Resolved,12.0
+8472,1819,Immunization,2023-10-10,2023-11-01,Resolved,22.0
+8473,1819,Academic Advising,2023-09-28,2023-10-16,Resolved,18.0
+8474,1820,Immunization,2023-09-21,2023-10-17,Resolved,26.0
+8475,1822,Transcript,2023-10-06,2023-10-09,Resolved,3.0
+8476,1822,Transcript,2023-10-27,2023-11-22,Resolved,26.0
+8477,1825,Financial,2023-10-21,,Active,
+8478,1827,Financial,2023-10-09,2023-11-03,Resolved,25.0
+8479,1827,Academic Advising,2023-09-18,2023-10-01,Resolved,13.0
+8480,1829,Financial,2023-10-28,2023-11-12,Resolved,15.0
+8481,1829,Financial,2023-10-03,2023-10-06,Resolved,3.0
+8482,1830,Financial,2023-09-19,2023-10-04,Resolved,15.0
+8483,1833,Academic Advising,2023-09-01,2023-09-04,Resolved,3.0
+8484,1833,Academic Advising,2023-09-25,2023-09-26,Resolved,1.0
+8485,1837,Academic Advising,2023-10-03,,Active,
+8486,1840,Disciplinary,2023-09-17,2023-09-30,Resolved,13.0
+8487,1841,Academic Advising,2023-10-30,2023-11-05,Resolved,6.0
+8488,1844,Academic Advising,2023-09-14,,Active,
+8489,1845,Immunization,2023-09-05,2023-09-09,Resolved,4.0
+8490,1846,Disciplinary,2023-10-26,,Active,
+8491,1851,Disciplinary,2023-10-14,2023-11-08,Resolved,25.0
+8492,1854,Academic Advising,2023-10-04,2023-10-11,Resolved,7.0
+8493,1854,Transcript,2023-10-14,2023-11-11,Resolved,28.0
+8494,1856,Transcript,2023-10-09,2023-10-29,Resolved,20.0
+8495,1856,Disciplinary,2023-09-08,2023-09-22,Resolved,14.0
+8496,1857,Immunization,2023-09-02,2023-09-12,Resolved,10.0
+8497,1857,Immunization,2023-10-26,2023-11-07,Resolved,12.0
+8498,1860,Immunization,2023-10-30,2023-11-15,Resolved,16.0
+8499,1860,Academic Advising,2023-09-15,2023-10-08,Resolved,23.0
+8500,1861,Financial,2023-09-02,,Active,
+8501,1861,Academic Advising,2023-10-19,2023-11-07,Resolved,19.0
+8502,1862,Transcript,2023-09-28,2023-10-16,Resolved,18.0
+8503,1863,Financial,2023-10-26,2023-11-18,Resolved,23.0
+8504,1863,Academic Advising,2023-10-20,2023-11-11,Resolved,22.0
+8505,1871,Transcript,2023-09-21,2023-09-30,Resolved,9.0
+8506,1873,Financial,2023-09-20,2023-09-28,Resolved,8.0
+8507,1874,Disciplinary,2023-09-09,2023-09-27,Resolved,18.0
+8508,1875,Transcript,2023-10-05,,Active,
+8509,1876,Academic Advising,2023-09-19,2023-09-28,Resolved,9.0
+8510,1877,Academic Advising,2023-09-22,2023-10-08,Resolved,16.0
+8511,1877,Immunization,2023-10-30,,Active,
+8512,1880,Disciplinary,2023-09-26,2023-09-30,Resolved,4.0
+8513,1884,Immunization,2023-10-28,2023-11-04,Resolved,7.0
+8514,1884,Transcript,2023-10-05,,Active,
+8515,1887,Academic Advising,2023-09-20,2023-10-05,Resolved,15.0
+8516,1887,Transcript,2023-09-12,,Active,
+8517,1888,Financial,2023-09-18,2023-09-26,Resolved,8.0
+8518,1890,Disciplinary,2023-10-26,,Active,
+8519,1890,Financial,2023-09-30,2023-10-20,Resolved,20.0
+8520,1891,Disciplinary,2023-10-29,2023-11-08,Resolved,10.0
+8521,1891,Financial,2023-09-24,2023-09-28,Resolved,4.0
+8522,1892,Academic Advising,2023-09-28,2023-10-10,Resolved,12.0
+8523,1892,Transcript,2023-10-17,2023-11-04,Resolved,18.0
+8524,1893,Academic Advising,2023-09-26,2023-10-10,Resolved,14.0
+8525,1894,Immunization,2023-09-07,2023-09-18,Resolved,11.0
+8526,1894,Disciplinary,2023-10-13,2023-10-20,Resolved,7.0
+8527,1895,Transcript,2023-09-20,2023-10-16,Resolved,26.0
+8528,1896,Immunization,2023-09-24,2023-09-25,Resolved,1.0
+8529,1896,Academic Advising,2023-10-23,2023-11-20,Resolved,28.0
+8530,1897,Academic Advising,2023-09-26,2023-09-30,Resolved,4.0
+8531,1897,Disciplinary,2023-10-26,2023-10-28,Resolved,2.0
+8532,1898,Academic Advising,2023-10-20,2023-11-13,Resolved,24.0
+8533,1898,Transcript,2023-10-16,2023-10-19,Resolved,3.0
+8534,1900,Academic Advising,2023-10-24,2023-11-03,Resolved,10.0
+8535,1902,Academic Advising,2023-10-01,2023-10-21,Resolved,20.0
+8536,1902,Immunization,2023-10-20,2023-11-03,Resolved,14.0
+8537,1903,Transcript,2023-09-13,,Active,
+8538,1903,Disciplinary,2023-10-29,2023-11-05,Resolved,7.0
+8539,1905,Academic Advising,2023-09-20,2023-09-30,Resolved,10.0
+8540,1906,Immunization,2023-09-29,2023-10-28,Resolved,29.0
+8541,1906,Disciplinary,2023-10-24,2023-10-26,Resolved,2.0
+8542,1910,Transcript,2023-10-10,2023-10-28,Resolved,18.0
+8543,1910,Financial,2023-10-04,,Active,
+8544,1912,Disciplinary,2023-09-26,,Active,
+8545,1912,Financial,2023-09-02,2023-09-09,Resolved,7.0
+8546,1913,Immunization,2023-09-04,2023-09-13,Resolved,9.0
+8547,1917,Transcript,2023-09-03,2023-09-26,Resolved,23.0
+8548,1922,Academic Advising,2023-09-28,2023-10-10,Resolved,12.0
+8549,1922,Academic Advising,2023-09-02,2023-09-16,Resolved,14.0
+8550,1924,Transcript,2023-10-26,2023-11-19,Resolved,24.0
+8551,1924,Transcript,2023-09-07,2023-09-20,Resolved,13.0
+8552,1927,Disciplinary,2023-09-08,2023-09-26,Resolved,18.0
+8553,1928,Financial,2023-09-10,2023-09-27,Resolved,17.0
+8554,1929,Financial,2023-10-05,2023-10-06,Resolved,1.0
+8555,1930,Immunization,2023-09-08,2023-09-19,Resolved,11.0
+8556,1933,Transcript,2023-09-28,,Active,
+8557,1933,Academic Advising,2023-10-13,2023-11-02,Resolved,20.0
+8558,1934,Financial,2023-10-12,2023-10-17,Resolved,5.0
+8559,1934,Immunization,2023-09-09,2023-09-29,Resolved,20.0
+8560,1936,Financial,2023-09-02,2023-09-25,Resolved,23.0
+8561,1936,Immunization,2023-09-17,2023-10-12,Resolved,25.0
+8562,1937,Transcript,2023-09-27,2023-10-17,Resolved,20.0
+8563,1939,Transcript,2023-09-28,2023-10-16,Resolved,18.0
+8564,1940,Disciplinary,2023-10-23,2023-11-16,Resolved,24.0
+8565,1940,Academic Advising,2023-10-28,2023-11-19,Resolved,22.0
+8566,1941,Transcript,2023-09-30,2023-10-28,Resolved,28.0
+8567,1941,Immunization,2023-10-07,2023-10-27,Resolved,20.0
+8568,1942,Disciplinary,2023-09-16,2023-10-13,Resolved,27.0
+8569,1943,Academic Advising,2023-09-01,2023-09-26,Resolved,25.0
+8570,1945,Immunization,2023-10-22,2023-10-28,Resolved,6.0
+8571,1946,Transcript,2023-10-09,2023-11-01,Resolved,23.0
+8572,1947,Financial,2023-09-11,2023-10-07,Resolved,26.0
+8573,1949,Immunization,2023-10-18,2023-10-24,Resolved,6.0
+8574,1951,Transcript,2023-10-09,,Active,
+8575,1952,Immunization,2023-09-22,2023-10-08,Resolved,16.0
+8576,1954,Academic Advising,2023-10-03,2023-10-11,Resolved,8.0
+8577,1954,Immunization,2023-09-30,,Active,
+8578,1958,Immunization,2023-09-02,2023-09-14,Resolved,12.0
+8579,1958,Immunization,2023-09-24,2023-10-12,Resolved,18.0
+8580,1959,Financial,2023-10-17,2023-11-03,Resolved,17.0
+8581,1959,Academic Advising,2023-10-01,,Active,
+8582,1960,Financial,2023-10-28,2023-11-02,Resolved,5.0
+8583,1960,Immunization,2023-09-29,2023-10-03,Resolved,4.0
+8584,1963,Academic Advising,2023-10-06,2023-10-29,Resolved,23.0
+8585,1963,Immunization,2023-10-27,2023-11-12,Resolved,16.0
+8586,1964,Immunization,2023-10-11,2023-10-12,Resolved,1.0
+8587,1967,Transcript,2023-09-24,2023-09-26,Resolved,2.0
+8588,1967,Transcript,2023-09-16,,Active,
+8589,1970,Disciplinary,2023-09-18,2023-10-17,Resolved,29.0
+8590,1970,Immunization,2023-10-13,2023-10-27,Resolved,14.0
+8591,1973,Academic Advising,2023-10-05,,Active,
+8592,1973,Financial,2023-10-07,2023-10-21,Resolved,14.0
+8593,1974,Transcript,2023-09-21,2023-10-09,Resolved,18.0
+8594,1977,Immunization,2023-09-24,,Active,
+8595,1978,Immunization,2023-10-20,2023-10-22,Resolved,2.0
+8596,1991,Disciplinary,2023-10-17,2023-10-25,Resolved,8.0
+8597,1991,Disciplinary,2023-09-05,,Active,
+8598,1992,Transcript,2023-10-22,,Active,
+8599,1994,Financial,2023-09-04,2023-09-12,Resolved,8.0
+8600,1994,Immunization,2023-10-24,2023-10-25,Resolved,1.0
+8601,1996,Immunization,2023-10-25,2023-11-07,Resolved,13.0
+8602,1998,Disciplinary,2023-10-22,2023-11-01,Resolved,10.0
+8603,1998,Disciplinary,2023-09-25,2023-10-07,Resolved,12.0
+8604,2005,Academic Advising,2023-10-05,2023-11-03,Resolved,29.0
+8605,2007,Academic Advising,2023-09-21,2023-10-10,Resolved,19.0
+8606,2009,Transcript,2023-09-20,2023-10-12,Resolved,22.0
+8607,2009,Academic Advising,2023-09-23,2023-10-16,Resolved,23.0
+8608,2014,Immunization,2023-09-08,2023-09-27,Resolved,19.0
+8609,2015,Transcript,2023-10-12,2023-11-03,Resolved,22.0
+8610,2016,Transcript,2023-10-24,2023-11-05,Resolved,12.0
+8611,2016,Disciplinary,2023-10-23,2023-11-13,Resolved,21.0
+8612,2019,Financial,2023-10-24,2023-11-03,Resolved,10.0
+8613,2021,Disciplinary,2023-09-11,2023-09-21,Resolved,10.0
+8614,2021,Financial,2023-10-10,2023-11-02,Resolved,23.0
+8615,2022,Financial,2023-09-12,2023-09-19,Resolved,7.0
+8616,2027,Immunization,2023-10-10,2023-11-08,Resolved,29.0
+8617,2030,Financial,2023-10-21,2023-11-16,Resolved,26.0
+8618,2032,Financial,2023-10-30,2023-11-05,Resolved,6.0
+8619,2032,Disciplinary,2023-09-19,2023-10-10,Resolved,21.0
+8620,2038,Transcript,2023-10-09,2023-10-18,Resolved,9.0
+8621,2038,Transcript,2023-10-27,2023-11-11,Resolved,15.0
+8622,2041,Transcript,2023-10-26,2023-11-16,Resolved,21.0
+8623,2043,Transcript,2023-09-26,2023-10-11,Resolved,15.0
+8624,2043,Disciplinary,2023-09-12,2023-09-16,Resolved,4.0
+8625,2044,Disciplinary,2023-09-27,,Active,
+8626,2045,Financial,2023-09-13,,Active,
+8627,2048,Transcript,2023-09-02,2023-09-08,Resolved,6.0
+8628,2050,Immunization,2023-10-20,2023-11-13,Resolved,24.0
+8629,2052,Academic Advising,2023-10-18,2023-11-04,Resolved,17.0
+8630,2055,Financial,2023-10-12,2023-11-07,Resolved,26.0
+8631,2055,Immunization,2023-09-14,,Active,
+8632,2056,Transcript,2023-10-28,2023-10-29,Resolved,1.0
+8633,2058,Academic Advising,2023-10-09,2023-10-22,Resolved,13.0
+8634,2059,Disciplinary,2023-09-04,2023-09-09,Resolved,5.0
+8635,2066,Transcript,2023-10-22,2023-11-03,Resolved,12.0
+8636,2066,Disciplinary,2023-09-04,2023-09-24,Resolved,20.0
+8637,2067,Academic Advising,2023-09-20,2023-09-21,Resolved,1.0
+8638,2072,Immunization,2023-09-29,2023-10-28,Resolved,29.0
+8639,2077,Transcript,2023-09-30,2023-10-06,Resolved,6.0
+8640,2078,Disciplinary,2023-09-10,2023-09-16,Resolved,6.0
+8641,2081,Transcript,2023-09-07,2023-09-23,Resolved,16.0
+8642,2081,Financial,2023-09-09,2023-10-05,Resolved,26.0
+8643,2082,Transcript,2023-10-17,2023-10-26,Resolved,9.0
+8644,2083,Transcript,2023-10-22,2023-11-19,Resolved,28.0
+8645,2084,Financial,2023-10-28,2023-10-29,Resolved,1.0
+8646,2084,Disciplinary,2023-09-21,2023-10-18,Resolved,27.0
+8647,2087,Financial,2023-10-21,2023-11-06,Resolved,16.0
+8648,2090,Transcript,2023-10-14,2023-11-12,Resolved,29.0
+8649,2096,Academic Advising,2023-10-07,2023-11-01,Resolved,25.0
+8650,2097,Academic Advising,2023-09-12,2023-10-01,Resolved,19.0
+8651,2098,Disciplinary,2023-10-25,2023-11-19,Resolved,25.0
+8652,2099,Immunization,2023-10-26,2023-11-24,Resolved,29.0
+8653,2100,Disciplinary,2023-09-20,2023-10-05,Resolved,15.0
+8654,2100,Transcript,2023-10-22,2023-10-29,Resolved,7.0
+8655,2103,Academic Advising,2023-10-23,2023-11-13,Resolved,21.0
+8656,2103,Transcript,2023-09-11,,Active,
+8657,2104,Transcript,2023-09-26,,Active,
+8658,2104,Immunization,2023-10-23,2023-11-10,Resolved,18.0
+8659,2107,Immunization,2023-09-20,2023-10-02,Resolved,12.0
+8660,2107,Financial,2023-09-03,2023-09-23,Resolved,20.0
+8661,2108,Transcript,2023-10-24,2023-11-17,Resolved,24.0
+8662,2108,Transcript,2023-10-24,2023-11-03,Resolved,10.0
+8663,2111,Financial,2023-09-14,,Active,
+8664,2117,Transcript,2023-10-17,,Active,
+8665,2117,Transcript,2023-10-29,2023-10-31,Resolved,2.0
+8666,2119,Academic Advising,2023-09-18,,Active,
+8667,2119,Academic Advising,2023-09-18,2023-09-26,Resolved,8.0
+8668,2123,Academic Advising,2023-09-20,2023-09-24,Resolved,4.0
+8669,2124,Academic Advising,2023-10-29,2023-11-01,Resolved,3.0
+8670,2124,Disciplinary,2023-10-06,2023-10-29,Resolved,23.0
+8671,2128,Transcript,2023-10-09,2023-10-22,Resolved,13.0
+8672,2128,Immunization,2023-09-13,2023-09-14,Resolved,1.0
+8673,2131,Immunization,2023-09-28,2023-10-17,Resolved,19.0
+8674,2132,Academic Advising,2023-09-13,2023-10-12,Resolved,29.0
+8675,2143,Academic Advising,2023-09-06,2023-09-10,Resolved,4.0
+8676,2145,Transcript,2023-09-11,2023-10-05,Resolved,24.0
+8677,2145,Disciplinary,2023-09-19,2023-09-21,Resolved,2.0
+8678,2147,Transcript,2023-10-20,2023-11-01,Resolved,12.0
+8679,2151,Financial,2023-10-01,,Active,
+8680,2156,Disciplinary,2023-09-06,2023-09-10,Resolved,4.0
+8681,2156,Disciplinary,2023-10-01,2023-10-09,Resolved,8.0
+8682,2157,Transcript,2023-09-22,2023-09-25,Resolved,3.0
+8683,2159,Disciplinary,2023-09-19,2023-10-04,Resolved,15.0
+8684,2159,Immunization,2023-10-21,2023-11-16,Resolved,26.0
+8685,2160,Academic Advising,2023-09-28,2023-10-25,Resolved,27.0
+8686,2160,Immunization,2023-10-01,2023-10-20,Resolved,19.0
+8687,2162,Disciplinary,2023-09-11,2023-09-18,Resolved,7.0
+8688,2162,Financial,2023-10-14,2023-11-01,Resolved,18.0
+8689,2163,Financial,2023-10-21,,Active,
+8690,2164,Academic Advising,2023-10-21,2023-11-10,Resolved,20.0
+8691,2164,Academic Advising,2023-10-27,2023-11-11,Resolved,15.0
+8692,2167,Disciplinary,2023-09-04,2023-09-17,Resolved,13.0
+8693,2168,Transcript,2023-09-30,,Active,
+8694,2170,Academic Advising,2023-09-30,2023-10-26,Resolved,26.0
+8695,2171,Immunization,2023-09-20,2023-10-18,Resolved,28.0
+8696,2171,Transcript,2023-09-12,2023-09-25,Resolved,13.0
+8697,2172,Financial,2023-10-22,2023-11-01,Resolved,10.0
+8698,2175,Disciplinary,2023-10-28,2023-11-02,Resolved,5.0
+8699,2176,Financial,2023-09-03,2023-09-24,Resolved,21.0
+8700,2176,Immunization,2023-10-21,2023-10-27,Resolved,6.0
+8701,2178,Disciplinary,2023-09-03,2023-09-25,Resolved,22.0
+8702,2178,Transcript,2023-10-10,2023-10-17,Resolved,7.0
+8703,2182,Immunization,2023-09-29,2023-10-19,Resolved,20.0
+8704,2183,Disciplinary,2023-10-23,2023-10-30,Resolved,7.0
+8705,2188,Financial,2023-09-25,2023-10-13,Resolved,18.0
+8706,2191,Financial,2023-10-15,,Active,
+8707,2192,Immunization,2023-09-15,,Active,
+8708,2194,Immunization,2023-10-26,2023-11-03,Resolved,8.0
+8709,2196,Immunization,2023-10-23,,Active,
+8710,2200,Financial,2023-10-05,2023-10-21,Resolved,16.0
+8711,2203,Academic Advising,2023-09-14,2023-09-21,Resolved,7.0
+8712,2207,Immunization,2023-09-29,2023-10-21,Resolved,22.0
+8713,2211,Disciplinary,2023-09-06,2023-09-24,Resolved,18.0
+8714,2211,Disciplinary,2023-09-25,2023-10-08,Resolved,13.0
+8715,2212,Academic Advising,2023-10-14,2023-10-18,Resolved,4.0
+8716,2212,Financial,2023-09-20,,Active,
+8717,2216,Disciplinary,2023-10-12,2023-10-18,Resolved,6.0
+8718,2217,Transcript,2023-09-05,,Active,
+8719,2218,Disciplinary,2023-09-19,2023-09-30,Resolved,11.0
+8720,2218,Academic Advising,2023-10-17,2023-10-24,Resolved,7.0
+8721,2220,Transcript,2023-10-14,2023-10-19,Resolved,5.0
+8722,2221,Academic Advising,2023-09-27,,Active,
+8723,2221,Disciplinary,2023-09-24,2023-10-03,Resolved,9.0
+8724,2222,Transcript,2023-10-28,2023-11-12,Resolved,15.0
+8725,2226,Disciplinary,2023-10-22,2023-11-12,Resolved,21.0
+8726,2227,Transcript,2023-09-03,2023-09-04,Resolved,1.0
+8727,2232,Immunization,2023-10-22,2023-11-04,Resolved,13.0
+8728,2233,Disciplinary,2023-09-18,2023-10-05,Resolved,17.0
+8729,2235,Transcript,2023-10-30,,Active,
+8730,2238,Academic Advising,2023-10-21,2023-10-29,Resolved,8.0
+8731,2238,Academic Advising,2023-09-16,2023-09-21,Resolved,5.0
+8732,2240,Academic Advising,2023-09-24,2023-09-29,Resolved,5.0
+8733,2243,Disciplinary,2023-09-19,2023-10-08,Resolved,19.0
+8734,2243,Disciplinary,2023-09-28,2023-10-13,Resolved,15.0
+8735,2244,Immunization,2023-09-01,2023-09-05,Resolved,4.0
+8736,2244,Financial,2023-09-22,2023-10-14,Resolved,22.0
+8737,2251,Academic Advising,2023-09-27,,Active,
+8738,2251,Immunization,2023-09-13,2023-09-20,Resolved,7.0
+8739,2252,Financial,2023-09-08,2023-09-20,Resolved,12.0
+8740,2253,Academic Advising,2023-10-25,2023-11-09,Resolved,15.0
+8741,2253,Transcript,2023-09-16,,Active,
+8742,2254,Academic Advising,2023-10-17,2023-11-10,Resolved,24.0
+8743,2256,Disciplinary,2023-09-19,2023-10-16,Resolved,27.0
+8744,2256,Disciplinary,2023-10-11,2023-11-01,Resolved,21.0
+8745,2257,Financial,2023-09-18,2023-09-22,Resolved,4.0
+8746,2257,Transcript,2023-10-26,2023-10-31,Resolved,5.0
+8747,2261,Disciplinary,2023-10-21,2023-11-11,Resolved,21.0
+8748,2264,Disciplinary,2023-09-07,2023-09-11,Resolved,4.0
+8749,2264,Immunization,2023-09-06,,Active,
+8750,2267,Transcript,2023-10-16,2023-10-19,Resolved,3.0
+8751,2267,Academic Advising,2023-10-24,2023-10-30,Resolved,6.0
+8752,2272,Academic Advising,2023-09-09,,Active,
+8753,2272,Transcript,2023-09-04,,Active,
+8754,2274,Disciplinary,2023-09-28,2023-10-09,Resolved,11.0
+8755,2274,Transcript,2023-10-14,2023-11-07,Resolved,24.0
+8756,2275,Academic Advising,2023-10-09,2023-10-16,Resolved,7.0
+8757,2276,Immunization,2023-10-14,2023-10-28,Resolved,14.0
+8758,2276,Transcript,2023-10-04,2023-10-13,Resolved,9.0
+8759,2280,Immunization,2023-09-06,2023-09-23,Resolved,17.0
+8760,2280,Financial,2023-10-26,2023-11-22,Resolved,27.0
+8761,2281,Disciplinary,2023-10-12,,Active,
+8762,2281,Transcript,2023-10-25,2023-11-16,Resolved,22.0
+8763,2289,Academic Advising,2023-09-03,2023-09-11,Resolved,8.0
+8764,2289,Transcript,2023-10-17,2023-11-10,Resolved,24.0
+8765,2292,Academic Advising,2023-09-23,2023-09-24,Resolved,1.0
+8766,2294,Immunization,2023-09-02,2023-09-07,Resolved,5.0
+8767,2295,Academic Advising,2023-10-23,2023-11-21,Resolved,29.0
+8768,2295,Immunization,2023-09-25,2023-10-05,Resolved,10.0
+8769,2296,Disciplinary,2023-09-21,2023-10-01,Resolved,10.0
+8770,2297,Academic Advising,2023-09-19,2023-10-17,Resolved,28.0
+8771,2301,Immunization,2023-10-20,2023-11-15,Resolved,26.0
+8772,2301,Immunization,2023-10-19,2023-10-22,Resolved,3.0
+8773,2306,Transcript,2023-10-27,2023-11-24,Resolved,28.0
+8774,2306,Academic Advising,2023-10-27,,Active,
+8775,2307,Financial,2023-09-22,,Active,
+8776,2308,Immunization,2023-10-10,2023-11-06,Resolved,27.0
+8777,2308,Financial,2023-09-07,2023-09-11,Resolved,4.0
+8778,2312,Academic Advising,2023-09-02,2023-09-13,Resolved,11.0
+8779,2312,Disciplinary,2023-09-17,2023-09-22,Resolved,5.0
+8780,2316,Immunization,2023-10-21,2023-10-29,Resolved,8.0
+8781,2316,Immunization,2023-09-03,2023-09-06,Resolved,3.0
+8782,2319,Disciplinary,2023-09-30,2023-10-10,Resolved,10.0
+8783,2321,Immunization,2023-10-10,2023-10-29,Resolved,19.0
+8784,2321,Immunization,2023-10-08,2023-10-20,Resolved,12.0
+8785,2322,Immunization,2023-09-13,,Active,
+8786,2322,Transcript,2023-10-11,2023-10-27,Resolved,16.0
+8787,2326,Transcript,2023-10-09,2023-10-21,Resolved,12.0
+8788,2326,Disciplinary,2023-10-17,,Active,
+8789,2329,Immunization,2023-10-26,2023-11-16,Resolved,21.0
+8790,2329,Disciplinary,2023-10-25,,Active,
+8791,2332,Immunization,2023-09-30,2023-10-14,Resolved,14.0
+8792,2332,Transcript,2023-10-19,2023-10-23,Resolved,4.0
+8793,2333,Academic Advising,2023-09-24,,Active,
+8794,2333,Transcript,2023-10-03,2023-11-01,Resolved,29.0
+8795,2335,Transcript,2023-10-15,2023-10-21,Resolved,6.0
+8796,2338,Financial,2023-09-03,2023-09-27,Resolved,24.0
+8797,2338,Immunization,2023-10-08,2023-10-10,Resolved,2.0
+8798,2340,Disciplinary,2023-09-18,2023-09-30,Resolved,12.0
+8799,2342,Transcript,2023-10-30,2023-11-22,Resolved,23.0
+8800,2344,Transcript,2023-10-25,,Active,
+8801,2351,Disciplinary,2023-10-28,,Active,
+8802,2352,Academic Advising,2023-10-11,2023-10-13,Resolved,2.0
+8803,2353,Academic Advising,2023-09-25,2023-10-23,Resolved,28.0
+8804,2355,Immunization,2023-09-16,2023-10-13,Resolved,27.0
+8805,2356,Immunization,2023-09-23,2023-10-02,Resolved,9.0
+8806,2356,Immunization,2023-09-26,2023-10-04,Resolved,8.0
+8807,2357,Transcript,2023-09-04,2023-10-01,Resolved,27.0
+8808,2359,Immunization,2023-10-14,2023-11-07,Resolved,24.0
+8809,2360,Financial,2023-09-18,,Active,
+8810,2360,Financial,2023-09-21,2023-10-17,Resolved,26.0
+8811,2364,Immunization,2023-09-13,2023-09-19,Resolved,6.0
+8812,2372,Immunization,2023-09-01,2023-09-29,Resolved,28.0
+8813,2372,Immunization,2023-10-06,2023-10-28,Resolved,22.0
+8814,2374,Immunization,2023-10-13,2023-10-21,Resolved,8.0
+8815,2374,Transcript,2023-10-04,2023-10-05,Resolved,1.0
+8816,2376,Academic Advising,2023-09-17,2023-09-24,Resolved,7.0
+8817,2376,Disciplinary,2023-09-22,,Active,
+8818,2377,Academic Advising,2023-09-01,2023-09-29,Resolved,28.0
+8819,2377,Financial,2023-09-13,2023-09-14,Resolved,1.0
+8820,2379,Academic Advising,2023-09-25,2023-10-05,Resolved,10.0
+8821,2379,Disciplinary,2023-10-03,2023-10-28,Resolved,25.0
+8822,2380,Financial,2023-10-04,,Active,
+8823,2382,Immunization,2023-09-30,,Active,
+8824,2382,Immunization,2023-09-18,2023-10-11,Resolved,23.0
+8825,2384,Financial,2023-09-02,2023-10-01,Resolved,29.0
+8826,2384,Academic Advising,2023-09-27,,Active,
+8827,2385,Transcript,2023-09-05,2023-09-06,Resolved,1.0
+8828,2385,Academic Advising,2023-10-15,,Active,
+8829,2387,Immunization,2023-09-15,2023-09-16,Resolved,1.0
+8830,2387,Academic Advising,2023-09-23,2023-10-07,Resolved,14.0
+8831,2390,Financial,2023-09-22,,Active,
+8832,2390,Transcript,2023-10-14,2023-10-19,Resolved,5.0
+8833,2396,Academic Advising,2023-09-24,2023-10-07,Resolved,13.0
+8834,2400,Disciplinary,2023-09-07,2023-09-25,Resolved,18.0
+8835,2401,Transcript,2023-10-22,2023-11-07,Resolved,16.0
+8836,2406,Immunization,2023-10-15,2023-10-24,Resolved,9.0
+8837,2407,Academic Advising,2023-09-26,2023-10-23,Resolved,27.0
+8838,2407,Immunization,2023-09-04,2023-09-23,Resolved,19.0
+8839,2409,Academic Advising,2023-09-06,2023-09-19,Resolved,13.0
+8840,2411,Academic Advising,2023-10-24,2023-11-03,Resolved,10.0
+8841,2412,Transcript,2023-10-10,2023-10-16,Resolved,6.0
+8842,2412,Disciplinary,2023-09-25,2023-10-14,Resolved,19.0
+8843,2414,Immunization,2023-10-20,2023-10-30,Resolved,10.0
+8844,2414,Disciplinary,2023-10-24,2023-11-16,Resolved,23.0
+8845,2415,Academic Advising,2023-09-10,2023-09-25,Resolved,15.0
+8846,2416,Transcript,2023-10-25,2023-11-11,Resolved,17.0
+8847,2416,Disciplinary,2023-09-17,2023-09-18,Resolved,1.0
+8848,2421,Disciplinary,2023-10-17,,Active,
+8849,2421,Immunization,2023-09-14,2023-09-24,Resolved,10.0
+8850,2423,Academic Advising,2023-09-23,2023-09-30,Resolved,7.0
+8851,2426,Transcript,2023-10-11,,Active,
+8852,2429,Financial,2023-09-23,2023-09-30,Resolved,7.0
+8853,2429,Immunization,2023-10-07,2023-11-03,Resolved,27.0
+8854,2430,Transcript,2023-09-23,2023-10-18,Resolved,25.0
+8855,2433,Immunization,2023-09-22,2023-10-14,Resolved,22.0
+8856,2434,Transcript,2023-09-07,,Active,
+8857,2435,Transcript,2023-10-16,2023-11-07,Resolved,22.0
+8858,2435,Immunization,2023-10-19,2023-11-03,Resolved,15.0
+8859,2436,Disciplinary,2023-09-11,2023-09-24,Resolved,13.0
+8860,2437,Immunization,2023-09-13,2023-10-01,Resolved,18.0
+8861,2437,Financial,2023-10-27,2023-10-29,Resolved,2.0
+8862,2439,Academic Advising,2023-10-02,2023-10-25,Resolved,23.0
+8863,2439,Financial,2023-09-24,,Active,
+8864,2440,Immunization,2023-09-17,2023-09-24,Resolved,7.0
+8865,2441,Immunization,2023-09-24,2023-10-03,Resolved,9.0
+8866,2441,Academic Advising,2023-09-15,2023-10-02,Resolved,17.0
+8867,2447,Academic Advising,2023-09-22,2023-10-18,Resolved,26.0
+8868,2447,Financial,2023-09-19,2023-09-28,Resolved,9.0
+8869,2448,Financial,2023-10-08,2023-10-27,Resolved,19.0
+8870,2448,Financial,2023-10-08,2023-10-21,Resolved,13.0
+8871,2449,Disciplinary,2023-10-04,2023-10-16,Resolved,12.0
+8872,2450,Financial,2023-10-02,2023-10-30,Resolved,28.0
+8873,2451,Disciplinary,2023-10-01,2023-10-20,Resolved,19.0
+8874,2451,Disciplinary,2023-10-25,2023-11-03,Resolved,9.0
+8875,2453,Transcript,2023-10-18,2023-11-05,Resolved,18.0
+8876,2453,Immunization,2023-10-09,2023-10-17,Resolved,8.0
+8877,2455,Immunization,2023-10-03,2023-10-29,Resolved,26.0
+8878,2459,Financial,2023-09-11,2023-09-13,Resolved,2.0
+8879,2460,Immunization,2023-09-13,2023-09-20,Resolved,7.0
+8880,2462,Academic Advising,2023-10-05,2023-10-18,Resolved,13.0
+8881,2462,Transcript,2023-10-03,2023-10-21,Resolved,18.0
+8882,2467,Immunization,2023-10-01,,Active,
+8883,2470,Academic Advising,2023-10-08,2023-10-26,Resolved,18.0
+8884,2472,Transcript,2023-09-19,,Active,
+8885,2474,Financial,2023-09-01,2023-09-21,Resolved,20.0
+8886,2479,Disciplinary,2023-10-11,2023-10-12,Resolved,1.0
+8887,2479,Disciplinary,2023-09-15,2023-09-29,Resolved,14.0
+8888,2480,Academic Advising,2023-10-19,2023-10-25,Resolved,6.0
+8889,2484,Transcript,2023-09-26,2023-10-22,Resolved,26.0
+8890,2485,Financial,2023-10-21,,Active,
+8891,2485,Immunization,2023-10-25,2023-11-15,Resolved,21.0
+8892,2488,Financial,2023-10-09,2023-10-17,Resolved,8.0
+8893,2488,Financial,2023-10-11,2023-10-18,Resolved,7.0
+8894,2490,Transcript,2023-10-21,,Active,
+8895,2490,Transcript,2023-09-01,2023-09-10,Resolved,9.0
+8896,2491,Academic Advising,2023-10-05,2023-10-19,Resolved,14.0
+8897,2491,Disciplinary,2023-09-17,2023-09-27,Resolved,10.0
+8898,2493,Transcript,2023-09-25,2023-09-30,Resolved,5.0
+8899,2494,Disciplinary,2023-09-01,2023-09-20,Resolved,19.0
+8900,2495,Academic Advising,2023-09-29,2023-10-11,Resolved,12.0
+8901,2495,Transcript,2023-09-01,2023-09-10,Resolved,9.0
+8902,2496,Transcript,2023-10-30,2023-11-01,Resolved,2.0
+8903,2502,Transcript,2023-10-30,,Active,
+8904,2503,Financial,2023-10-06,2023-10-28,Resolved,22.0
+8905,2507,Transcript,2023-10-20,,Active,
+8906,2508,Financial,2023-10-25,2023-11-12,Resolved,18.0
+8907,2510,Disciplinary,2023-10-25,,Active,
+8908,2510,Immunization,2023-09-22,2023-10-20,Resolved,28.0
+8909,2511,Transcript,2023-09-26,2023-10-19,Resolved,23.0
+8910,2515,Financial,2023-10-30,2023-11-22,Resolved,23.0
+8911,2515,Financial,2023-10-28,,Active,
+8912,2517,Transcript,2023-10-02,2023-10-21,Resolved,19.0
+8913,2517,Disciplinary,2023-10-14,,Active,
+8914,2518,Transcript,2023-09-17,2023-10-10,Resolved,23.0
+8915,2519,Academic Advising,2023-09-24,,Active,
+8916,2519,Disciplinary,2023-09-25,2023-10-15,Resolved,20.0
+8917,2520,Academic Advising,2023-09-22,2023-10-19,Resolved,27.0
+8918,2521,Disciplinary,2023-10-04,2023-10-08,Resolved,4.0
+8919,2521,Financial,2023-10-27,2023-11-21,Resolved,25.0
+8920,2522,Transcript,2023-10-07,2023-10-24,Resolved,17.0
+8921,2522,Transcript,2023-09-04,2023-09-25,Resolved,21.0
+8922,2524,Academic Advising,2023-09-28,2023-10-16,Resolved,18.0
+8923,2524,Immunization,2023-09-08,2023-10-07,Resolved,29.0
+8924,2526,Academic Advising,2023-10-24,2023-11-11,Resolved,18.0
+8925,2526,Disciplinary,2023-10-10,2023-10-26,Resolved,16.0
+8926,2528,Financial,2023-10-04,2023-10-25,Resolved,21.0
+8927,2528,Financial,2023-09-22,2023-10-16,Resolved,24.0
+8928,2532,Transcript,2023-10-09,,Active,
+8929,2536,Academic Advising,2023-09-04,,Active,
+8930,2538,Transcript,2023-09-17,2023-10-11,Resolved,24.0
+8931,2538,Transcript,2023-09-16,2023-09-23,Resolved,7.0
+8932,2541,Financial,2023-09-09,2023-09-23,Resolved,14.0
+8933,2542,Financial,2023-10-17,,Active,
+8934,2546,Academic Advising,2023-10-06,2023-10-09,Resolved,3.0
+8935,2548,Academic Advising,2023-10-29,2023-11-23,Resolved,25.0
+8936,2548,Transcript,2023-09-30,2023-10-18,Resolved,18.0
+8937,2552,Immunization,2023-09-19,,Active,
+8938,2553,Disciplinary,2023-10-27,2023-10-31,Resolved,4.0
+8939,2553,Immunization,2023-10-18,2023-11-01,Resolved,14.0
+8940,2558,Immunization,2023-09-24,2023-10-10,Resolved,16.0
+8941,2558,Academic Advising,2023-10-24,2023-11-14,Resolved,21.0
+8942,2561,Immunization,2023-09-28,2023-10-24,Resolved,26.0
+8943,2568,Disciplinary,2023-09-08,2023-10-05,Resolved,27.0
+8944,2568,Transcript,2023-09-14,2023-09-23,Resolved,9.0
+8945,2569,Transcript,2023-10-24,2023-11-21,Resolved,28.0
+8946,2569,Transcript,2023-09-24,,Active,
+8947,2570,Transcript,2023-09-22,2023-10-18,Resolved,26.0
+8948,2573,Academic Advising,2023-09-07,2023-09-22,Resolved,15.0
+8949,2573,Transcript,2023-09-06,2023-09-22,Resolved,16.0
+8950,2574,Academic Advising,2023-10-01,2023-10-25,Resolved,24.0
+8951,2576,Financial,2023-09-08,2023-09-20,Resolved,12.0
+8952,2578,Academic Advising,2023-09-02,2023-09-17,Resolved,15.0
+8953,2578,Immunization,2023-10-02,2023-10-24,Resolved,22.0
+8954,2579,Financial,2023-10-24,2023-11-22,Resolved,29.0
+8955,2581,Disciplinary,2023-10-03,2023-10-23,Resolved,20.0
+8956,2582,Disciplinary,2023-09-15,2023-10-06,Resolved,21.0
+8957,2583,Academic Advising,2023-10-26,2023-11-05,Resolved,10.0
+8958,2583,Transcript,2023-10-08,2023-10-11,Resolved,3.0
+8959,2584,Disciplinary,2023-09-24,2023-10-09,Resolved,15.0
+8960,2589,Financial,2023-09-10,2023-09-19,Resolved,9.0
+8961,2589,Academic Advising,2023-10-11,2023-11-04,Resolved,24.0
+8962,2592,Academic Advising,2023-10-11,2023-10-16,Resolved,5.0
+8963,2593,Transcript,2023-10-11,2023-10-30,Resolved,19.0
+8964,2595,Financial,2023-10-13,2023-10-18,Resolved,5.0
+8965,2595,Disciplinary,2023-10-25,2023-10-31,Resolved,6.0
+8966,2600,Immunization,2023-09-10,,Active,
+8967,2606,Transcript,2023-09-14,2023-09-18,Resolved,4.0
+8968,2611,Disciplinary,2023-09-10,2023-09-24,Resolved,14.0
+8969,2611,Financial,2023-09-06,,Active,
+8970,2612,Financial,2023-10-14,2023-11-11,Resolved,28.0
+8971,2612,Transcript,2023-10-03,2023-10-07,Resolved,4.0
+8972,2614,Disciplinary,2023-10-09,2023-10-24,Resolved,15.0
+8973,2617,Academic Advising,2023-09-04,2023-09-05,Resolved,1.0
+8974,2625,Immunization,2023-10-15,2023-11-02,Resolved,18.0
+8975,2627,Transcript,2023-09-04,2023-09-15,Resolved,11.0
+8976,2628,Financial,2023-10-09,2023-11-07,Resolved,29.0
+8977,2628,Immunization,2023-09-07,,Active,
+8978,2632,Transcript,2023-09-07,,Active,
+8979,2632,Financial,2023-09-17,2023-10-13,Resolved,26.0
+8980,2636,Transcript,2023-10-19,2023-11-06,Resolved,18.0
+8981,2636,Academic Advising,2023-09-04,2023-09-21,Resolved,17.0
+8982,2642,Financial,2023-10-15,2023-11-09,Resolved,25.0
+8983,2643,Immunization,2023-09-12,2023-10-09,Resolved,27.0
+8984,2643,Financial,2023-10-24,2023-11-15,Resolved,22.0
+8985,2651,Academic Advising,2023-10-13,2023-10-29,Resolved,16.0
+8986,2652,Disciplinary,2023-10-21,2023-11-12,Resolved,22.0
+8987,2652,Disciplinary,2023-09-14,2023-09-21,Resolved,7.0
+8988,2654,Financial,2023-09-28,2023-10-11,Resolved,13.0
+8989,2661,Disciplinary,2023-09-04,2023-09-11,Resolved,7.0
+8990,2661,Immunization,2023-10-22,2023-11-06,Resolved,15.0
+8991,2662,Disciplinary,2023-09-26,2023-10-10,Resolved,14.0
+8992,2663,Academic Advising,2023-09-25,2023-09-30,Resolved,5.0
+8993,2664,Transcript,2023-09-08,2023-10-05,Resolved,27.0
+8994,2672,Academic Advising,2023-10-23,2023-11-11,Resolved,19.0
+8995,2672,Transcript,2023-09-03,2023-09-26,Resolved,23.0
+8996,2673,Academic Advising,2023-09-27,2023-10-12,Resolved,15.0
+8997,2673,Disciplinary,2023-09-22,2023-09-30,Resolved,8.0
+8998,2675,Immunization,2023-09-12,2023-09-28,Resolved,16.0
+8999,2678,Immunization,2023-10-05,2023-10-07,Resolved,2.0
+9000,2680,Transcript,2023-09-08,2023-09-12,Resolved,4.0
+9001,2681,Disciplinary,2023-09-22,2023-10-18,Resolved,26.0
+9002,2685,Disciplinary,2023-09-27,2023-10-21,Resolved,24.0
+9003,2686,Academic Advising,2023-09-05,2023-09-17,Resolved,12.0
+9004,2686,Academic Advising,2023-10-12,2023-10-19,Resolved,7.0
+9005,2689,Immunization,2023-09-26,2023-10-18,Resolved,22.0
+9006,2690,Academic Advising,2023-10-03,,Active,
+9007,2694,Immunization,2023-10-12,2023-10-28,Resolved,16.0
+9008,2695,Financial,2023-09-01,2023-09-05,Resolved,4.0
+9009,2695,Immunization,2023-09-17,2023-09-19,Resolved,2.0
+9010,2696,Disciplinary,2023-10-30,2023-11-27,Resolved,28.0
+9011,2698,Immunization,2023-10-06,2023-10-30,Resolved,24.0
+9012,2698,Immunization,2023-09-05,2023-09-15,Resolved,10.0
+9013,2704,Immunization,2023-09-27,2023-10-21,Resolved,24.0
+9014,2705,Academic Advising,2023-10-24,2023-11-15,Resolved,22.0
+9015,2706,Disciplinary,2023-10-08,2023-11-03,Resolved,26.0
+9016,2708,Academic Advising,2023-09-03,2023-09-09,Resolved,6.0
+9017,2712,Financial,2023-09-13,2023-10-08,Resolved,25.0
+9018,2712,Financial,2023-10-29,2023-11-14,Resolved,16.0
+9019,2714,Financial,2023-10-12,2023-10-23,Resolved,11.0
+9020,2718,Financial,2023-09-21,2023-10-13,Resolved,22.0
+9021,2721,Disciplinary,2023-10-15,2023-11-01,Resolved,17.0
+9022,2722,Immunization,2023-09-01,,Active,
+9023,2722,Transcript,2023-10-03,2023-10-06,Resolved,3.0
+9024,2723,Financial,2023-10-02,2023-10-25,Resolved,23.0
+9025,2724,Academic Advising,2023-10-18,2023-11-04,Resolved,17.0
+9026,2724,Financial,2023-09-05,2023-10-04,Resolved,29.0
+9027,2725,Transcript,2023-10-11,2023-11-07,Resolved,27.0
+9028,2729,Immunization,2023-09-21,2023-10-04,Resolved,13.0
+9029,2732,Immunization,2023-10-22,,Active,
+9030,2733,Academic Advising,2023-10-27,2023-11-06,Resolved,10.0
+9031,2733,Financial,2023-09-13,2023-09-24,Resolved,11.0
+9032,2734,Disciplinary,2023-09-01,2023-09-09,Resolved,8.0
+9033,2734,Academic Advising,2023-09-26,2023-09-28,Resolved,2.0
+9034,2735,Academic Advising,2023-09-21,2023-09-28,Resolved,7.0
+9035,2735,Financial,2023-10-27,2023-11-08,Resolved,12.0
+9036,2737,Immunization,2023-09-22,,Active,
+9037,2738,Financial,2023-10-29,,Active,
+9038,2738,Immunization,2023-09-29,2023-10-01,Resolved,2.0
+9039,2741,Immunization,2023-10-07,2023-11-02,Resolved,26.0
+9040,2741,Financial,2023-10-18,2023-11-15,Resolved,28.0
+9041,2742,Disciplinary,2023-10-15,2023-10-28,Resolved,13.0
+9042,2742,Disciplinary,2023-09-05,2023-09-25,Resolved,20.0
+9043,2745,Immunization,2023-09-23,,Active,
+9044,2748,Immunization,2023-10-15,2023-10-18,Resolved,3.0
+9045,2749,Immunization,2023-09-29,2023-10-14,Resolved,15.0
+9046,2752,Disciplinary,2023-09-03,2023-09-22,Resolved,19.0
+9047,2752,Financial,2023-10-02,2023-10-23,Resolved,21.0
+9048,2756,Financial,2023-09-09,2023-10-05,Resolved,26.0
+9049,2756,Financial,2023-10-16,2023-11-12,Resolved,27.0
+9050,2759,Immunization,2023-10-28,,Active,
+9051,2760,Disciplinary,2023-10-25,2023-11-20,Resolved,26.0
+9052,2760,Transcript,2023-10-13,2023-11-09,Resolved,27.0
+9053,2764,Academic Advising,2023-10-28,2023-10-31,Resolved,3.0
+9054,2764,Academic Advising,2023-10-02,2023-10-31,Resolved,29.0
+9055,2766,Academic Advising,2023-09-07,2023-09-28,Resolved,21.0
+9056,2766,Disciplinary,2023-09-13,2023-09-19,Resolved,6.0
+9057,2769,Academic Advising,2023-10-23,2023-10-28,Resolved,5.0
+9058,2771,Transcript,2023-10-12,2023-10-16,Resolved,4.0
+9059,2772,Disciplinary,2023-09-08,2023-09-14,Resolved,6.0
+9060,2772,Immunization,2023-09-02,2023-09-20,Resolved,18.0
+9061,2775,Transcript,2023-09-17,,Active,
+9062,2775,Immunization,2023-09-17,2023-09-21,Resolved,4.0
+9063,2777,Financial,2023-09-16,,Active,
+9064,2783,Immunization,2023-10-14,2023-10-25,Resolved,11.0
+9065,2785,Academic Advising,2023-10-16,2023-11-01,Resolved,16.0
+9066,2787,Transcript,2023-10-09,2023-10-17,Resolved,8.0
+9067,2792,Disciplinary,2023-09-13,2023-09-30,Resolved,17.0
+9068,2792,Immunization,2023-09-17,,Active,
+9069,2794,Academic Advising,2023-10-29,2023-11-08,Resolved,10.0
+9070,2795,Disciplinary,2023-10-16,2023-10-18,Resolved,2.0
+9071,2795,Disciplinary,2023-09-17,2023-10-11,Resolved,24.0
+9072,2797,Academic Advising,2023-09-22,2023-10-19,Resolved,27.0
+9073,2797,Academic Advising,2023-09-08,2023-09-20,Resolved,12.0
+9074,2799,Immunization,2023-10-01,2023-10-29,Resolved,28.0
+9075,2799,Immunization,2023-10-06,,Active,
+9076,2800,Financial,2023-09-14,2023-10-10,Resolved,26.0
+9077,2802,Academic Advising,2023-10-12,,Active,
+9078,2802,Transcript,2023-09-27,,Active,
+9079,2805,Academic Advising,2023-10-19,2023-10-24,Resolved,5.0
+9080,2807,Academic Advising,2023-10-24,2023-10-31,Resolved,7.0
+9081,2807,Financial,2023-10-22,2023-11-03,Resolved,12.0
+9082,2811,Disciplinary,2023-10-25,2023-10-29,Resolved,4.0
+9083,2817,Academic Advising,2023-09-01,2023-09-30,Resolved,29.0
+9084,2817,Academic Advising,2023-09-10,2023-09-11,Resolved,1.0
+9085,2818,Financial,2023-10-11,2023-10-15,Resolved,4.0
+9086,2822,Disciplinary,2023-09-02,2023-09-20,Resolved,18.0
+9087,2823,Disciplinary,2023-10-17,2023-10-27,Resolved,10.0
+9088,2823,Financial,2023-09-07,2023-09-18,Resolved,11.0
+9089,2825,Immunization,2023-09-24,,Active,
+9090,2826,Immunization,2023-09-19,2023-10-13,Resolved,24.0
+9091,2827,Academic Advising,2023-10-18,2023-11-07,Resolved,20.0
+9092,2828,Financial,2023-09-02,,Active,
+9093,2828,Disciplinary,2023-10-12,2023-10-22,Resolved,10.0
+9094,2830,Financial,2023-10-20,,Active,
+9095,2830,Academic Advising,2023-09-24,2023-09-29,Resolved,5.0
+9096,2831,Immunization,2023-09-06,2023-09-14,Resolved,8.0
+9097,2832,Financial,2023-10-12,2023-10-23,Resolved,11.0
+9098,2832,Immunization,2023-09-25,2023-10-09,Resolved,14.0
+9099,2833,Immunization,2023-09-01,2023-09-29,Resolved,28.0
+9100,2834,Disciplinary,2023-09-23,2023-09-26,Resolved,3.0
+9101,2844,Financial,2023-10-24,2023-11-05,Resolved,12.0
+9102,2848,Disciplinary,2023-10-10,2023-11-08,Resolved,29.0
+9103,2848,Immunization,2023-09-28,2023-10-19,Resolved,21.0
+9104,2850,Academic Advising,2023-09-11,2023-09-16,Resolved,5.0
+9105,2851,Immunization,2023-10-01,,Active,
+9106,2851,Academic Advising,2023-09-08,2023-09-29,Resolved,21.0
+9107,2853,Disciplinary,2023-09-30,2023-10-14,Resolved,14.0
+9108,2854,Financial,2023-10-15,2023-11-08,Resolved,24.0
+9109,2861,Disciplinary,2023-09-05,2023-09-08,Resolved,3.0
+9110,2862,Transcript,2023-09-15,2023-09-18,Resolved,3.0
+9111,2862,Academic Advising,2023-10-11,2023-10-19,Resolved,8.0
+9112,2863,Immunization,2023-09-05,2023-09-15,Resolved,10.0
+9113,2866,Disciplinary,2023-09-08,,Active,
+9114,2868,Disciplinary,2023-09-16,2023-09-28,Resolved,12.0
+9115,2868,Financial,2023-09-08,2023-09-12,Resolved,4.0
+9116,2873,Disciplinary,2023-10-19,2023-10-22,Resolved,3.0
+9117,2873,Academic Advising,2023-09-16,2023-10-14,Resolved,28.0
+9118,2876,Disciplinary,2023-10-03,,Active,
+9119,2876,Immunization,2023-10-03,2023-10-29,Resolved,26.0
+9120,2878,Immunization,2023-09-22,2023-09-25,Resolved,3.0
+9121,2878,Financial,2023-09-28,2023-09-29,Resolved,1.0
+9122,2880,Academic Advising,2023-10-26,2023-11-04,Resolved,9.0
+9123,2881,Disciplinary,2023-10-03,2023-10-18,Resolved,15.0
+9124,2881,Financial,2023-10-17,2023-10-25,Resolved,8.0
+9125,2891,Disciplinary,2023-10-28,2023-10-31,Resolved,3.0
+9126,2895,Transcript,2023-09-14,,Active,
+9127,2899,Immunization,2023-09-20,2023-10-15,Resolved,25.0
+9128,2899,Transcript,2023-09-24,2023-10-21,Resolved,27.0
+9129,2902,Transcript,2023-10-05,2023-10-29,Resolved,24.0
+9130,2902,Immunization,2023-09-03,2023-09-30,Resolved,27.0
+9131,2906,Financial,2023-09-06,2023-09-21,Resolved,15.0
+9132,2907,Academic Advising,2023-10-30,2023-11-02,Resolved,3.0
+9133,2911,Financial,2023-09-11,2023-09-17,Resolved,6.0
+9134,2914,Academic Advising,2023-10-04,,Active,
+9135,2918,Immunization,2023-10-26,2023-11-20,Resolved,25.0
+9136,2921,Immunization,2023-09-28,,Active,
+9137,2921,Academic Advising,2023-10-24,2023-11-01,Resolved,8.0
+9138,2930,Disciplinary,2023-09-26,2023-10-22,Resolved,26.0
+9139,2930,Disciplinary,2023-09-24,2023-10-06,Resolved,12.0
+9140,2933,Financial,2023-10-22,2023-10-27,Resolved,5.0
+9141,2934,Disciplinary,2023-10-08,2023-10-21,Resolved,13.0
+9142,2935,Academic Advising,2023-09-11,2023-09-27,Resolved,16.0
+9143,2936,Academic Advising,2023-09-10,,Active,
+9144,2936,Disciplinary,2023-10-02,2023-10-30,Resolved,28.0
+9145,2937,Financial,2023-10-11,2023-11-07,Resolved,27.0
+9146,2937,Immunization,2023-09-08,2023-10-07,Resolved,29.0
+9147,2942,Transcript,2023-10-07,2023-11-03,Resolved,27.0
+9148,2943,Immunization,2023-10-27,2023-11-20,Resolved,24.0
+9149,2944,Academic Advising,2023-10-24,2023-11-20,Resolved,27.0
+9150,2947,Immunization,2023-09-15,,Active,
+9151,2947,Academic Advising,2023-10-19,2023-11-03,Resolved,15.0
+9152,2950,Financial,2023-10-14,,Active,
+9153,2951,Transcript,2023-10-23,2023-11-08,Resolved,16.0
+9154,2951,Immunization,2023-09-21,2023-10-11,Resolved,20.0
+9155,2954,Immunization,2023-10-23,2023-11-16,Resolved,24.0
+9156,2954,Financial,2023-09-03,2023-09-10,Resolved,7.0
+9157,2956,Financial,2023-10-13,2023-10-18,Resolved,5.0
+9158,2956,Transcript,2023-10-19,2023-11-11,Resolved,23.0
+9159,2957,Financial,2023-09-03,2023-09-07,Resolved,4.0
+9160,2959,Financial,2023-09-29,2023-10-03,Resolved,4.0
+9161,2962,Disciplinary,2023-09-07,2023-09-28,Resolved,21.0
+9162,2962,Financial,2023-10-30,,Active,
+9163,2963,Immunization,2023-09-18,,Active,
+9164,2963,Immunization,2023-09-12,2023-09-26,Resolved,14.0
+9165,2964,Transcript,2023-10-12,2023-10-25,Resolved,13.0
+9166,2971,Immunization,2023-10-29,2023-11-24,Resolved,26.0
+9167,2971,Financial,2023-09-24,2023-10-22,Resolved,28.0
+9168,2973,Transcript,2023-09-07,2023-09-16,Resolved,9.0
+9169,2973,Disciplinary,2023-10-09,2023-11-06,Resolved,28.0
+9170,2974,Financial,2023-10-04,2023-10-25,Resolved,21.0
+9171,2975,Disciplinary,2023-09-27,2023-10-14,Resolved,17.0
+9172,2979,Academic Advising,2023-10-17,2023-11-02,Resolved,16.0
+9173,2979,Disciplinary,2023-10-15,2023-11-05,Resolved,21.0
+9174,2982,Financial,2023-10-28,2023-10-29,Resolved,1.0
+9175,2982,Academic Advising,2023-09-04,2023-10-01,Resolved,27.0
+9176,2986,Financial,2023-10-27,2023-10-28,Resolved,1.0
+9177,2986,Immunization,2023-10-12,2023-11-05,Resolved,24.0
+9178,2987,Academic Advising,2023-09-02,2023-09-15,Resolved,13.0
+9179,2987,Disciplinary,2023-10-11,,Active,
+9180,2990,Disciplinary,2023-09-23,,Active,
+9181,2994,Academic Advising,2023-09-02,2023-09-07,Resolved,5.0
+9182,2995,Financial,2023-10-05,2023-10-19,Resolved,14.0
+9183,2995,Financial,2023-10-11,2023-10-27,Resolved,16.0
+9184,2997,Disciplinary,2023-09-08,2023-09-15,Resolved,7.0
+9185,3005,Academic Advising,2023-10-27,,Active,
+9186,3008,Academic Advising,2023-10-07,2023-10-23,Resolved,16.0
+9187,3008,Disciplinary,2023-10-02,2023-10-03,Resolved,1.0
+9188,3010,Academic Advising,2023-09-10,,Active,
+9189,3010,Academic Advising,2023-10-28,,Active,
+9190,3012,Disciplinary,2023-09-26,2023-10-15,Resolved,19.0
+9191,3013,Disciplinary,2023-09-04,,Active,
+9192,3015,Disciplinary,2023-09-08,,Active,
+9193,3023,Financial,2023-09-25,2023-09-26,Resolved,1.0
+9194,3023,Immunization,2023-09-02,2023-09-11,Resolved,9.0
+9195,3028,Academic Advising,2023-10-03,2023-10-22,Resolved,19.0
+9196,3031,Financial,2023-09-05,,Active,
+9197,3031,Transcript,2023-09-24,2023-10-19,Resolved,25.0
+9198,3032,Transcript,2023-09-04,2023-09-19,Resolved,15.0
+9199,3033,Transcript,2023-10-21,2023-10-27,Resolved,6.0
+9200,3034,Academic Advising,2023-09-08,,Active,
+9201,3036,Transcript,2023-09-12,2023-09-29,Resolved,17.0
+9202,3039,Immunization,2023-09-01,2023-09-12,Resolved,11.0
+9203,3040,Disciplinary,2023-10-19,2023-11-16,Resolved,28.0
+9204,3040,Financial,2023-10-25,2023-11-21,Resolved,27.0
+9205,3042,Financial,2023-09-10,2023-09-18,Resolved,8.0
+9206,3042,Immunization,2023-10-25,2023-11-17,Resolved,23.0
+9207,3043,Transcript,2023-10-26,2023-10-30,Resolved,4.0
+9208,3043,Immunization,2023-10-24,2023-11-11,Resolved,18.0
+9209,3049,Financial,2023-10-23,2023-10-27,Resolved,4.0
+9210,3050,Academic Advising,2023-10-04,2023-10-29,Resolved,25.0
+9211,3050,Academic Advising,2023-10-12,2023-10-15,Resolved,3.0
+9212,3054,Academic Advising,2023-09-26,2023-09-29,Resolved,3.0
+9213,3057,Immunization,2023-10-01,2023-10-12,Resolved,11.0
+9214,3058,Immunization,2023-10-07,2023-10-19,Resolved,12.0
+9215,3062,Financial,2023-09-16,2023-10-03,Resolved,17.0
+9216,3064,Academic Advising,2023-10-15,2023-10-17,Resolved,2.0
+9217,3066,Financial,2023-09-30,,Active,
+9218,3073,Academic Advising,2023-09-04,2023-09-14,Resolved,10.0
+9219,3073,Transcript,2023-10-02,2023-10-30,Resolved,28.0
+9220,3075,Financial,2023-09-19,2023-09-20,Resolved,1.0
+9221,3081,Transcript,2023-09-27,2023-10-10,Resolved,13.0
+9222,3082,Immunization,2023-09-19,2023-10-18,Resolved,29.0
+9223,3086,Immunization,2023-09-09,2023-09-15,Resolved,6.0
+9224,3089,Transcript,2023-10-28,2023-11-02,Resolved,5.0
+9225,3089,Disciplinary,2023-09-09,,Active,
+9226,3090,Immunization,2023-09-23,,Active,
+9227,3098,Financial,2023-09-30,2023-10-17,Resolved,17.0
+9228,3098,Financial,2023-09-23,2023-09-27,Resolved,4.0
+9229,3100,Transcript,2023-09-05,2023-09-08,Resolved,3.0
+9230,3101,Financial,2023-09-04,,Active,
+9231,3101,Financial,2023-09-16,2023-10-11,Resolved,25.0
+9232,3104,Financial,2023-10-28,2023-11-03,Resolved,6.0
+9233,3104,Disciplinary,2023-09-11,2023-09-12,Resolved,1.0
+9234,3107,Academic Advising,2023-09-01,2023-09-22,Resolved,21.0
+9235,3107,Disciplinary,2023-10-06,2023-10-14,Resolved,8.0
+9236,3108,Financial,2023-09-08,2023-09-22,Resolved,14.0
+9237,3108,Financial,2023-10-11,2023-11-09,Resolved,29.0
+9238,3110,Financial,2023-10-25,2023-11-17,Resolved,23.0
+9239,3123,Financial,2023-09-14,2023-10-08,Resolved,24.0
+9240,3125,Transcript,2023-09-29,,Active,
+9241,3125,Immunization,2023-10-10,2023-11-02,Resolved,23.0
+9242,3126,Financial,2023-10-13,2023-10-23,Resolved,10.0
+9243,3126,Immunization,2023-09-08,2023-09-20,Resolved,12.0
+9244,3128,Transcript,2023-09-21,2023-10-12,Resolved,21.0
+9245,3133,Disciplinary,2023-10-28,2023-10-31,Resolved,3.0
+9246,3133,Transcript,2023-10-06,2023-10-14,Resolved,8.0
+9247,3134,Academic Advising,2023-09-02,2023-09-27,Resolved,25.0
+9248,3135,Academic Advising,2023-09-05,2023-09-21,Resolved,16.0
+9249,3135,Disciplinary,2023-09-15,2023-10-04,Resolved,19.0
+9250,3136,Immunization,2023-09-16,2023-10-04,Resolved,18.0
+9251,3140,Transcript,2023-10-23,2023-11-18,Resolved,26.0
+9252,3142,Disciplinary,2023-09-11,,Active,
+9253,3142,Academic Advising,2023-10-22,2023-11-18,Resolved,27.0
+9254,3146,Transcript,2023-09-14,2023-09-25,Resolved,11.0
+9255,3146,Transcript,2023-09-26,2023-09-29,Resolved,3.0
+9256,3147,Financial,2023-10-07,2023-10-13,Resolved,6.0
+9257,3147,Financial,2023-09-04,,Active,
+9258,3154,Disciplinary,2023-10-12,2023-10-24,Resolved,12.0
+9259,3154,Academic Advising,2023-09-11,2023-09-22,Resolved,11.0
+9260,3157,Transcript,2023-09-26,2023-10-02,Resolved,6.0
+9261,3157,Transcript,2023-10-25,2023-11-23,Resolved,29.0
+9262,3159,Academic Advising,2023-10-29,2023-11-23,Resolved,25.0
+9263,3159,Immunization,2023-10-12,2023-10-22,Resolved,10.0
+9264,3161,Academic Advising,2023-09-10,2023-09-24,Resolved,14.0
+9265,3164,Financial,2023-09-22,2023-10-03,Resolved,11.0
+9266,3165,Transcript,2023-09-18,2023-09-29,Resolved,11.0
+9267,3166,Financial,2023-10-05,2023-10-12,Resolved,7.0
+9268,3166,Disciplinary,2023-09-30,2023-10-04,Resolved,4.0
+9269,3167,Disciplinary,2023-09-18,2023-09-29,Resolved,11.0
+9270,3168,Academic Advising,2023-09-14,2023-09-18,Resolved,4.0
+9271,3168,Transcript,2023-09-12,2023-09-14,Resolved,2.0
+9272,3169,Disciplinary,2023-10-21,2023-11-11,Resolved,21.0
+9273,3169,Academic Advising,2023-10-09,2023-10-28,Resolved,19.0
+9274,3172,Transcript,2023-09-13,,Active,
+9275,3172,Disciplinary,2023-10-07,2023-11-02,Resolved,26.0
+9276,3178,Transcript,2023-09-18,2023-10-16,Resolved,28.0
+9277,3182,Financial,2023-10-03,2023-10-11,Resolved,8.0
+9278,3186,Transcript,2023-10-11,2023-10-30,Resolved,19.0
+9279,3186,Immunization,2023-09-26,2023-10-08,Resolved,12.0
+9280,3187,Academic Advising,2023-10-21,2023-11-14,Resolved,24.0
+9281,3191,Immunization,2023-10-21,2023-10-29,Resolved,8.0
+9282,3194,Financial,2023-10-04,2023-10-22,Resolved,18.0
+9283,3196,Immunization,2023-09-24,2023-10-09,Resolved,15.0
+9284,3202,Academic Advising,2023-09-14,2023-10-10,Resolved,26.0
+9285,3204,Immunization,2023-09-13,2023-10-08,Resolved,25.0
+9286,3206,Academic Advising,2023-10-27,2023-10-29,Resolved,2.0
+9287,3206,Financial,2023-09-26,2023-10-18,Resolved,22.0
+9288,3209,Transcript,2023-09-29,2023-10-17,Resolved,18.0
+9289,3210,Academic Advising,2023-10-14,2023-11-10,Resolved,27.0
+9290,3211,Disciplinary,2023-09-06,,Active,
+9291,3212,Disciplinary,2023-10-29,2023-11-23,Resolved,25.0
+9292,3212,Disciplinary,2023-10-28,2023-11-24,Resolved,27.0
+9293,3215,Academic Advising,2023-09-16,2023-10-14,Resolved,28.0
+9294,3215,Immunization,2023-09-27,2023-10-03,Resolved,6.0
+9295,3217,Disciplinary,2023-09-16,2023-10-04,Resolved,18.0
+9296,3218,Financial,2023-10-05,,Active,
+9297,3221,Transcript,2023-09-24,2023-09-27,Resolved,3.0
+9298,3221,Academic Advising,2023-09-30,,Active,
+9299,3222,Disciplinary,2023-09-19,2023-10-18,Resolved,29.0
+9300,3222,Academic Advising,2023-10-09,,Active,
+9301,3223,Transcript,2023-10-08,2023-10-26,Resolved,18.0
+9302,3225,Immunization,2023-10-22,2023-11-08,Resolved,17.0
+9303,3227,Disciplinary,2023-09-22,,Active,
+9304,3227,Immunization,2023-10-24,2023-11-13,Resolved,20.0
+9305,3228,Disciplinary,2023-09-26,2023-10-10,Resolved,14.0
+9306,3228,Transcript,2023-09-07,2023-09-17,Resolved,10.0
+9307,3232,Academic Advising,2023-09-16,2023-09-24,Resolved,8.0
+9308,3233,Disciplinary,2023-09-17,2023-09-23,Resolved,6.0
+9309,3233,Academic Advising,2023-10-29,,Active,
+9310,3235,Disciplinary,2023-10-23,2023-11-10,Resolved,18.0
+9311,3235,Immunization,2023-09-12,2023-09-17,Resolved,5.0
+9312,3237,Academic Advising,2023-10-24,2023-10-30,Resolved,6.0
+9313,3237,Financial,2023-09-09,2023-09-24,Resolved,15.0
+9314,3239,Transcript,2023-09-08,2023-10-06,Resolved,28.0
+9315,3239,Transcript,2023-10-09,2023-10-29,Resolved,20.0
+9316,3240,Academic Advising,2023-10-20,2023-11-07,Resolved,18.0
+9317,3240,Immunization,2023-09-04,2023-10-01,Resolved,27.0
+9318,3241,Disciplinary,2023-09-26,2023-10-09,Resolved,13.0
+9319,3245,Transcript,2023-10-29,2023-11-08,Resolved,10.0
+9320,3245,Financial,2023-09-07,2023-09-24,Resolved,17.0
+9321,3246,Transcript,2023-10-09,2023-11-05,Resolved,27.0
+9322,3246,Academic Advising,2023-10-30,2023-11-18,Resolved,19.0
+9323,3253,Academic Advising,2023-09-27,,Active,
+9324,3254,Academic Advising,2023-09-06,2023-09-12,Resolved,6.0
+9325,3255,Transcript,2023-09-27,2023-10-13,Resolved,16.0
+9326,3255,Immunization,2023-09-27,2023-09-30,Resolved,3.0
+9327,3259,Disciplinary,2023-10-06,2023-10-12,Resolved,6.0
+9328,3259,Transcript,2023-10-26,2023-10-29,Resolved,3.0
+9329,3260,Financial,2023-10-01,,Active,
+9330,3262,Disciplinary,2023-10-22,,Active,
+9331,3263,Academic Advising,2023-10-11,2023-10-26,Resolved,15.0
+9332,3263,Transcript,2023-09-09,2023-09-14,Resolved,5.0
+9333,3264,Immunization,2023-10-18,2023-10-21,Resolved,3.0
+9334,3265,Financial,2023-09-28,2023-10-01,Resolved,3.0
+9335,3266,Disciplinary,2023-10-02,2023-10-08,Resolved,6.0
+9336,3274,Transcript,2023-09-26,2023-10-11,Resolved,15.0
+9337,3274,Disciplinary,2023-10-14,,Active,
+9338,3275,Academic Advising,2023-09-06,2023-09-09,Resolved,3.0
+9339,3275,Disciplinary,2023-09-19,2023-09-29,Resolved,10.0
+9340,3276,Disciplinary,2023-09-01,2023-09-02,Resolved,1.0
+9341,3278,Transcript,2023-09-14,2023-09-20,Resolved,6.0
+9342,3280,Financial,2023-09-20,2023-10-06,Resolved,16.0
+9343,3280,Transcript,2023-10-04,2023-10-05,Resolved,1.0
+9344,3281,Transcript,2023-10-04,,Active,
+9345,3282,Disciplinary,2023-10-07,2023-11-01,Resolved,25.0
+9346,3282,Transcript,2023-10-23,2023-11-16,Resolved,24.0
+9347,3283,Disciplinary,2023-09-05,2023-09-21,Resolved,16.0
+9348,3285,Disciplinary,2023-09-26,2023-10-18,Resolved,22.0
+9349,3285,Disciplinary,2023-10-13,2023-11-03,Resolved,21.0
+9350,3287,Transcript,2023-09-03,2023-09-21,Resolved,18.0
+9351,3288,Disciplinary,2023-09-13,,Active,
+9352,3289,Academic Advising,2023-09-15,2023-09-20,Resolved,5.0
+9353,3292,Financial,2023-09-22,2023-10-14,Resolved,22.0
+9354,3293,Disciplinary,2023-09-10,2023-09-25,Resolved,15.0
+9355,3295,Immunization,2023-10-27,2023-11-07,Resolved,11.0
+9356,3295,Disciplinary,2023-09-22,,Active,
+9357,3297,Financial,2023-09-08,2023-10-04,Resolved,26.0
+9358,3298,Disciplinary,2023-09-23,2023-09-28,Resolved,5.0
+9359,3301,Disciplinary,2023-09-06,2023-09-26,Resolved,20.0
+9360,3303,Financial,2023-10-01,2023-10-27,Resolved,26.0
+9361,3304,Financial,2023-09-16,2023-10-14,Resolved,28.0
+9362,3304,Financial,2023-10-21,2023-11-18,Resolved,28.0
+9363,3306,Transcript,2023-09-20,2023-09-29,Resolved,9.0
+9364,3306,Transcript,2023-10-07,2023-10-13,Resolved,6.0
+9365,3307,Financial,2023-10-15,2023-11-02,Resolved,18.0
+9366,3307,Immunization,2023-10-22,2023-10-27,Resolved,5.0
+9367,3309,Academic Advising,2023-10-28,2023-10-31,Resolved,3.0
+9368,3312,Financial,2023-10-29,2023-11-25,Resolved,27.0
+9369,3313,Disciplinary,2023-09-04,2023-09-19,Resolved,15.0
+9370,3314,Transcript,2023-09-03,2023-09-26,Resolved,23.0
+9371,3321,Financial,2023-09-09,2023-09-21,Resolved,12.0
+9372,3321,Academic Advising,2023-10-05,2023-10-26,Resolved,21.0
+9373,3323,Immunization,2023-09-03,2023-09-27,Resolved,24.0
+9374,3324,Transcript,2023-09-13,2023-09-26,Resolved,13.0
+9375,3324,Academic Advising,2023-10-04,2023-10-25,Resolved,21.0
+9376,3329,Academic Advising,2023-10-13,2023-11-10,Resolved,28.0
+9377,3329,Immunization,2023-09-14,2023-10-02,Resolved,18.0
+9378,3332,Immunization,2023-10-03,2023-10-22,Resolved,19.0
+9379,3333,Transcript,2023-09-29,2023-10-07,Resolved,8.0
+9380,3335,Financial,2023-09-01,2023-09-07,Resolved,6.0
+9381,3338,Transcript,2023-10-23,2023-11-20,Resolved,28.0
+9382,3344,Disciplinary,2023-09-24,,Active,
+9383,3346,Disciplinary,2023-09-22,2023-10-12,Resolved,20.0
+9384,3346,Disciplinary,2023-10-10,,Active,
+9385,3349,Financial,2023-10-11,2023-10-28,Resolved,17.0
+9386,3349,Transcript,2023-09-29,2023-10-28,Resolved,29.0
+9387,3350,Immunization,2023-09-24,2023-10-01,Resolved,7.0
+9388,3350,Financial,2023-10-19,2023-10-20,Resolved,1.0
+9389,3353,Academic Advising,2023-09-18,2023-09-27,Resolved,9.0
+9390,3353,Disciplinary,2023-09-01,2023-09-08,Resolved,7.0
+9391,3354,Academic Advising,2023-09-03,2023-09-07,Resolved,4.0
+9392,3354,Immunization,2023-10-21,2023-11-15,Resolved,25.0
+9393,3361,Transcript,2023-10-26,2023-10-27,Resolved,1.0
+9394,3361,Disciplinary,2023-09-06,2023-09-23,Resolved,17.0
+9395,3362,Disciplinary,2023-10-14,2023-10-15,Resolved,1.0
+9396,3364,Transcript,2023-09-27,2023-10-22,Resolved,25.0
+9397,3366,Academic Advising,2023-09-18,2023-09-27,Resolved,9.0
+9398,3366,Disciplinary,2023-09-30,2023-10-20,Resolved,20.0
+9399,3372,Disciplinary,2023-10-12,2023-10-14,Resolved,2.0
+9400,3380,Transcript,2023-10-20,2023-11-08,Resolved,19.0
+9401,3382,Disciplinary,2023-09-05,2023-09-13,Resolved,8.0
+9402,3382,Immunization,2023-10-26,2023-11-24,Resolved,29.0
+9403,3389,Disciplinary,2023-10-09,2023-10-22,Resolved,13.0
+9404,3393,Financial,2023-09-19,2023-09-22,Resolved,3.0
+9405,3393,Academic Advising,2023-10-08,2023-10-27,Resolved,19.0
+9406,3394,Transcript,2023-10-21,2023-10-28,Resolved,7.0
+9407,3394,Transcript,2023-10-23,2023-11-06,Resolved,14.0
+9408,3397,Transcript,2023-10-02,2023-10-16,Resolved,14.0
+9409,3399,Financial,2023-10-01,2023-10-23,Resolved,22.0
+9410,3399,Disciplinary,2023-10-01,2023-10-16,Resolved,15.0
+9411,3401,Disciplinary,2023-09-17,,Active,
+9412,3401,Disciplinary,2023-10-07,2023-10-26,Resolved,19.0
+9413,3402,Transcript,2023-10-04,2023-10-21,Resolved,17.0
+9414,3402,Financial,2023-10-07,2023-11-02,Resolved,26.0
+9415,3403,Transcript,2023-10-25,2023-11-07,Resolved,13.0
+9416,3403,Transcript,2023-10-13,2023-10-31,Resolved,18.0
+9417,3404,Transcript,2023-10-17,2023-10-21,Resolved,4.0
+9418,3409,Transcript,2023-10-15,2023-10-24,Resolved,9.0
+9419,3409,Academic Advising,2023-10-22,2023-11-18,Resolved,27.0
+9420,3411,Disciplinary,2023-10-28,2023-11-09,Resolved,12.0
+9421,3411,Academic Advising,2023-10-09,2023-10-23,Resolved,14.0
+9422,3412,Transcript,2023-09-08,2023-09-27,Resolved,19.0
+9423,3416,Immunization,2023-09-05,2023-09-27,Resolved,22.0
+9424,3418,Academic Advising,2023-09-15,2023-09-17,Resolved,2.0
+9425,3419,Academic Advising,2023-09-22,2023-10-08,Resolved,16.0
+9426,3424,Immunization,2023-10-17,,Active,
+9427,3425,Disciplinary,2023-10-04,2023-10-17,Resolved,13.0
+9428,3425,Academic Advising,2023-09-20,,Active,
+9429,3429,Immunization,2023-09-06,2023-09-07,Resolved,1.0
+9430,3433,Academic Advising,2023-10-03,,Active,
+9431,3435,Academic Advising,2023-09-04,2023-09-09,Resolved,5.0
+9432,3436,Immunization,2023-10-12,2023-10-15,Resolved,3.0
+9433,3436,Immunization,2023-10-19,2023-10-29,Resolved,10.0
+9434,3437,Financial,2023-09-28,2023-10-23,Resolved,25.0
+9435,3440,Transcript,2023-09-20,2023-10-11,Resolved,21.0
+9436,3441,Immunization,2023-10-22,2023-11-17,Resolved,26.0
+9437,3443,Disciplinary,2023-10-27,2023-11-18,Resolved,22.0
+9438,3451,Transcript,2023-09-10,2023-09-26,Resolved,16.0
+9439,3455,Immunization,2023-09-01,2023-09-02,Resolved,1.0
+9440,3458,Academic Advising,2023-09-26,2023-09-28,Resolved,2.0
+9441,3459,Transcript,2023-09-20,2023-09-30,Resolved,10.0
+9442,3459,Immunization,2023-09-28,2023-10-26,Resolved,28.0
+9443,3462,Immunization,2023-10-18,2023-11-13,Resolved,26.0
+9444,3463,Financial,2023-09-07,2023-09-27,Resolved,20.0
+9445,3464,Financial,2023-10-21,2023-11-16,Resolved,26.0
+9446,3466,Financial,2023-09-18,2023-09-26,Resolved,8.0
+9447,3466,Disciplinary,2023-10-10,2023-11-01,Resolved,22.0
+9448,3467,Academic Advising,2023-10-05,2023-10-12,Resolved,7.0
+9449,3467,Immunization,2023-09-15,2023-09-26,Resolved,11.0
+9450,3471,Academic Advising,2023-10-16,2023-11-03,Resolved,18.0
+9451,3471,Immunization,2023-10-04,2023-10-08,Resolved,4.0
+9452,3475,Disciplinary,2023-10-22,2023-11-09,Resolved,18.0
+9453,3475,Immunization,2023-10-10,2023-11-08,Resolved,29.0
+9454,3477,Academic Advising,2023-10-01,2023-10-16,Resolved,15.0
+9455,3477,Immunization,2023-10-10,,Active,
+9456,3480,Transcript,2023-09-28,2023-10-19,Resolved,21.0
+9457,3480,Immunization,2023-10-03,2023-10-05,Resolved,2.0
+9458,3482,Financial,2023-10-05,2023-10-23,Resolved,18.0
+9459,3483,Disciplinary,2023-09-28,2023-10-18,Resolved,20.0
+9460,3483,Transcript,2023-10-15,2023-11-04,Resolved,20.0
+9461,3484,Transcript,2023-10-06,2023-10-28,Resolved,22.0
+9462,3485,Disciplinary,2023-09-13,,Active,
+9463,3485,Transcript,2023-10-09,2023-10-16,Resolved,7.0
+9464,3486,Academic Advising,2023-09-12,2023-10-07,Resolved,25.0
+9465,3489,Immunization,2023-10-24,,Active,
+9466,3493,Academic Advising,2023-09-22,2023-10-13,Resolved,21.0
+9467,3493,Financial,2023-09-12,2023-09-29,Resolved,17.0
+9468,3500,Disciplinary,2023-09-19,2023-10-14,Resolved,25.0
+9469,3500,Transcript,2023-09-17,2023-10-09,Resolved,22.0
+9470,3501,Financial,2023-10-29,2023-11-13,Resolved,15.0
+9471,3503,Academic Advising,2023-09-26,2023-10-08,Resolved,12.0
+9472,3505,Transcript,2023-10-26,2023-10-29,Resolved,3.0
+9473,3505,Immunization,2023-09-23,2023-10-03,Resolved,10.0
+9474,3508,Immunization,2023-10-25,2023-11-20,Resolved,26.0
+9475,3508,Financial,2023-10-22,2023-10-26,Resolved,4.0
+9476,3509,Academic Advising,2023-09-21,,Active,
+9477,3512,Transcript,2023-10-15,,Active,
+9478,3512,Financial,2023-09-15,2023-10-06,Resolved,21.0
+9479,3513,Transcript,2023-09-03,2023-09-27,Resolved,24.0
+9480,3515,Academic Advising,2023-10-01,2023-10-22,Resolved,21.0
+9481,3515,Financial,2023-09-22,2023-10-20,Resolved,28.0
+9482,3516,Transcript,2023-10-29,2023-11-06,Resolved,8.0
+9483,3516,Transcript,2023-09-22,2023-10-07,Resolved,15.0
+9484,3522,Immunization,2023-09-28,2023-10-20,Resolved,22.0
+9485,3522,Financial,2023-10-26,2023-11-18,Resolved,23.0
+9486,3528,Disciplinary,2023-10-09,2023-10-26,Resolved,17.0
+9487,3529,Disciplinary,2023-10-25,2023-11-01,Resolved,7.0
+9488,3529,Transcript,2023-10-08,2023-10-29,Resolved,21.0
+9489,3531,Transcript,2023-10-02,2023-10-25,Resolved,23.0
+9490,3534,Transcript,2023-10-29,2023-11-01,Resolved,3.0
+9491,3540,Immunization,2023-09-08,2023-09-13,Resolved,5.0
+9492,3542,Immunization,2023-09-13,2023-09-23,Resolved,10.0
+9493,3544,Financial,2023-09-30,2023-10-11,Resolved,11.0
+9494,3544,Transcript,2023-10-11,2023-10-27,Resolved,16.0
+9495,3549,Disciplinary,2023-09-15,2023-09-16,Resolved,1.0
+9496,3550,Transcript,2023-10-30,,Active,
+9497,3551,Disciplinary,2023-09-22,2023-10-19,Resolved,27.0
+9498,3551,Immunization,2023-10-04,2023-10-16,Resolved,12.0
+9499,3553,Transcript,2023-09-02,,Active,
+9500,3553,Immunization,2023-10-22,2023-10-28,Resolved,6.0
+9501,3554,Immunization,2023-09-17,2023-09-20,Resolved,3.0
+9502,3554,Transcript,2023-10-27,2023-11-06,Resolved,10.0
+9503,3555,Disciplinary,2023-10-22,2023-11-14,Resolved,23.0
+9504,3555,Disciplinary,2023-09-29,2023-10-24,Resolved,25.0
+9505,3564,Immunization,2023-09-17,2023-09-25,Resolved,8.0
+9506,3564,Academic Advising,2023-09-07,2023-09-30,Resolved,23.0
+9507,3565,Immunization,2023-09-02,2023-09-21,Resolved,19.0
+9508,3567,Transcript,2023-09-25,2023-10-06,Resolved,11.0
+9509,3567,Immunization,2023-09-02,2023-09-14,Resolved,12.0
+9510,3576,Financial,2023-10-08,2023-10-20,Resolved,12.0
+9511,3579,Financial,2023-10-07,2023-10-29,Resolved,22.0
+9512,3579,Financial,2023-10-18,2023-10-30,Resolved,12.0
+9513,3582,Academic Advising,2023-09-16,2023-09-17,Resolved,1.0
+9514,3583,Academic Advising,2023-10-15,2023-10-31,Resolved,16.0
+9515,3583,Financial,2023-10-21,2023-10-25,Resolved,4.0
+9516,3584,Immunization,2023-10-04,,Active,
+9517,3584,Transcript,2023-10-26,2023-11-21,Resolved,26.0
+9518,3586,Immunization,2023-10-20,2023-10-25,Resolved,5.0
+9519,3588,Financial,2023-09-12,2023-10-01,Resolved,19.0
+9520,3590,Financial,2023-09-01,,Active,
+9521,3591,Academic Advising,2023-09-23,2023-10-21,Resolved,28.0
+9522,3591,Immunization,2023-10-08,2023-10-30,Resolved,22.0
+9523,3594,Transcript,2023-10-14,,Active,
+9524,3594,Disciplinary,2023-10-25,2023-11-23,Resolved,29.0
+9525,3597,Disciplinary,2023-10-14,2023-10-18,Resolved,4.0
+9526,3599,Immunization,2023-10-08,2023-10-14,Resolved,6.0
+9527,3599,Immunization,2023-09-27,,Active,
+9528,3601,Immunization,2023-10-05,2023-11-03,Resolved,29.0
+9529,3601,Transcript,2023-09-27,2023-10-13,Resolved,16.0
+9530,3602,Immunization,2023-09-08,2023-10-05,Resolved,27.0
+9531,3602,Transcript,2023-09-06,,Active,
+9532,3604,Disciplinary,2023-10-27,2023-11-02,Resolved,6.0
+9533,3604,Transcript,2023-09-02,2023-09-09,Resolved,7.0
+9534,3606,Financial,2023-09-15,2023-10-06,Resolved,21.0
+9535,3606,Disciplinary,2023-09-28,2023-10-11,Resolved,13.0
+9536,3607,Disciplinary,2023-09-17,2023-09-22,Resolved,5.0
+9537,3612,Immunization,2023-10-11,2023-10-20,Resolved,9.0
+9538,3612,Transcript,2023-09-20,2023-10-01,Resolved,11.0
+9539,3620,Academic Advising,2023-10-07,,Active,
+9540,3622,Disciplinary,2023-10-30,2023-11-16,Resolved,17.0
+9541,3623,Financial,2023-09-10,2023-09-22,Resolved,12.0
+9542,3623,Academic Advising,2023-10-03,2023-11-01,Resolved,29.0
+9543,3626,Transcript,2023-09-12,2023-10-02,Resolved,20.0
+9544,3628,Disciplinary,2023-10-24,2023-10-28,Resolved,4.0
+9545,3628,Immunization,2023-10-06,2023-10-28,Resolved,22.0
+9546,3631,Disciplinary,2023-09-14,,Active,
+9547,3631,Transcript,2023-09-19,2023-09-30,Resolved,11.0
+9548,3640,Transcript,2023-09-08,2023-10-03,Resolved,25.0
+9549,3641,Financial,2023-09-10,,Active,
+9550,3641,Immunization,2023-10-11,2023-11-06,Resolved,26.0
+9551,3646,Transcript,2023-10-16,2023-10-19,Resolved,3.0
+9552,3648,Transcript,2023-10-28,2023-11-25,Resolved,28.0
+9553,3650,Financial,2023-09-30,2023-10-05,Resolved,5.0
+9554,3650,Transcript,2023-10-02,2023-10-23,Resolved,21.0
+9555,3653,Disciplinary,2023-09-24,2023-09-30,Resolved,6.0
+9556,3654,Financial,2023-09-08,,Active,
+9557,3655,Transcript,2023-10-02,2023-10-15,Resolved,13.0
+9558,3661,Immunization,2023-10-05,2023-10-26,Resolved,21.0
+9559,3661,Financial,2023-09-30,2023-10-17,Resolved,17.0
+9560,3663,Transcript,2023-10-01,2023-10-18,Resolved,17.0
+9561,3667,Academic Advising,2023-10-29,2023-11-03,Resolved,5.0
+9562,3667,Disciplinary,2023-09-30,2023-10-22,Resolved,22.0
+9563,3668,Immunization,2023-10-03,2023-10-22,Resolved,19.0
+9564,3671,Academic Advising,2023-10-15,2023-10-16,Resolved,1.0
+9565,3675,Financial,2023-09-05,,Active,
+9566,3675,Transcript,2023-09-11,2023-10-05,Resolved,24.0
+9567,3678,Academic Advising,2023-09-08,,Active,
+9568,3678,Disciplinary,2023-10-26,2023-11-17,Resolved,22.0
+9569,3685,Disciplinary,2023-09-02,2023-09-25,Resolved,23.0
+9570,3685,Transcript,2023-09-08,,Active,
+9571,3690,Financial,2023-09-11,2023-09-27,Resolved,16.0
+9572,3690,Transcript,2023-10-21,2023-11-06,Resolved,16.0
+9573,3692,Transcript,2023-10-14,2023-10-18,Resolved,4.0
+9574,3696,Disciplinary,2023-10-28,,Active,
+9575,3702,Financial,2023-09-20,2023-09-21,Resolved,1.0
+9576,3703,Academic Advising,2023-09-17,2023-10-10,Resolved,23.0
+9577,3703,Financial,2023-09-12,2023-09-25,Resolved,13.0
+9578,3704,Academic Advising,2023-09-12,2023-10-07,Resolved,25.0
+9579,3704,Academic Advising,2023-10-09,2023-10-28,Resolved,19.0
+9580,3706,Financial,2023-09-05,2023-09-06,Resolved,1.0
+9581,3706,Disciplinary,2023-09-24,2023-10-02,Resolved,8.0
+9582,3713,Transcript,2023-09-12,2023-09-20,Resolved,8.0
+9583,3714,Transcript,2023-10-28,2023-11-26,Resolved,29.0
+9584,3714,Financial,2023-10-04,2023-10-22,Resolved,18.0
+9585,3716,Immunization,2023-10-17,2023-10-29,Resolved,12.0
+9586,3719,Immunization,2023-10-22,,Active,
+9587,3720,Immunization,2023-10-12,2023-10-28,Resolved,16.0
+9588,3720,Financial,2023-10-10,2023-11-01,Resolved,22.0
+9589,3722,Academic Advising,2023-10-24,,Active,
+9590,3722,Academic Advising,2023-10-07,2023-10-27,Resolved,20.0
+9591,3729,Academic Advising,2023-09-04,2023-09-20,Resolved,16.0
+9592,3729,Disciplinary,2023-09-24,2023-10-08,Resolved,14.0
+9593,3730,Immunization,2023-10-01,2023-10-05,Resolved,4.0
+9594,3733,Transcript,2023-10-04,2023-10-10,Resolved,6.0
+9595,3733,Immunization,2023-09-08,2023-09-20,Resolved,12.0
+9596,3735,Academic Advising,2023-10-23,,Active,
+9597,3739,Financial,2023-10-20,2023-11-07,Resolved,18.0
+9598,3744,Academic Advising,2023-09-22,2023-10-06,Resolved,14.0
+9599,3744,Disciplinary,2023-10-15,2023-10-30,Resolved,15.0
+9600,3745,Disciplinary,2023-09-04,2023-09-08,Resolved,4.0
+9601,3747,Immunization,2023-09-12,,Active,
+9602,3750,Transcript,2023-10-14,2023-11-03,Resolved,20.0
+9603,3750,Financial,2023-10-14,2023-10-17,Resolved,3.0
+9604,3751,Financial,2023-10-24,2023-11-15,Resolved,22.0
+9605,3752,Academic Advising,2023-09-09,2023-09-23,Resolved,14.0
+9606,3752,Transcript,2023-10-05,,Active,
+9607,3756,Disciplinary,2023-10-08,2023-10-20,Resolved,12.0
+9608,3756,Academic Advising,2023-09-03,2023-09-17,Resolved,14.0
+9609,3763,Immunization,2023-09-04,2023-09-19,Resolved,15.0
+9610,3769,Academic Advising,2023-10-09,2023-10-28,Resolved,19.0
+9611,3769,Immunization,2023-09-13,2023-10-06,Resolved,23.0
+9612,3772,Transcript,2023-10-19,2023-11-05,Resolved,17.0
+9613,3779,Academic Advising,2023-09-07,2023-09-27,Resolved,20.0
+9614,3779,Financial,2023-09-22,2023-10-19,Resolved,27.0
+9615,3783,Immunization,2023-10-12,2023-11-04,Resolved,23.0
+9616,3783,Transcript,2023-09-22,2023-09-30,Resolved,8.0
+9617,3785,Academic Advising,2023-10-25,2023-11-07,Resolved,13.0
+9618,3785,Academic Advising,2023-10-18,,Active,
+9619,3786,Disciplinary,2023-09-04,2023-09-15,Resolved,11.0
+9620,3786,Immunization,2023-10-21,,Active,
+9621,3789,Academic Advising,2023-10-14,,Active,
+9622,3789,Transcript,2023-09-21,,Active,
+9623,3791,Immunization,2023-09-20,2023-10-11,Resolved,21.0
+9624,3791,Transcript,2023-10-06,2023-10-25,Resolved,19.0
+9625,3795,Academic Advising,2023-09-15,2023-09-28,Resolved,13.0
+9626,3795,Disciplinary,2023-10-23,2023-11-20,Resolved,28.0
+9627,3800,Disciplinary,2023-10-11,,Active,
+9628,3800,Immunization,2023-10-19,2023-11-13,Resolved,25.0
+9629,3808,Disciplinary,2023-10-18,2023-10-27,Resolved,9.0
+9630,3808,Financial,2023-09-30,,Active,
+9631,3810,Immunization,2023-09-28,2023-10-03,Resolved,5.0
+9632,3810,Disciplinary,2023-10-19,,Active,
+9633,3811,Transcript,2023-10-06,2023-10-27,Resolved,21.0
+9634,3811,Disciplinary,2023-09-07,2023-09-15,Resolved,8.0
+9635,3813,Academic Advising,2023-09-29,2023-10-28,Resolved,29.0
+9636,3813,Academic Advising,2023-09-05,2023-09-22,Resolved,17.0
+9637,3814,Academic Advising,2023-10-08,2023-10-18,Resolved,10.0
+9638,3815,Transcript,2023-10-02,2023-10-07,Resolved,5.0
+9639,3816,Immunization,2023-10-12,2023-10-28,Resolved,16.0
+9640,3818,Transcript,2023-10-21,2023-10-22,Resolved,1.0
+9641,3819,Immunization,2023-09-15,,Active,
+9642,3819,Academic Advising,2023-09-24,2023-10-22,Resolved,28.0
+9643,3823,Immunization,2023-10-03,2023-10-19,Resolved,16.0
+9644,3824,Immunization,2023-09-24,2023-09-30,Resolved,6.0
+9645,3824,Academic Advising,2023-09-06,2023-09-16,Resolved,10.0
+9646,3827,Disciplinary,2023-09-28,2023-10-25,Resolved,27.0
+9647,3827,Financial,2023-10-09,2023-10-26,Resolved,17.0
+9648,3830,Transcript,2023-09-28,2023-10-23,Resolved,25.0
+9649,3832,Immunization,2023-09-24,2023-10-19,Resolved,25.0
+9650,3834,Immunization,2023-10-16,2023-11-01,Resolved,16.0
+9651,3835,Academic Advising,2023-09-05,2023-09-19,Resolved,14.0
+9652,3835,Disciplinary,2023-10-30,2023-11-09,Resolved,10.0
+9653,3837,Academic Advising,2023-09-26,,Active,
+9654,3837,Transcript,2023-10-11,2023-10-15,Resolved,4.0
+9655,3841,Disciplinary,2023-09-02,2023-09-16,Resolved,14.0
+9656,3842,Financial,2023-09-23,2023-09-30,Resolved,7.0
+9657,3842,Transcript,2023-10-11,,Active,
+9658,3844,Disciplinary,2023-10-23,2023-11-16,Resolved,24.0
+9659,3845,Academic Advising,2023-10-02,2023-10-06,Resolved,4.0
+9660,3845,Financial,2023-09-27,2023-10-18,Resolved,21.0
+9661,3846,Immunization,2023-10-08,2023-10-09,Resolved,1.0
+9662,3851,Disciplinary,2023-10-05,2023-10-28,Resolved,23.0
+9663,3851,Academic Advising,2023-09-22,2023-09-29,Resolved,7.0
+9664,3852,Transcript,2023-09-02,2023-09-13,Resolved,11.0
+9665,3852,Immunization,2023-10-07,,Active,
+9666,3853,Transcript,2023-09-26,2023-10-13,Resolved,17.0
+9667,3853,Immunization,2023-09-14,2023-09-30,Resolved,16.0
+9668,3854,Transcript,2023-10-21,2023-10-25,Resolved,4.0
+9669,3859,Transcript,2023-10-23,2023-11-12,Resolved,20.0
+9670,3859,Transcript,2023-09-25,2023-10-20,Resolved,25.0
+9671,3860,Immunization,2023-10-07,2023-10-18,Resolved,11.0
+9672,3862,Disciplinary,2023-09-02,2023-09-24,Resolved,22.0
+9673,3864,Academic Advising,2023-09-13,2023-09-18,Resolved,5.0
+9674,3864,Immunization,2023-09-29,,Active,
+9675,3866,Transcript,2023-09-28,2023-10-03,Resolved,5.0
+9676,3871,Disciplinary,2023-10-09,2023-10-19,Resolved,10.0
+9677,3871,Disciplinary,2023-09-02,2023-09-03,Resolved,1.0
+9678,3874,Financial,2023-09-04,2023-09-19,Resolved,15.0
+9679,3874,Financial,2023-09-07,2023-09-12,Resolved,5.0
+9680,3876,Financial,2023-09-07,2023-09-11,Resolved,4.0
+9681,3876,Immunization,2023-09-12,2023-10-09,Resolved,27.0
+9682,3877,Transcript,2023-10-11,2023-11-01,Resolved,21.0
+9683,3878,Transcript,2023-10-07,2023-10-15,Resolved,8.0
+9684,3878,Immunization,2023-10-15,2023-10-16,Resolved,1.0
+9685,3879,Immunization,2023-10-15,,Active,
+9686,3879,Academic Advising,2023-09-19,2023-09-30,Resolved,11.0
+9687,3882,Financial,2023-09-08,,Active,
+9688,3883,Academic Advising,2023-10-10,2023-11-06,Resolved,27.0
+9689,3887,Academic Advising,2023-10-15,2023-11-11,Resolved,27.0
+9690,3888,Financial,2023-09-09,2023-09-29,Resolved,20.0
+9691,3889,Immunization,2023-09-18,,Active,
+9692,3889,Financial,2023-09-06,2023-09-17,Resolved,11.0
+9693,3891,Transcript,2023-10-03,2023-10-04,Resolved,1.0
+9694,3891,Academic Advising,2023-09-05,2023-09-21,Resolved,16.0
+9695,3892,Financial,2023-09-02,2023-09-07,Resolved,5.0
+9696,3892,Transcript,2023-10-29,,Active,
+9697,3894,Academic Advising,2023-09-25,2023-10-14,Resolved,19.0
+9698,3899,Academic Advising,2023-09-08,,Active,
+9699,3899,Transcript,2023-09-11,2023-09-24,Resolved,13.0
+9700,3904,Financial,2023-09-05,2023-09-23,Resolved,18.0
+9701,3909,Disciplinary,2023-10-22,2023-11-05,Resolved,14.0
+9702,3909,Academic Advising,2023-09-22,2023-10-08,Resolved,16.0
+9703,3910,Financial,2023-10-25,2023-11-23,Resolved,29.0
+9704,3911,Financial,2023-10-20,2023-11-16,Resolved,27.0
+9705,3912,Transcript,2023-09-10,2023-09-18,Resolved,8.0
+9706,3919,Immunization,2023-10-28,2023-11-22,Resolved,25.0
+9707,3927,Immunization,2023-09-20,2023-09-30,Resolved,10.0
+9708,3927,Disciplinary,2023-10-03,2023-10-10,Resolved,7.0
+9709,3934,Transcript,2023-10-16,2023-11-07,Resolved,22.0
+9710,3934,Immunization,2023-09-17,2023-09-26,Resolved,9.0
+9711,3935,Academic Advising,2023-10-06,2023-10-11,Resolved,5.0
+9712,3935,Academic Advising,2023-09-06,2023-09-16,Resolved,10.0
+9713,3936,Transcript,2023-10-13,2023-11-06,Resolved,24.0
+9714,3936,Disciplinary,2023-09-28,2023-10-24,Resolved,26.0
+9715,3938,Academic Advising,2023-09-04,2023-09-12,Resolved,8.0
+9716,3939,Academic Advising,2023-10-02,2023-10-21,Resolved,19.0
+9717,3942,Financial,2023-09-02,2023-09-28,Resolved,26.0
+9718,3945,Financial,2023-10-11,2023-10-19,Resolved,8.0
+9719,3946,Academic Advising,2023-09-17,2023-10-05,Resolved,18.0
+9720,3948,Academic Advising,2023-10-24,2023-11-10,Resolved,17.0
+9721,3948,Transcript,2023-10-02,2023-10-09,Resolved,7.0
+9722,3951,Disciplinary,2023-10-30,2023-11-08,Resolved,9.0
+9723,3955,Immunization,2023-10-22,2023-11-12,Resolved,21.0
+9724,3955,Disciplinary,2023-10-20,2023-11-18,Resolved,29.0
+9725,3956,Academic Advising,2023-09-17,2023-09-24,Resolved,7.0
+9726,3959,Disciplinary,2023-10-24,,Active,
+9727,3959,Financial,2023-09-16,2023-10-05,Resolved,19.0
+9728,3963,Academic Advising,2023-10-04,2023-10-30,Resolved,26.0
+9729,3966,Transcript,2023-09-21,2023-09-22,Resolved,1.0
+9730,3972,Immunization,2023-09-11,2023-10-05,Resolved,24.0
+9731,3973,Immunization,2023-09-14,2023-10-12,Resolved,28.0
+9732,3973,Immunization,2023-09-22,2023-10-13,Resolved,21.0
+9733,3975,Immunization,2023-09-24,2023-10-20,Resolved,26.0
+9734,3975,Financial,2023-10-15,,Active,
+9735,3977,Disciplinary,2023-09-10,2023-09-29,Resolved,19.0
+9736,3977,Immunization,2023-09-24,2023-10-18,Resolved,24.0
+9737,3980,Financial,2023-10-05,2023-10-11,Resolved,6.0
+9738,3980,Transcript,2023-09-15,2023-10-08,Resolved,23.0
+9739,3981,Immunization,2023-10-08,2023-11-06,Resolved,29.0
+9740,3985,Transcript,2023-09-12,2023-10-09,Resolved,27.0
+9741,3985,Transcript,2023-09-21,2023-09-30,Resolved,9.0
+9742,3991,Academic Advising,2023-10-07,2023-10-28,Resolved,21.0
+9743,3992,Academic Advising,2023-10-08,,Active,
+9744,3992,Disciplinary,2023-10-07,,Active,
+9745,3994,Immunization,2023-10-10,2023-10-31,Resolved,21.0
+9746,3997,Immunization,2023-10-16,,Active,
+9747,3997,Disciplinary,2023-09-15,2023-09-24,Resolved,9.0
