@@ -170,4 +170,4 @@ To recreate the dashboard in Power BI or Tableau:
 
 ---
 *Created as a professional portfolio project to showcase Data Analysis, SQL, and Business Intelligence skills.*
-*Author: Sharadha Karthikeyan*
+## *Author: Sharadha Karthikeyan*
