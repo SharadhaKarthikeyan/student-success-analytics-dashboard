@@ -1,1 +1,0 @@
-End-to-end student success analytics project using SQL, Python, synthetic university workflow data, and dashboard-ready datasets to identify dropout risk, enrollment bottlenecks, placement test patterns, and advising intervention impact. Designed for data analyst portfolio demonstration.
