@@ -121,7 +121,7 @@ Visualizing the results of student support efforts.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-success-analytics-dashboard.git
+   git clone https://github.com/SharadhaKarthikeyan/student-success-analytics-dashboard.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -170,4 +170,4 @@ To recreate the dashboard in Power BI or Tableau:
 
 ---
 *Created as a professional portfolio project to showcase Data Analysis, SQL, and Business Intelligence skills.*
-*Author: [Your Name]*
+*Author: Sharadha Karthikeyan*
