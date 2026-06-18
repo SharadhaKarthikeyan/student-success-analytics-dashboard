@@ -15,6 +15,6 @@ As a Data Analyst, I wanted to showcase how data-driven insights can directly im
 - Students with unresolved financial or academic holds for over 10 days were 3.5x more likely to drop out.
 - Proactive advising interventions for high-risk students in their first semester improved retention by over 20%.
 
-Check out the full project on GitHub: [Your GitHub Link Here]
+Check out the full project on GitHub:Check out the full project on GitHub: https://github.com/SharadhaKarthikeyan/student-success-analytics-dashboard
 
 #DataAnalytics #StudentSuccess #SQL #Python #PowerBI #PortfolioProject #HigherEducation #DataScience
