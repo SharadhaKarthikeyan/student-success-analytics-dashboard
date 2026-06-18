@@ -199,32 +199,6 @@ def generate_course_enrollment(student_ids, students_df, intervention_ids_set, h
     df.to_csv(os.path.join(SYNTHETIC_DIR, 'course_enrollment.csv'), index=False)
     return df
 
-def mock_uci_dataset():
-    # Creating a minimal mock of the UCI dataset to allow scripts to run
-    # Columns based on common UCI student success dataset features
-    cols = ['Marital status', 'Application mode', 'Application order', 'Course',
-            'Daytime/evening attendance', 'Previous qualification', 'Nacionality',
-            'Mother\'s qualification', 'Father\'s qualification', 'Mother\'s occupation',
-            'Father\'s occupation', 'Displaced', 'Educational special needs', 'Debtor',
-            'Tuition fees up to date', 'Gender', 'Scholarship holder', 'Age at enrollment',
-            'International', 'Curricular units 1st sem (credited)',
-            'Curricular units 1st sem (enrolled)', 'Curricular units 1st sem (evaluations)',
-            'Curricular units 1st sem (approved)', 'Curricular units 1st sem (grade)',
-            'Curricular units 1st sem (without evaluations)',
-            'Curricular units 2nd sem (credited)', 'Curricular units 2nd sem (enrolled)',
-            'Curricular units 2nd sem (evaluations)', 'Curricular units 2nd sem (approved)',
-            'Curricular units 2nd sem (grade)', 'Curricular units 2nd sem (without evaluations)',
-            'Unemployment rate', 'Inflation rate', 'GDP', 'Target']
-    
-    n = 1000
-    data = {c: np.random.randint(0, 5, size=n) for c in cols}
-    data['Target'] = np.random.choice(['Dropout', 'Enrolled', 'Graduate'], size=n)
-    data['Age at enrollment'] = np.random.randint(18, 50, size=n)
-    
-    df = pd.DataFrame(data)
-    df.to_csv(os.path.join(RAW_DIR, 'student_success_uci.csv'), index=False)
-    print("Mock UCI dataset created at data/raw/student_success_uci.csv")
-
 if __name__ == "__main__":
     print("Generating synthetic university data...")
     ids, s_df = generate_students(3000)
@@ -235,5 +209,4 @@ if __name__ == "__main__":
     intervention_ids_set = set(i_df['student_id'].unique())
     generate_course_enrollment(ids, s_df, intervention_ids_set, h_df)
     
-    mock_uci_dataset()
     print("All synthetic datasets generated successfully!")

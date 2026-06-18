@@ -38,7 +38,7 @@ To build a multi-layered data analytics solution that:
     - **Course Enrollment:** Registration patterns and final grades.
 
 > [!IMPORTANT]
-> The administrative data (holds, interventions, placement, activity) in this project is **synthetic** and created for demonstration purposes. Academic performance trends are based on the UCI dataset.
+> This project uses the public UCI Predict Students’ Dropout and Academic Success dataset for student outcome analysis and synthetic university workflow data for placement testing, enrollment holds, advising interventions, and course enrollment analysis.
 
 ## Tools and Technologies
 - **Python:** Data processing (Pandas, Numpy) and visualization (Matplotlib, Seaborn).
@@ -133,6 +133,10 @@ Visualizing the results of student support efforts.
    ```
 
 ### Running Python Scripts
+
+> [!IMPORTANT]
+> Before running the full pipeline, download the UCI dataset and place it at data/raw/student_success_uci.csv. (Refer to [data/README.md](file:///c:/Users/karth/OneDrive/Documents/Projects/student-success-analytics-dashboard/data/README.md) or [data/raw/README.md](file:///c:/Users/karth/OneDrive/Documents/Projects/student-success-analytics-dashboard/data/raw/README.md) for download instructions).
+
 Execute the data pipeline in order:
 ```bash
 python src/generate_synthetic_data.py   # Generate university records

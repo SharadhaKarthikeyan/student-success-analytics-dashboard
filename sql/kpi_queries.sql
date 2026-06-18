@@ -17,7 +17,7 @@ WHERE status = 'Resolved';
 SELECT ROUND(SUM(CASE WHEN passed_flag = 'Yes' THEN 1 ELSE 0 END) * 100.0 / COUNT(*), 2) as kpi_test_pass_rate
 FROM placement_tests;
 
--- KPI: Average GPA (Mocked conversion for analysis)
+-- KPI: Average GPA (Estimated conversion for analysis)
 SELECT ROUND(AVG(CASE WHEN gpa_band = 'High' THEN 3.8 WHEN gpa_band = 'Medium' THEN 3.0 ELSE 2.0 END), 2) as kpi_est_avg_gpa
 FROM students;
 
